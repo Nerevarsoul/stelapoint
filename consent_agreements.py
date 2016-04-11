@@ -13,7 +13,7 @@ def _get_scrape_urls():
     url = _base_url
 
     doc = BeautifulSoup(helpers.fetch_string(url, cache_hours=6), "html.parser")
-    div = doc.find_all("div", id="print_content")
+    div = doc.find("div", id="print_content")
     uls = div.find_all('ul')
 
     for ul in uls:
