@@ -57,7 +57,7 @@ def _generate_entities():
 
 def main():
     for entity in _generate_entities():
-        helpers.emit(entity)
+        helpers.check(entity)
 
 
 if __name__ == "__main__":
