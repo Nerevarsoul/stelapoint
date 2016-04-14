@@ -42,11 +42,11 @@ def _generate_entities():
             spans = sub.find_all('span')
             if spans:
                 published = get_date(spans[0].get_text().strip())
-                modified = get_date(spans[0].get_text().strip())
+                modified = get_date(spans[1].get_text().strip())
             else:
                 sub = sub.get_text().strip()
-                published = get_date(sub[-10:])
-                modified = get_date(sub[11:21])
+                published = get_date(sub[11:21])
+                modified = get_date(sub[-10:])
 
             if any(company in name.lower() for company in companies):
                 entity_type = "company"
