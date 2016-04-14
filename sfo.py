@@ -80,8 +80,10 @@ def _generate_entities():
         for custom_field in custom_fields:
             field_name = custom_field.get_text().strip()
             if field_name == 'Defendants':
-                values = section.find_all('div', class_="chargeCharge")
-                field_value = ' '.join([value.get_text().strip() for value in values])
+                values1 = section.find_all('div', class_="chargeDefendant")
+                values2 = section.find_all('div', class_="chargeCharge")
+                value = zip(values1, values2)
+                field_value = ' '.join([value[0].get_text().strip() + ' ' + value[1].get_text().strip() for value in values])
             else:
                 field_value = custom_field.find_next_sibling('p').get_text().strip()
             fields.append({"tag": field_name, "value": field_value})
