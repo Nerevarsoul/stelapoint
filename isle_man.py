@@ -39,7 +39,7 @@ def _get_scrape_urls():
     house = doc.find('div', id='div_47793ec9-3449-46a3-9095-f2eb8c475846')
 
     council_lis = council.find_all("div", class_="link-item")
-    house_lis = house.find_all("div", class_="dfwp-item")
+    house_lis = house.find_all("li", class_="dfwp-item")
 
     for li in council_lis:
         person = li.find("a")
@@ -50,7 +50,10 @@ def _get_scrape_urls():
         yield entity
 
     for li in house_lis:
-        parish = li.find("div", class_="groupheader").get_text().strip()
+        try:             
+            parish = li.find("div", class_="groupheader").get_text().strip()
+        except AttributeError:
+            continue
         all_div = li.find_all("div", class_="link-item")
         for div in all_div: 
             person = div.find("a")
