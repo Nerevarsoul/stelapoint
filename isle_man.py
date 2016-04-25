@@ -60,7 +60,8 @@ def _get_scrape_urls():
             link = person["href"]
             name = _get_name(person.get_text())
             office = "House of Keys"
-            entity = _generate_entities(link, name, office, parish)
+            years_active = None
+            entity = _generate_entities(link, name, office, years_active, parish)
             yield entity
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url2), "html.parser")
