@@ -1,0 +1,1386 @@
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/alstom-network-uk-ltd-alstom-power-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into the alleged payment of bribes by British companies within the Alstom group. Six individuals and two companies have been charged with corruption offences in three criminal trials under the Prevention of Corruption Act 1906 and offences of conspiracy to corrupt under the Criminal Law Act 1977. In September 2014, charges were brought against Alstom Network UK Ltd (formerly Alstom International Ltd) relating to transport projects in India, Poland and Tunisia. The offences are alleged to have been committed between August 2000 and August 2006. Subsequently, company executives Robert John Hallett and Graham Denis Hill were charged with the same offences. The trial is expected to start at Southwark Crown Court\u00a0on 23\u00a0May 2016. In December 2014 charges were brought against Alstom Power Ltd, Nicholas Paul Reynolds and John Venskus, who is being prosecuted under his real name Johanes Villi Venskus. These alleged offences were committed between February 2002 and March 2010 and concern refurbishment of the Lithuanian Power Plant. The trial is expected to start at Southwark Crown Court on 9 Jan 2017. In May 2014 charges were brought against Michael John Anderson, Jean-Daniel Lain\u00e9 and Alstom Network UK Ltd, for alleged offences committed between January 2006 and October 2007. These charges relate to the supply of trains to the Budapest Metro in Hungary. The trial is expected to start at Southwark Crown Court on\u00a015 May 2017."
+        }
+    ],
+    "_meta": {
+        "id": "AlstomNetworkUKLtd",
+        "entity_type": "company"
+    },
+    "name": "Alstom Network UK Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/alstom-network-uk-ltd-alstom-power-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into the alleged payment of bribes by British companies within the Alstom group. Six individuals and two companies have been charged with corruption offences in three criminal trials under the Prevention of Corruption Act 1906 and offences of conspiracy to corrupt under the Criminal Law Act 1977. In September 2014, charges were brought against Alstom Network UK Ltd (formerly Alstom International Ltd) relating to transport projects in India, Poland and Tunisia. The offences are alleged to have been committed between August 2000 and August 2006. Subsequently, company executives Robert John Hallett and Graham Denis Hill were charged with the same offences. The trial is expected to start at Southwark Crown Court\u00a0on 23\u00a0May 2016. In December 2014 charges were brought against Alstom Power Ltd, Nicholas Paul Reynolds and John Venskus, who is being prosecuted under his real name Johanes Villi Venskus. These alleged offences were committed between February 2002 and March 2010 and concern refurbishment of the Lithuanian Power Plant. The trial is expected to start at Southwark Crown Court on 9 Jan 2017. In May 2014 charges were brought against Michael John Anderson, Jean-Daniel Lain\u00e9 and Alstom Network UK Ltd, for alleged offences committed between January 2006 and October 2007. These charges relate to the supply of trains to the Budapest Metro in Hungary. The trial is expected to start at Southwark Crown Court on\u00a015 May 2017."
+        }
+    ],
+    "_meta": {
+        "id": "AlstomPowerLtd",
+        "entity_type": "company"
+    },
+    "name": "Alstom Power Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/arboretum-sports-uk-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO, in conjunction with Hampshire Police\u2019s Serious and Organised Crime Group, investigated the affairs of Arboretum Sports (UK) Limited. The company ran, under the guise of an Arbitrage gambling scheme, what was in fact a Ponzi fraud between January 2004 and December 2010. David Gerald Dixon created the scheme through Arboretum Sports (UK) Limited and Arboretum Sports (USA) Incorporated. Through those companies, collectively referred to as \u2018Arboretum Sports\u2019, victims were induced into placing money into what they were told was a no-risk gambling syndicate with the potential for dramatic rates of return. In reality, the scheme was a dishonest vehicle for Mr Dixon to appropriate the funds of its members. Arboretum Sports (UK) Ltd went into liquidation in 2007, and shortly thereafter Mr Dixon fled to Malaysia. He was arrested by the Royal Malaysian Police in September 2014 and extradited to the UK. Mr Dixon was charged with 13 counts of multi-million pound fraud in September 2014. He pleaded guilty to five of the counts on 23 March 2015. He was sentenced to three years and 10 months\u2019 custody on each count, to run concurrently, and has been disqualified from serving as a company director for 10 years. Confiscation proceedings commenced in February 2016. The next confiscation hearing is scheduled to continue on 1 August 2016 at Southwark Crown Court."
+        },
+        {
+            "value": "The SFO has been contacting investors who have provided information in connection with this case. Investors in Arboretum Sports (UK Ltd) who have not heard directly from the SFO should email the case team and provide their contact details for further information. The SFO wishes to thank those who have assisted the investigation.",
+            "tag": "Call for victims"
+        },
+        {
+            "value": "David Gerald Dixon Four charges of contravening the general prohibition on carrying on a regulated activity contrary to Sections 19 and 23 of the Financial Services and Markets Act 2000",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "ArboretumSportsLtd",
+        "entity_type": "company"
+    },
+    "name": "Arboretum Sports  Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/arck-llp/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "A joint investigation by the SFO and Nottinghamshire police led to two former partners of Arck LLP, Kathryn Joy Clark from Nottingham and Richard Aston Clay from Leicestershire, being charged in November 2013 with fraud and forgery offences. Kathryn Clark and Richard Clay pleaded guilty to fraud and forgery offences in 2014. Arck LLP created and marketed financial products including property development in Cape Verde. The scam defrauded investors of their money, in some cases their pension monies and life savings. It is estimated that approximately \u00a350m was invested in these products by individual investors and, in some cases, Independent Financial Advisers themselves."
+        },
+        {
+            "value": "The SFO would like to thank all those investors who have completed our online questionnaire. This questionnaire has now been deactivated but anyone who believes that they have further information which may be useful can contact the SFO at bij01@sfo.gsi.gov.uk.\u00a0Please do not leave anonymous information \u2013 any information received will be treated in strict confidence. Please include the case reference (\u201cBIJ01\u201d) in the subject header of your e-mail to ensure it comes to our attention promptly.",
+            "tag": "Call for evidence"
+        },
+        {
+            "value": "Richard Clay Fraud by misrepresentation offence Kathryn Clark Fraud by misrepresentation and forgery offences",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Richard Clay pleaded guilty to three counts of fraud in December 2014, while Kathryn Clark pleaded guilty in July and October 2014 to three counts of fraud and two counts of forgery.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "The SFO has applied for a confiscation order and a compensation order in this case \u2013 the Judge will decide whether to grant compensation to the victims of these frauds and, if so, ascertain how much may be available against the criminal benefit. The next confiscation-related court hearing is due to take place on 9 May 2016 at Southwark Crown Court.",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "ArckLLP",
+        "entity_type": "company"
+    },
+    "name": "Arck LLP"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/bank-england-liquidity-auctions/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is investigating material referred to it by the Bank of England concerning liquidity auctions during the financial crisis in 2007 and 2008. The material is the result of an independent inquiry that the Bank of England commissioned into this matter. It was referred to the SFO in November 2014 and the investigation was opened the following month."
+        }
+    ],
+    "_meta": {
+        "id": "BankofEnglandliquidityauctions",
+        "entity_type": "company"
+    },
+    "name": "Bank of England liquidity auctions"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/barclays-bank-qatar-holding/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into certain commercial arrangements between Barclays Bank and Qatar Holding in 2008."
+        }
+    ],
+    "_meta": {
+        "id": "BarclaysBankPLC",
+        "entity_type": "company"
+    },
+    "name": "Barclays Bank PLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/barclays-bank-qatar-holding/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into certain commercial arrangements between Barclays Bank and Qatar Holding in 2008."
+        }
+    ],
+    "_meta": {
+        "id": "QatarHoldingLLC",
+        "entity_type": "company"
+    },
+    "name": "Qatar Holding LLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/chad-oil/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Chad Oil \u2013 UK property freezing order On the 29 July 2014 the SFO obtained a Property Freezing Order to freeze \u00a34.4 million representing the sale of 800,000 company shares previously held by the respondent, Ikram Mahamat Saleh. Ms. Saleh made an application to discharge the Property Freezing Order which was rejected by the court. Paragraph 53 of the court judgement sets out the background to how the SFO became involved. These proceedings remain ongoing and an update will be provided when possible."
+        }
+    ],
+    "_meta": {
+        "id": "ChadOil",
+        "entity_type": "company"
+    },
+    "name": "Chad Oil"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/enrc/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into ENRC Ltd (previously ENRC PLC). The investigation is focused on allegations of fraud, bribery and corruption around the acquisition of substantial mineral assets."
+        }
+    ],
+    "_meta": {
+        "id": "ENRCLtd",
+        "entity_type": "company"
+    },
+    "name": "ENRC Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/euribor/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO has issued criminal proceedings against 11 individuals accused of manipulating the Euro Interbank Offered Rate (EURIBOR). The following individuals made their first appearance at Westminster Magistrates\u2019 Court on 11 January 2016, where they were charged with conspiracy to defraud: Deutsche Bank Employees:"
+        }
+    ],
+    "_meta": {
+        "id": "EURIBOR",
+        "entity_type": "company"
+    },
+    "name": "EURIBOR"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/g4s-serco-2/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into G4S and Serco electronic monitoring contracts."
+        }
+    ],
+    "_meta": {
+        "id": "G4SandSerco",
+        "entity_type": "company"
+    },
+    "name": "G4S and Serco"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/glaxosmithkline-plc/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into the commercial practices of GlaxoSmithKline PLC and its subsidiaries. If you have inside information relevant to this investigation, please contact us through our secure and confidential reporting channel."
+        }
+    ],
+    "_meta": {
+        "id": "GlaxoSmithKlinePLC",
+        "entity_type": "company"
+    },
+    "name": "GlaxoSmithKline PLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/global-forestry-investments-global-forex-investments/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into alleged fraud concerning Global Forestry Investments and Global Forex Investments."
+        },
+        {
+            "value": "The investigation into Global Forestry Investments and Global Forex Investments is continuing.\u00a0 We are now seeking to make contact with a cross-section of those investors who have completed our investors\u2019 questionnaire. If you have invested funds into Global Forestry Investments and/or Global Forex Investments and have not yet completed a questionnaire, please do so here.",
+            "tag": "Call for evidence"
+        }
+    ],
+    "_meta": {
+        "id": "GlobalForestryInvestments",
+        "entity_type": "company"
+    },
+    "name": "Global Forestry Investments"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/global-forestry-investments-global-forex-investments/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into alleged fraud concerning Global Forestry Investments and Global Forex Investments."
+        },
+        {
+            "value": "The investigation into Global Forestry Investments and Global Forex Investments is continuing.\u00a0 We are now seeking to make contact with a cross-section of those investors who have completed our investors\u2019 questionnaire. If you have invested funds into Global Forestry Investments and/or Global Forex Investments and have not yet completed a questionnaire, please do so here.",
+            "tag": "Call for evidence"
+        }
+    ],
+    "_meta": {
+        "id": "GlobalForexInvestments",
+        "entity_type": "company"
+    },
+    "name": "Global Forex Investments"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/gpt-special-project-management-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into allegations concerning GPT and aspects of the conduct of their business in the Kingdom of Saudi Arabia."
+        }
+    ],
+    "_meta": {
+        "id": "GPTSpecialProjectManagementLtd",
+        "entity_type": "company"
+    },
+    "name": "GPT Special Project Management Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/harlequin-group/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The Serious Fraud Office, together with Essex Police, is investigating the Harlequin Group of companies. The business activity of the Harlequin Group includes the marketing, sale and construction of luxury off-plan property developments in the Caribbean and other resort locations. It is not possible to release any further information at this time, but we will update this page when we are in a position to do so."
+        },
+        {
+            "value": "Harlequin investors approached by a company purporting to be Stefan Ofenbock & Co. should refer to the advice on the FCA website. The FCA has released a warning regarding fraudsters using a clone company operating under that name. Please see the FCA website for more details.",
+            "tag": "Investors contacted by Stefan Ofenbok & Co"
+        },
+        {
+            "value": "The SFO would like to thank all the investors who completed the questionnaire. The online questionnaire is no longer available. Investors who would still like to complete a questionnaire should email the SFO at HLMquestionnaire with their contact details. Please note that you should not use this email address to provide sensitive information. It should only be used to provide your contact details, at which point the case team will contact you directly and a secure method will be made available to provide your information.",
+            "tag": "Call for evidence"
+        }
+    ],
+    "_meta": {
+        "id": "HarlequinGroup",
+        "entity_type": "company"
+    },
+    "name": "Harlequin Group"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/innovia-securency-pty-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The Serious Fraud Office and the Australian Federal Police are conducting a joint investigation into the activities of the employees and agents of Securency International PTY Ltd and their alleged corrupt role in securing international polymer banknote contracts. The trial of Peter Chapman is presently fixed 4 April 2016 at Southwark Crown Court.\u00a0 Mr Chapman\u2019s first court appearance was on 5 May 2015 at Westminster Magistrates Court.\u00a0 There he faced six charges under the Prevention of Corruption Act of allegedly making corrupt payments to an overseas official in order to secure contracts of polymer for his company, Securency. \u00a0The alleged offences took place between 9 July 2007 and 18 March 2009.\u00a0 He has been remanded in custody."
+        }
+    ],
+    "_meta": {
+        "id": "InnoviaSecurencyPTYLtd",
+        "entity_type": "company"
+    },
+    "name": "Innovia Securency PTY Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/libor-landing/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The London Interbank Offered Rate, or LIBOR, is the average interest rate at which banks can borrow from one another and\u00a0a huge number of investments and trades are referenced to it.\u00a0 These transactions involve small businesses, large financial institutions and public authorities as well as individuals affected by the interest rates attached to a wide range of contracts including loans, savings rates and mortgages."
+        },
+        {
+            "value": "LIBOR Yen (Hayes)",
+            "tag": "LIBOR cases"
+        }
+    ],
+    "_meta": {
+        "id": "LIBOR",
+        "entity_type": "company"
+    },
+    "name": "LIBOR"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/libor-barclays/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Six individuals have been charged by the Serious Fraud Office with conspiracy to defraud in connection with an investigation into the manipulation of US Dollar LIBOR. Criminal proceedings against Peter Charles Johnson, Jonathan James Mathew and Stylianos Contogoulas, former employees of Barclays Bank Plc, began on 17 February 2014. Proceedings against Jay Vijay Merchant, Alex Julian Pabon and Ryan Michael Reich, also former employees of Barclays, began on 28 April 2014. A trial is scheduled to begin on 4 April 2016 at Southwark Crown Court."
+        }
+    ],
+    "_meta": {
+        "id": "LIBORUSDollar",
+        "entity_type": "company"
+    },
+    "name": "LIBOR US Dollar"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/libor-hayes/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Tom Hayes, a former trader at UBS and Citigroup, was charged on 18 June 2013\u00a0with offences of conspiracy to defraud in connection with the investigation by the Serious Fraud Office into the manipulation of LIBOR. Hayes, 35, of Surrey was one of the three individuals arrested on 11 December 2012 by officers from the SFO and City of London Police.\u00a0 He attended Bishopsgate police station where he was interviewed by members of the SFO. Hayes\u2019\u00a0trial at Southwark Crown Court began on 26 May 2015. He was found guilty by a jury on\u00a03 August 2015 of all eight counts and was sentenced to\u00a0a total of 14 years in prison."
+        },
+        {
+            "value": "21 December 2015",
+            "tag": "Appeal"
+        },
+        {
+            "value": "23 March 2016",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "LIBORYen",
+        "entity_type": "company"
+    },
+    "name": "LIBOR Yen"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/luis-michael-trading-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO are investigating the dealings of Luis Michael Training Ltd in a suspected fraud, surrounding football-based apprenticeship schemes financed by the Skills Funding Agency. The case was accepted in September 2011 following a referral by Gwent Police. The period being investigated spans 2009 \u2013 2011."
+        }
+    ],
+    "_meta": {
+        "id": "LuisMichaelTrainingLtd",
+        "entity_type": "company"
+    },
+    "name": "Luis Michael Training Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/quindell-plc/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into the business and accounting practices at Quindell PLC. Please note as our investigation is underway we cannot provide further information at this time."
+        }
+    ],
+    "_meta": {
+        "id": "QuindellPLC",
+        "entity_type": "company"
+    },
+    "name": "Quindell PLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/richard-kingston/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Page published on 29 Oct 2015 | Page modified on 8 Mar 2016"
+        }
+    ],
+    "_meta": {
+        "id": "RichardKingston",
+        "entity_type": "company"
+    },
+    "name": "Richard Kingston"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/rolls-royce-plc/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into allegations of bribery and corruption at Rolls-Royce."
+        }
+    ],
+    "_meta": {
+        "id": "Rolls-RoycePLC",
+        "entity_type": "company"
+    },
+    "name": "Rolls-Royce PLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/saunders-electrical-wholesalers-limited/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "On 8 February 2016, Michael Strubel and Spencer Steinberg were convicted of a conspiracy to defraud investors in a London-based Ponzi fraud scheme. Jolan Saunders had pleaded guilty ahead of the trial."
+        },
+        {
+            "value": "Jolan Saunders pleaded guilty to one count of conspiracy to defraud and to acting as a director of a company whilst disqualified.",
+            "tag": "Outcome of criminal case"
+        }
+    ],
+    "_meta": {
+        "id": "SaundersElectricalWholesalersLtd",
+        "entity_type": "company"
+    },
+    "name": "Saunders Electrical Wholesalers Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/3726/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO\u00a0is conducting a\u00a0criminal investigation into Solar Energy Savings Limited and contracts that it entered into for the supply and fitting of domestic solar panels. Six individuals were arrested with assistance from Cheshire Constabulary, Merseyside Police and Police Scotland. Note: Please note that the SFO\u2019s investigation concerns Solar Energy Savings Limited, which had a registered number with Companies House of 07049599. Other companies exist that have similar names but are not part of our investigation."
+        },
+        {
+            "value": "The SFO is appealing for witnesses with any information that might be of use, particularly in the north of England and Scotland. Any such submissions and information will be treated with the utmost confidentiality. To report, please use our secure reporting form and include the word \u201cSolar\u201d in the subject line.",
+            "tag": "Call for evidence"
+        }
+    ],
+    "_meta": {
+        "id": "SolarEnergySavingsLtd",
+        "entity_type": "company"
+    },
+    "name": "Solar Energy Savings Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/soma-oil-gas/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into Soma Oil & Gas Holdings Ltd, Soma Oil & Gas Exploration Limited, Soma Management Limited and others in relation to allegations of corruption in Somalia."
+        },
+        {
+            "value": "Whistleblowers are valuable sources of information to the SFO in its cases.\u00a0 We welcome approaches from anyone with inside information on all our cases including this one \u2013 we can be contacted through our secure reporting channel.",
+            "tag": "Call for evidence"
+        }
+    ],
+    "_meta": {
+        "id": "SomaOilGas",
+        "entity_type": "company"
+    },
+    "name": "Soma Oil & Gas"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/standard-bank-plc/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Standard Bank PLC (now known as ICBC Standard Bank Plc) (\u201cStandard Bank\u201d), was the subject of an indictment alleging failure to prevent bribery contrary to section 7 of the Bribery Act 2010. This indictment, pursuant to DPA proceedings, was immediately suspended on 30 November 2015. As a result of the DPA, Standard Bank were ordered to pay financial orders of US$25.2 million and required to pay the Government of Tanzania a further US$7 million in compensation. The bank also agreed to pay the SFO\u2019s reasonable costs of \u00a3330,000 in relation to the investigation and subsequent resolution of the DPA. The suspended charge related to a US$6 million payment by a former sister company of Standard Bank, Stanbic Bank Tanzania, in March 2013 to a local partner in Tanzania, Enterprise Growth Market Advisors (EGMA). The SFO alleged that the payment was intended to induce members of the Government of Tanzania, to show favour to Stanbic Tanzania and Standard Bank\u2019s proposal for a US$600 million private placement to be carried out on behalf of the Government of Tanzania. The placement generated transaction fees of US$8.4 million, shared by Stanbic Tanzania and Standard Bank. Standard Bank agreed to continue to cooperate fully with the SFO and to be subject to an independent review of its existing anti-bribery and corruption controls, policies and procedures regarding compliance with the Bribery Act 2010 and other applicable anti-corruption laws. It is required to implement recommendations of the independent reviewer (Price Waterhouse Coopers LLP). This landmark case saw the UK\u2019s first DPA and use of section 7 in the Bribery Act 2010 by any prosecutor."
+        },
+        {
+            "value": "For full details of the terms please see the Deferred Prosecution Agreement, the Statement of Facts, the preliminary judgment and\u00a0full judgment\u00a0regarding the agreement.",
+            "tag": "Terms of DPA"
+        }
+    ],
+    "_meta": {
+        "id": "StandardBankPLC",
+        "entity_type": "company"
+    },
+    "name": "Standard Bank PLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/stirling-mortimer-global-property-fund/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is investigating an allegation of fraud against a number of investment funds operated by Stirling Mortimer Global Property Fund PCC Ltd (\u201cSMGPF\u201d), a protected cell company with limited liability based in Guernsey.\u00a0 SMGPF is assisting the SFO with its enquiries. This investigation is primarily\u00a0 focused on three SMGPF funds which operated between 2007 and 2011:"
+        },
+        {
+            "value": "Investors in Stirling Mortimer Fund No.4 Cape Verde, Fund No.6 Morocco and Fund No.7 Cape Verde II who invested via a SIPP following advice from an Independent Financial Advisor firm which is no longer trading, may be entitled to compensation from the Financial Services Compensation Scheme (\u201cFSCS\u201d). Further details can be found on FSCS\u2019s website.",
+            "tag": "Financial Services Compensation Scheme"
+        }
+    ],
+    "_meta": {
+        "id": "StirlingMortimerGlobalPropertyFund",
+        "entity_type": "company"
+    },
+    "name": "Stirling Mortimer Global Property Fund"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/sustainable-agroenergy-plc-sustainable-wealth-investments-uk-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Gary West, James Whale and Stuart Stone were convicted, on 5 December 2014 of fraud and bribery offences following the Serious Fraud Office\u2019s investigation into Sustainable Growth Group (\u2018SGG\u2019) including its subsidiary companies Sustainable AgroEnergy plc (\u2018SAE\u2019) and Sustainable Wealth (UK) Investments Ltd (\u2018SWI\u2019). The investigation focused on the selling and promotion of SAE investment products based on \u201cgreen biofuel\u201d Jatropha tree plantations in Cambodia. The green biofuel products were sold to UK investors primarily via self-invested pension plans (SIPPs). These individuals were deliberately misled into believing that SAE owned land in Cambodia, that the land was planted with Jatropha trees, and that there was an insurance policy in place to protect investors if the crops failed. West, Whale and Stone were sentenced on 8 December 2014 and when handing down sentence HHJ Beddoe described the fraud as a \u201cthickening quagmire of dishonesty\u2026 there were more than 250 victims of relatively modest means some of whom had lost all of their life savings and their homes.\u201d The judge added that the bribery was an aggravating feature. Legal proceedings to establish compensation and confiscation orders against the three defendants have commenced. Further details are shown below."
+        },
+        {
+            "value": "Gary West (former Director and Chief Commercial Officer of SAE)",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Gary West was sentenced to a total of 13 years\u2019 imprisonment. James Whale was sentenced to a total of 9 years\u2019 imprisonment. Stuart Stone was sentenced to a total of 6 years\u2019 imprisonment.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "Gary West and James Whale disqualified as acting as Directors for 15 years; Stuart Stone for 10 years.",
+            "tag": "Disqualification of directors"
+        },
+        {
+            "value": "Serious Crime Prevention Ordrers were made (section 19 Serious Crime Act 2007) in the case of all three convicted defendants for a period of five years commencing on the date of release from custody.",
+            "tag": "Ancillary orders"
+        },
+        {
+            "value": "Mr West applied to the Court of Appeal for permission to appeal the length of his sentence; Mr Whale applied for permission to appeal his conviction as well as his sentence. These applications were heard at the Court of Appeal on 17 March and refused on 22 March 2016. Mr Stone made a similar application regarding the length of his sentence which was refused earlier.",
+            "tag": "Appeal"
+        },
+        {
+            "value": "Legal proceedings to establish compensation and confiscation orders against the three defendants have commenced. Further information will be posted when becomes available to do so.",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "SustainableAgroenergyPlc",
+        "entity_type": "company"
+    },
+    "name": "Sustainable Agroenergy Plc"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/sustainable-agroenergy-plc-sustainable-wealth-investments-uk-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Gary West, James Whale and Stuart Stone were convicted, on 5 December 2014 of fraud and bribery offences following the Serious Fraud Office\u2019s investigation into Sustainable Growth Group (\u2018SGG\u2019) including its subsidiary companies Sustainable AgroEnergy plc (\u2018SAE\u2019) and Sustainable Wealth (UK) Investments Ltd (\u2018SWI\u2019). The investigation focused on the selling and promotion of SAE investment products based on \u201cgreen biofuel\u201d Jatropha tree plantations in Cambodia. The green biofuel products were sold to UK investors primarily via self-invested pension plans (SIPPs). These individuals were deliberately misled into believing that SAE owned land in Cambodia, that the land was planted with Jatropha trees, and that there was an insurance policy in place to protect investors if the crops failed. West, Whale and Stone were sentenced on 8 December 2014 and when handing down sentence HHJ Beddoe described the fraud as a \u201cthickening quagmire of dishonesty\u2026 there were more than 250 victims of relatively modest means some of whom had lost all of their life savings and their homes.\u201d The judge added that the bribery was an aggravating feature. Legal proceedings to establish compensation and confiscation orders against the three defendants have commenced. Further details are shown below."
+        },
+        {
+            "value": "Gary West (former Director and Chief Commercial Officer of SAE)",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Gary West was sentenced to a total of 13 years\u2019 imprisonment. James Whale was sentenced to a total of 9 years\u2019 imprisonment. Stuart Stone was sentenced to a total of 6 years\u2019 imprisonment.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "Gary West and James Whale disqualified as acting as Directors for 15 years; Stuart Stone for 10 years.",
+            "tag": "Disqualification of directors"
+        },
+        {
+            "value": "Serious Crime Prevention Ordrers were made (section 19 Serious Crime Act 2007) in the case of all three convicted defendants for a period of five years commencing on the date of release from custody.",
+            "tag": "Ancillary orders"
+        },
+        {
+            "value": "Mr West applied to the Court of Appeal for permission to appeal the length of his sentence; Mr Whale applied for permission to appeal his conviction as well as his sentence. These applications were heard at the Court of Appeal on 17 March and refused on 22 March 2016. Mr Stone made a similar application regarding the length of his sentence which was refused earlier.",
+            "tag": "Appeal"
+        },
+        {
+            "value": "Legal proceedings to establish compensation and confiscation orders against the three defendants have commenced. Further information will be posted when becomes available to do so.",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "SustainableWealthInvestmentsUKLtd",
+        "entity_type": "company"
+    },
+    "name": "Sustainable Wealth Investments UK Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/sweett-group/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO opened a criminal investigation into Sweett Group PLC in July 2014 in relation to its activities in the United Arab Emirates and elsewhere. In February 2016, Sweett Group PLC were sentenced and ordered to pay \u00a32.25 million. Sweett Group PLC admitted an offence under Section 7 of the Bribery Act 2010 regarding its conduct in the Middle East on 2 December 2015 and pleaded guilty\u00a0in December 2015. The SFO charged the company with the following offence: Between 1 December 2012 and 1 December 2015 Sweett Group PLC, being a relevant commercial organisation, failed to prevent the bribing of Khaled Al Badie\u00a0by an associated person, namely Cyril Sweett International Limited, their servants and agents.\u00a0 The bribing was intended to obtain or retain business, and/or an advantage in the conduct of business, for Sweett Group PLC, namely securing and retaining a contract with Al Ain Ahlia Insurance Company for project management and cost consulting services in relation to the building of a hotel in Dubai, contrary to Section 7(1) of the Bribery Act 2010."
+        },
+        {
+            "value": "The company pleaded guilty on 18 December 2015 to a charge of failing to prevent an act of bribery intended to secure and retain a contract with Al Ain Ahlia Insurance Company (AAAI), contrary to Section 7(1)(b) of the Bribery Act 2010.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Sweett Group PLC was sentenced on 19 February 2016 and ordered to pay \u00a32.25 million. The amount is broken down as \u00a31.4m in fine, \u00a3851,152.23 in confiscation. Additionally, \u00a395,031.97 in costs were awarded to the SFO.",
+            "tag": "Sentencing"
+        }
+    ],
+    "_meta": {
+        "id": "SweettGroup",
+        "entity_type": "company"
+    },
+    "name": "Sweett Group"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/tata-steel/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into activity at Speciality Steels, a business unit of Tata Steel (UK) Ltd."
+        }
+    ],
+    "_meta": {
+        "id": "TataSteel",
+        "entity_type": "company"
+    },
+    "name": "Tata Steel"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/tesco-plc/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is conducting a criminal investigation into accounting practices at Tesco PLC."
+        }
+    ],
+    "_meta": {
+        "id": "TescoPLC",
+        "entity_type": "company"
+    },
+    "name": "Tesco PLC"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/ukraine-money-laundering-investigation/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO is investigating possible money laundering arising from suspicions of corruption in Ukraine."
+        }
+    ],
+    "_meta": {
+        "id": "Ukrainemoneylaunderinginvestigation",
+        "entity_type": "company"
+    },
+    "name": "Ukraine money laundering investigation"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/autonomy-2/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO conducted a criminal investigation into the sale of Autonomy to Hewlett Packard. The investigation was announced as closed in January 2015. Some aspects of the investigation have been ceded to the US authorities whose investigation is ongoing."
+        }
+    ],
+    "_meta": {
+        "id": "Autonomy",
+        "entity_type": "company"
+    },
+    "name": "Autonomy"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/celtic-energy/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The SFO brought charges in January 2013 against six people, including two former Directors of Celtic Energy Ltd. The SFO alleged they conspired to defraud Neath Port Talbot County Borough Council, Bridgend County Borough Council, Powys County Council and The Coal Authority by deliberately prejudicing their ability effectively to enforce obligations to restore open cast mining sites to open countryside and/or for agricultural use. The sites are known as East Pit, Nant Helen (Nant Gyrlais), Selar and Margam (Park Slip and Kenfig). The sites were operated by Celtic Energy Limited of Caerphilly. The alleged conspiracy involved the establishment of companies in the British Virgin Islands in the ultimate beneficial ownership of Eric Evans and David Alan Whiteley and that the freehold title in the four sites was intended to transfer from Celtic Energy to the BVI companies, thus releasing provisions made in Celtic Energy\u2019s annual accounts in respect of financial liability to restore the sites and that this was done for the benefit of the conspirators. Mr Justice Hickinbottom dismissed the charges in February 2014 after successful applications by the defendants, who argued that the Public Authorities and the Coal Authority have no duties, rights, or obligations that are capable of being prejudiced by the scheme operated by the defendants. The SFO applied to the High Court for a voluntary bill of indictment which was refused by Lord Justice Fulford on the basis that neither the interests of justice nor the exceptional circumstances tests were made out. This brought the prosecution to an end."
+        }
+    ],
+    "_meta": {
+        "id": "CelticEnergyLtd",
+        "entity_type": "company"
+    },
+    "name": "Celtic Energy Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/forex/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The Director of the Serious Fraud Office closed the SFO\u2019s investigation into allegations of fraudulent conduct in the foreign exchange market (Forex)."
+        }
+    ],
+    "_meta": {
+        "id": "Forex",
+        "entity_type": "company"
+    },
+    "name": "Forex"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/gyrus-group-limited-olympus-corporation/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The Serious Fraud Office commenced criminal proceedings against two companies, by written charge, in September 2013. Gyrus Group Ltd, a UK subsidiary of Olympus Corporation, and Olympus Corporation were charged with offences of making a statement to an auditor which was misleading."
+        },
+        {
+            "value": "Gyrus Group Limited Four offences contrary to Section 501 of the Companies Act 2006 Olympus Corporation One offence contrary to Section 501 of the Companies Act 2006",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "GyrusGroupLtd",
+        "entity_type": "company"
+    },
+    "name": "Gyrus Group Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/gyrus-group-limited-olympus-corporation/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The Serious Fraud Office commenced criminal proceedings against two companies, by written charge, in September 2013. Gyrus Group Ltd, a UK subsidiary of Olympus Corporation, and Olympus Corporation were charged with offences of making a statement to an auditor which was misleading."
+        },
+        {
+            "value": "Gyrus Group Limited Four offences contrary to Section 501 of the Companies Act 2006 Olympus Corporation One offence contrary to Section 501 of the Companies Act 2006",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "OlympusCorporation",
+        "entity_type": "company"
+    },
+    "name": "Olympus Corporation"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/innospec-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "State officials in Indonesia and Iraq were bribed in order to secure contracts from the governments of Indonesia and Iraq for the supply of products produced by Innospec Ltd (previously called Associated Octel Corporation) including Tetraethyl Lead, also known as TEL, an octane booster to be added to engine fuel. Leaded fuel, i.e. fuel that contains TEL, was banned in the UK in 2000 due to links between the compound and severe neurological damage. Innospec Ltd, UK subsidiary of Innospec Inc, pleaded guilty to bribing employees of an Indonesian state owned refinery and other government officials in Indonesia. Paul Jennings and David Turner pleaded guilty to bribing state officials in Indonesia and Iraq, while Dennis Kerrison and Miltiades Papachristos were both found guilty of bribing state officials in Indonesia. Dennis Kerrison was sentenced to four years in prison (later reduced to three), Paul Jennings was sentenced to two years in prison, Miltiades Papachristos was sentenced to 18 months in prison and David Turner was sentenced to a 16 months\u2019 imprisonment suspended for two years with 300 hours unpaid work."
+        },
+        {
+            "value": "Innospec Ltd Conspiracy to corrupt, contrary to Section 1 of the Criminal Law Act 1977 David Turner (former Business Unit Director, Octane Additives, for Innospec Ltd) Three counts of conspiracy to corrupt, contrary to Section 1 of the Criminal Law Act 1977 Dennis Kerrison (former CEO of Associated Octel) Two counts of conspiracy to corrupt, contrary to Section 1 of the Criminal Law Act 1977 Paul Jennings (former CEO of Innospec) Three counts of conspiracy to corrupt, contrary to Section 1 of the Criminal Law Act 1977 Miltiades Papachristos (former Regional Sales Director for the Asia-Pacific region for Innospec) Two counts of conspiracy to corrupt, contrary to Section 1 of the Criminal Law Act 1977",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Innospec Ltd pleaded guilty in March 2010 to bribing state officials in Indonesia and was fined $12.7 million. David Turner pleaded guilty to three counts of conspiracy to corrupt in January 2012. Paul Jennings pleaded guilty to three counts of conspiracy to corrupt in June and July 2012. Dennis Kerrison and Miltiades Papachristos were both convicted of one count of conspiracy to corrupt in June 2014.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Dennis Kerrison, Paul Jennings and Miltiades Papachristos were sentenced to four years, two years and eighteen months in prison respectively. David Turner was sentenced to a sixteen months\u2019 imprisonment suspended for two years with three hundred hours unpaid work.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "Dr Papachristos and Mr Kerrison appealed against their convictions on 9 September 2014. Mr Kerrison also appealed against the length of his sentence. On 19 September 2014, the convictions against Dr Papachristos and Mr Kerrison were upheld by the Court of Appeal. The Court of Appeal reduced Mr Kerrison\u2019s sentence from four to three years.",
+            "tag": "Appeal"
+        },
+        {
+            "value": "The Indonesian authorities announced on 30 October 2015, that as part of its investigation into Innospec Ltd, two individuals have been convicted and sentenced for bribery offences. Suroso Atmomartoyo was found guilty at the District Court of Central Jakarta and sentenced to five years in\u00a0 prison and ordered to pay a fine of 200 million Indonesian Rupiah (\u00a39,600). Atmomartoyo, a former director of state-owned petroleum refinery Pertamina \u00a0was found guilty of receiving bribes from PT Soegih Interjaya, which acted for Innospec. The bribes were intended to secure, or serve as rewards for having secured, contracts from the Government of Indonesia for the supply of Innospec products. It was found that Atmomartoyo received $190,000 in bribes as well as hospitality benefits whilst on a visit to London. Earlier this year, Willy Sebastien Lim, the former owner of PT Soegih Interjaya \u00a0who was accused of paying Atmomartoyo the bribes, was convicted and sentenced to three years in prison and fined 50 million Indonesian Rupiah. The SFO worked closely with Indonesia\u2019s Corruption Eradication Commission, as well as authorities in the US, Singapore and Switzerland, as part of its own investigation into Innospec, which resulted in the conviction and\u00a0sentencing of the company itself as well as four of its former employees. The SFO also provided assistance to the Indonesia authorities in their investigations, including making available the witness evidence of a co-operating offender. The convictions in Indonesia bring this global case to a close.",
+            "tag": "Further convictions in Indonesia"
+        }
+    ],
+    "_meta": {
+        "id": "InnospecLtd",
+        "entity_type": "company"
+    },
+    "name": "Innospec Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/james-sutherland-jack-flader/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "James Sutherland and Jack Flader were acquitted of a money laundering offence by a jury at Southwark Crown Court, on 17 March 2016. Both were found not guilty of one count under Section 328 of the Proceeds of Crime Act 2002 following a nine week trial."
+        }
+    ],
+    "_meta": {
+        "id": "JamesSutherland",
+        "entity_type": "company"
+    },
+    "name": "James Sutherland"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/james-sutherland-jack-flader/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "James Sutherland and Jack Flader were acquitted of a money laundering offence by a jury at Southwark Crown Court, on 17 March 2016. Both were found not guilty of one count under Section 328 of the Proceeds of Crime Act 2002 following a nine week trial."
+        }
+    ],
+    "_meta": {
+        "id": "JackFlader",
+        "entity_type": "company"
+    },
+    "name": "Jack Flader"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/jjb-sports-c-ronnie-d-ball-d-barrington/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "On 4 April 2012, Christopher Ronnie and David Ball appeared before Westminster Magistrates\u2019 Court in response to a summons in connection with an alleged \u00a31 million fraud relating to contracts entered into by JJB Sports plc (JJB) in 2008. This followed investigations carried out by the Serious Fraud Office following a referral by the Office of Fair Trading."
+        },
+        {
+            "value": "Christopher Ronnie Three Fraud Act offences in relation to failure to disclose interests in contracts entered into by the company",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "JJBSports",
+        "entity_type": "company"
+    },
+    "name": "JJB Sports"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/jjb-sports-sir-d-jones-s-jones/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Sir David Jones, former executive chairman of JJB Sports Plc (\u201cJJB\u201d) and his son Stuart Mark Jones, former Head of Marketing at JJB, appeared before Leeds Magistrates\u2019 Court in June 2013 as a result of a Serious Fraud Office investigation into the company. They appeared in response to a summons in connection with forgery and misleading statements made to the market by JJB in 2009. An initial trial date of 31 March 2014 was moved to 14 April 2014 before being abandoned for a time due to Sir David\u2019s ill health. In December 2014, the Solicitor General Robert Buckland QC MP, at the request of the SFO, entered a nolle prosequi in respect of Sir David, due to his continuing ill health. The effect of the nolle prosequi was the indefinite cessation of the proceedings against Sir David. The trial of Stuart Jones began on 9 March 2015 at Leeds Crown Court. He was found not guilty of one count of aiding and abetting the use of a false instrument, contrary to Section 3 of the Forgery and Counterfeiting Act 1981. The matters in the case against these two defendants were not related to those investigated in relation to Christopher Ronnie, David Patrick Ball and David Barrington but were discovered during a review of material obtained in that investigation."
+        },
+        {
+            "value": "Sir David Jones Two offences of making a misleading statement, contrary to Section 397(1)(b) of the Financial Services and Markets Act 2000",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "JJBSports",
+        "entity_type": "company"
+    },
+    "name": "JJB Sports"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/john-fitzpatrick/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "John Fitzpatrick, a former solicitor, was charged with 21 offences relating to investment and mortgage frauds and the misappropriation of client money. Mr Fitzpatrick was employed by TI Clough & Co solicitors in Bradford between February 2000 and September 2000, however he also operated as a solicitor under his own name from his home address. The alleged offences took place between 1996 and 2001. Mr Fitzpatrick was struck off the Roll of Solicitors on 8 March 2002. Mr Fitzpatrick was extradited from South Africa 22 July 2013 when he appeared at Leeds Magistrates\u2019 Court. On 11 November 2013 Mr Fitzpatrick pleaded guilty to seven charges of theft and two charges of obtaining money transfers by deception representing \u00a31,157,000 at a plea and case management hearing at Sheffield Magistarates Court. On 27 February 2014 Mr Fitzpatrick was sentenced to six years\u2019 imprisonment at a court hearing before HHJ Moore."
+        },
+        {
+            "value": "John Fitzpatrick pleaded guilty at Sheffield Crown Court to 7 charges of theft and 2 charges of obtaining money transfers by deception representing \u00a31,157,000, at a plea and case management hearing on 11 November 2013.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "James Fitzpatrick was sentenced to six years\u2019 imprisonment.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "John Fitzpatrick\u2019s appeal against his prison sentence was dismissed on 22 October 2014.",
+            "tag": "Appeal"
+        }
+    ],
+    "_meta": {
+        "id": "JohnFitzpatrick",
+        "entity_type": "company"
+    },
+    "name": "John Fitzpatrick"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/kaupthing-hf/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "In December 2009, the Serious Fraud Office announced an investigation into suspected offences committed within the UK\u2019s jurisdiction in relation to Icelandic Bank Kaupthing hf, prior to the bank\u2019s collapse in October 2008. In March 2011, the SFO, together with officers from the City of London Police, mounted a search and arrest operation as part of this investigation. Proceedings for judicial review of the search warrants were instigated soon after by Robert and Vincent Tchenguiz, and the warrants were declared unlawful by the High Court in July 2012. The SFO conceded that serious mistakes were made in connection with its application for the warrants. The investigation was discontinued in October 2012 on the grounds that there was insufficient evidence to justify continuing it. Civil proceedings in connection with the warrants were subsequently brought against the SFO by Vincent and Robert Tchenguiz and their business entities. Those proceedings were settled in July 2014 and the SFO apologised to both individuals."
+        }
+    ],
+    "_meta": {
+        "id": "Kaupthinghf",
+        "entity_type": "company"
+    },
+    "name": "Kaupthing hf"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/libor-interdealer-brokers/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The trial of six individuals charged with conspiracy to defraud in connection with the SFO\u2019s ongoing criminal investigation into the manipulation of LIBOR\u00a0began on 6 October 2015. The SFO alleged that Darrell Paul Read, Colin John Goodman, Danny Martin Wilkinson, Terry John Farr, James Andrew Gilmour and Noel Anthony Cryan conspired with Tom Hayes, who was convicted after trial and sentenced in August 2015\u00a0, to defraud in that they agreed, upon instruction by Hayes, to influence the submissions of panel banks in the Yen LIBOR setting process. All six defendants were found not guilty of all charges. Commenting on the case, Director of the SFO David Green CB QC said: \u201cThe key issue in this trial was whether these defendants were party to a dishonest agreement with Tom Hayes. By their verdicts the jury have said that they could not be sure that this was the case.\u00a0 Nobody could sensibly suggest that these charges should not have been brought and considered by a jury.\u201d"
+        }
+    ],
+    "_meta": {
+        "id": "LIBORYen",
+        "entity_type": "company"
+    },
+    "name": "LIBOR Yen"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/smith-ouzman-ltd/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "On 22 December 2014 Smith and Ouzman Ltd, a company specialising in printing security documents, together with its chairman, Christopher Smith and its sales and marketing manager, Nicholas Smith, were convicted at Southwark Crown Court of corruptly agreeing to make payments totalling nearly half a million pounds. These payments were used to influence the award of business contracts in Kenya and Mauritania. Other defendants were acquitted. This was the first SFO trial resulting in conviction of a corporate for foreign bribery. Christopher Smith and Nicholas Smith were sentenced in February 2015. The company Smith and Ouzman Ltd\u00a0was\u00a0convicted and ordered to pay \u00a32.2 million in January 2016."
+        },
+        {
+            "value": "Smith & Ouzman Ltd Charged with offences of corruptly agreeing to make payment, contrary to s1 Prevention of Corruption Act 1906 Abdirahman Omar Charged with an offence of corruptly agreeing to make payment, contrary to s1 Prevention of Corruption Act 1906 Christopher Smith Charged with offences of corruptly agreeing to make payment, contrary to s1 Prevention of Corruption Act 1906 Nicholas Smith Charged with offences of corruptly agreeing to make payment, contrary to s1 Prevention of Corruption Act 1906 Timothy Forrester Charged with offences of corruptly agreeing to make payment, contrary to s1 Prevention of Corruption Act 1906",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Christopher John Smith was sentenced to 18 months\u2019 imprisonment, suspended for two years, for two counts of corruptly agreeing to make payments, contrary to section 1(1) of the Prevention of Corruption Act 1906, to run concurrently.\u00a0He was also ordered to carry out 250 hours of unpaid work and has been given a three month curfew. Nicholas Charles Smith, the sales and marketing director of the company, aged 43 from East Sussex, was sentenced to three years\u2019 imprisonment for three counts of corruptly agreeing to make payments, to run concurrently. The company Smith and Ouzman Ltd, convicted of making corrupt payments, was ordered to pay a total of\u00a0\u00a32.2 million.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "On 8 January 2016\u00a0a confiscation order of \u00a318,693 was imposed on Nicholas Smith, payable within eight weeks. He was also ordered to pay costs of \u00a375,000 within nine months. Christopher Smith was ordered to pay \u00a34,500 in confiscation within seven days and costs of \u00a375,000 within three months.",
+            "tag": "Confiscation"
+        }
+    ],
+    "_meta": {
+        "id": "SmithandOuzmanLtd",
+        "entity_type": "company"
+    },
+    "name": "Smith and Ouzman Ltd"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/swift-group/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "The Swift Group is a UK provider of manpower for the oil and gas industry, employing over 3,000 contractors in over 35 countries. This prosecution has been brought following an investigation by the Serious Fraud Office in conjunction with the City of London Police into allegations that employees or agents of Swift had paid bribes to tax officials to avoid, reduce or delay paying tax on behalf of workers placed by Swift. The charges relate to payments said to have been made to agents of the Rivers State Board of Internal Revenue and the Lagos State Board of Internal Revenue, both in Nigeria. The payments were allegedly made in 2008 and 2009. The value of the bribes alleged to have been paid is approximately \u00a3180,000. The Swift Group has been co-operating with the SFO investigation and is not facing criminal charges."
+        },
+        {
+            "value": "Paul Jacobs (former Finance Director of Swift) Two offences of conspiracy to corrupt, contrary Section 1 of the Criminal Law Act 1977",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "SwiftGroup",
+        "entity_type": "company"
+    },
+    "name": "Swift Group"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/operation-steamroller-daniel-gooding-shaun-rumsey-jon-emery-philip-morris-ian-hughes-emma-farmer-and-michelle-coleman/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Six individuals were sentenced to between three and seven years in May 2013 as a result of an SFO investigation into what is believed to be one of the largest boiler room frauds ever pursued by a UK authority. These sentences followed the defendants being convicted by a jury on an indictment containing a single count of conspiracy to defraud. The six defendants formed the senior management and operations team for three Madrid boiler rooms and conspired with Mr Jeffrey Revell-Reade and Mr Anthony May to defraud investors with or through the entities Tresaderns & Partners SL, Price Stone Group SL and Anderson McCormack SL. The defendants were arrested between 2007 and 2009 and were charged in 2010. A seventh defendant pleaded guilty to three counts of money laundering and was sentenced to 21 months\u2019 imprisonment, to be suspended for two years."
+        },
+        {
+            "value": "Daniel Gooding One count of conspiracy to defraud Shaun Rumsey One count of conspiracy to defraud Philip Morris One count of conspiracy to defraud Jon Emery One count of conspiracy to defraud Ian Hughes One count of conspiracy to defraud Emma Farmer One count of conspiracy to defraud Michelle Coleman Three counts of money laundering offences",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Mr Gooding, Mr Rumsey, Mr Morris, Mr Emery, Mr Hughes and Ms Farmer were convicted on a single count of conspiracy to defraud. Ms Coleman pleaded guilty to three counts of money laundering.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Daniel Gooding was sentenced to 7 years in imprisonment. Shaun Rumsey, Philip Morris and Jon Emery were sentenced to 5 years imprisonment. Ian Hughes and Emma Farmer were sentenced to 4 and 3 years imprisonment respectively. Michelle Coleman was sentenced to 21 months imprisonment, to be suspended for two years.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "Michelle Coleman Confiscation order of \u00a3109,510.34. Given 21 days to satisfy the order or incur a default prison sentence of two years. Emma Farmer Confiscation order of \u00a358,127.71. Given six months to satisfy the order or incur a default prison sentence of one year and six months. The SFO applied on two occasions to increase the order in respect of additional sums. The order was increased by \u00a343,792.82 to \u00a3100,920.53. Ian Hughes Confiscation order of \u00a38,000. Given six months to satisfy the order or incur a default prison sentence of five months. Jon Emery Confiscation order of \u00a3154,412. Given six months to satisfy the order or incur a default prison sentence of two years and six months. The order was reduced to \u00a3140,564.07 in line with a reduction in the value of Mr Emerys\u2019 assets. Shaun Rumsey Confiscation order of \u00a3318,709.05. Given six months to satisfy the order or incur a default prison sentence of three years and six months. The order was reduced to \u00a3220,004.23 in line with a reduction in the value of Mr Rumseys\u2019 assets. Daniel Gooding Confiscation order of \u00a3725,968.51. Given six months to pay or incur a default prison sentence of four years. Time to pay has been extended and an Enforcement Receiver was appointed to sell Mr Gooding\u2019s properties. Philip Morris Confiscation order of \u00a3117,000. Given 6 months to pay or incur a default prison sentence of over two years. The deadline for payment was extended by the Court to 12 months. The total amount paid in respect of the above orders, as at 25th February 2016, is \u00a31,407,654.82.",
+            "tag": "Confiscation"
+        },
+        {
+            "value": "At the SFO\u2019s request, all amounts recovered from Daniel Gooding, Shaun Rumsey, Philip Morris, Jon Emery, Ian Hughes and Emma Farmer are to be paid in compensation to victims already identified. At their respective confiscation hearings the defendants were given six months to pay their confiscation orders. Some of those defendants have had their time to pay extended by the Court. The SFO and HMCTS are committed to doing all we can to ensure that the defendants pay their orders in full. You can obtain further updates regarding payments from HMCTS using the following contact details; telephone 0207 556 6556 or email: LCCCConfiscationunit@hmcts.gsi.gov.uk.",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "TresadernsPartnersSL",
+        "entity_type": "company"
+    },
+    "name": "Tresaderns & Partners SL"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/operation-steamroller-daniel-gooding-shaun-rumsey-jon-emery-philip-morris-ian-hughes-emma-farmer-and-michelle-coleman/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Six individuals were sentenced to between three and seven years in May 2013 as a result of an SFO investigation into what is believed to be one of the largest boiler room frauds ever pursued by a UK authority. These sentences followed the defendants being convicted by a jury on an indictment containing a single count of conspiracy to defraud. The six defendants formed the senior management and operations team for three Madrid boiler rooms and conspired with Mr Jeffrey Revell-Reade and Mr Anthony May to defraud investors with or through the entities Tresaderns & Partners SL, Price Stone Group SL and Anderson McCormack SL. The defendants were arrested between 2007 and 2009 and were charged in 2010. A seventh defendant pleaded guilty to three counts of money laundering and was sentenced to 21 months\u2019 imprisonment, to be suspended for two years."
+        },
+        {
+            "value": "Daniel Gooding One count of conspiracy to defraud Shaun Rumsey One count of conspiracy to defraud Philip Morris One count of conspiracy to defraud Jon Emery One count of conspiracy to defraud Ian Hughes One count of conspiracy to defraud Emma Farmer One count of conspiracy to defraud Michelle Coleman Three counts of money laundering offences",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Mr Gooding, Mr Rumsey, Mr Morris, Mr Emery, Mr Hughes and Ms Farmer were convicted on a single count of conspiracy to defraud. Ms Coleman pleaded guilty to three counts of money laundering.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Daniel Gooding was sentenced to 7 years in imprisonment. Shaun Rumsey, Philip Morris and Jon Emery were sentenced to 5 years imprisonment. Ian Hughes and Emma Farmer were sentenced to 4 and 3 years imprisonment respectively. Michelle Coleman was sentenced to 21 months imprisonment, to be suspended for two years.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "Michelle Coleman Confiscation order of \u00a3109,510.34. Given 21 days to satisfy the order or incur a default prison sentence of two years. Emma Farmer Confiscation order of \u00a358,127.71. Given six months to satisfy the order or incur a default prison sentence of one year and six months. The SFO applied on two occasions to increase the order in respect of additional sums. The order was increased by \u00a343,792.82 to \u00a3100,920.53. Ian Hughes Confiscation order of \u00a38,000. Given six months to satisfy the order or incur a default prison sentence of five months. Jon Emery Confiscation order of \u00a3154,412. Given six months to satisfy the order or incur a default prison sentence of two years and six months. The order was reduced to \u00a3140,564.07 in line with a reduction in the value of Mr Emerys\u2019 assets. Shaun Rumsey Confiscation order of \u00a3318,709.05. Given six months to satisfy the order or incur a default prison sentence of three years and six months. The order was reduced to \u00a3220,004.23 in line with a reduction in the value of Mr Rumseys\u2019 assets. Daniel Gooding Confiscation order of \u00a3725,968.51. Given six months to pay or incur a default prison sentence of four years. Time to pay has been extended and an Enforcement Receiver was appointed to sell Mr Gooding\u2019s properties. Philip Morris Confiscation order of \u00a3117,000. Given 6 months to pay or incur a default prison sentence of over two years. The deadline for payment was extended by the Court to 12 months. The total amount paid in respect of the above orders, as at 25th February 2016, is \u00a31,407,654.82.",
+            "tag": "Confiscation"
+        },
+        {
+            "value": "At the SFO\u2019s request, all amounts recovered from Daniel Gooding, Shaun Rumsey, Philip Morris, Jon Emery, Ian Hughes and Emma Farmer are to be paid in compensation to victims already identified. At their respective confiscation hearings the defendants were given six months to pay their confiscation orders. Some of those defendants have had their time to pay extended by the Court. The SFO and HMCTS are committed to doing all we can to ensure that the defendants pay their orders in full. You can obtain further updates regarding payments from HMCTS using the following contact details; telephone 0207 556 6556 or email: LCCCConfiscationunit@hmcts.gsi.gov.uk.",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "PriceStoneGroupSL",
+        "entity_type": "company"
+    },
+    "name": "Price Stone Group SL"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/operation-steamroller-daniel-gooding-shaun-rumsey-jon-emery-philip-morris-ian-hughes-emma-farmer-and-michelle-coleman/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Six individuals were sentenced to between three and seven years in May 2013 as a result of an SFO investigation into what is believed to be one of the largest boiler room frauds ever pursued by a UK authority. These sentences followed the defendants being convicted by a jury on an indictment containing a single count of conspiracy to defraud. The six defendants formed the senior management and operations team for three Madrid boiler rooms and conspired with Mr Jeffrey Revell-Reade and Mr Anthony May to defraud investors with or through the entities Tresaderns & Partners SL, Price Stone Group SL and Anderson McCormack SL. The defendants were arrested between 2007 and 2009 and were charged in 2010. A seventh defendant pleaded guilty to three counts of money laundering and was sentenced to 21 months\u2019 imprisonment, to be suspended for two years."
+        },
+        {
+            "value": "Daniel Gooding One count of conspiracy to defraud Shaun Rumsey One count of conspiracy to defraud Philip Morris One count of conspiracy to defraud Jon Emery One count of conspiracy to defraud Ian Hughes One count of conspiracy to defraud Emma Farmer One count of conspiracy to defraud Michelle Coleman Three counts of money laundering offences",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Mr Gooding, Mr Rumsey, Mr Morris, Mr Emery, Mr Hughes and Ms Farmer were convicted on a single count of conspiracy to defraud. Ms Coleman pleaded guilty to three counts of money laundering.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Daniel Gooding was sentenced to 7 years in imprisonment. Shaun Rumsey, Philip Morris and Jon Emery were sentenced to 5 years imprisonment. Ian Hughes and Emma Farmer were sentenced to 4 and 3 years imprisonment respectively. Michelle Coleman was sentenced to 21 months imprisonment, to be suspended for two years.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "Michelle Coleman Confiscation order of \u00a3109,510.34. Given 21 days to satisfy the order or incur a default prison sentence of two years. Emma Farmer Confiscation order of \u00a358,127.71. Given six months to satisfy the order or incur a default prison sentence of one year and six months. The SFO applied on two occasions to increase the order in respect of additional sums. The order was increased by \u00a343,792.82 to \u00a3100,920.53. Ian Hughes Confiscation order of \u00a38,000. Given six months to satisfy the order or incur a default prison sentence of five months. Jon Emery Confiscation order of \u00a3154,412. Given six months to satisfy the order or incur a default prison sentence of two years and six months. The order was reduced to \u00a3140,564.07 in line with a reduction in the value of Mr Emerys\u2019 assets. Shaun Rumsey Confiscation order of \u00a3318,709.05. Given six months to satisfy the order or incur a default prison sentence of three years and six months. The order was reduced to \u00a3220,004.23 in line with a reduction in the value of Mr Rumseys\u2019 assets. Daniel Gooding Confiscation order of \u00a3725,968.51. Given six months to pay or incur a default prison sentence of four years. Time to pay has been extended and an Enforcement Receiver was appointed to sell Mr Gooding\u2019s properties. Philip Morris Confiscation order of \u00a3117,000. Given 6 months to pay or incur a default prison sentence of over two years. The deadline for payment was extended by the Court to 12 months. The total amount paid in respect of the above orders, as at 25th February 2016, is \u00a31,407,654.82.",
+            "tag": "Confiscation"
+        },
+        {
+            "value": "At the SFO\u2019s request, all amounts recovered from Daniel Gooding, Shaun Rumsey, Philip Morris, Jon Emery, Ian Hughes and Emma Farmer are to be paid in compensation to victims already identified. At their respective confiscation hearings the defendants were given six months to pay their confiscation orders. Some of those defendants have had their time to pay extended by the Court. The SFO and HMCTS are committed to doing all we can to ensure that the defendants pay their orders in full. You can obtain further updates regarding payments from HMCTS using the following contact details; telephone 0207 556 6556 or email: LCCCConfiscationunit@hmcts.gsi.gov.uk.",
+            "tag": "Compensation"
+        }
+    ],
+    "_meta": {
+        "id": "AndersonMcCormackSL",
+        "entity_type": "company"
+    },
+    "name": "Anderson McCormack SL"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/victor-dahdaleh-bruce-hall/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "In October 2011 the SFO brought charges against Victor Dahdaleh, an international businessman, in relation to contracts for the supply of goods and services to a Bahraini company, Aluminium Bahrain B.S.C. (Alba). In February 2012, the SFO charged Bruce Hall, who served as CEO of Alba from September 2001 to June 2005, with related corruption offences. Mr Hall pleaded guilty in June 2012 to one count of conspiracy to corrupt. Mr Dahdaleh\u2019s case came to trial in November 2013, but the prosecution decided on 10 December to offer no evidence, having concluded that due to adverse developments in the case that there was no longer a realistic prospect of conviction. Mr Hall was sentenced to 16 months in prison in July 2014 and was ordered to pay a confiscation order of \u00a33m. This was paid in full. Mr Hall also paid in full a compensation order of \u00a3500,010 to Alba. He paid a further \u00a3100,000 as a contribution to prosecution costs."
+        }
+    ],
+    "_meta": {
+        "id": "VictorDahdaleh",
+        "entity_type": "company"
+    },
+    "name": "Victor Dahdaleh"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/victor-dahdaleh-bruce-hall/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "In October 2011 the SFO brought charges against Victor Dahdaleh, an international businessman, in relation to contracts for the supply of goods and services to a Bahraini company, Aluminium Bahrain B.S.C. (Alba). In February 2012, the SFO charged Bruce Hall, who served as CEO of Alba from September 2001 to June 2005, with related corruption offences. Mr Hall pleaded guilty in June 2012 to one count of conspiracy to corrupt. Mr Dahdaleh\u2019s case came to trial in November 2013, but the prosecution decided on 10 December to offer no evidence, having concluded that due to adverse developments in the case that there was no longer a realistic prospect of conviction. Mr Hall was sentenced to 16 months in prison in July 2014 and was ordered to pay a confiscation order of \u00a33m. This was paid in full. Mr Hall also paid in full a compensation order of \u00a3500,010 to Alba. He paid a further \u00a3100,000 as a contribution to prosecution costs."
+        }
+    ],
+    "_meta": {
+        "id": "BruceHall",
+        "entity_type": "company"
+    },
+    "name": "Bruce Hall"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/weavering-capital-uk/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Weavering Capital (UK) Ltd went into administration in March 2009. The company was an advisor to a Cayman Islands incorporated hedge fund called Weavering Macro Fixed Income Fund Ltd, which had funds of US$639 million under management in 2008. An investigation was launched by the Serious Fraud Office in 2009 concerning interest rate swap transactions between the fund and a related Weavering company in the British Virgin Islands that had the effect of inflating the net asset value of the fund. The investigation was closed in September 2011, but was reopened in July 2012. Criminal proceedings were issued on 11 December 2012 by the SFO against Ulf Magnus Michael Peterson by written charge. Mr Peterson, 51, a Swedish national of Otham, Kent was the founding director of Weavering Capital (UK) Limited. He was charged with sixteen offences which are shown in the defendants section below. The alleged offences took place on various dates during 2003 to 2009. Mr Peterson\u2019s trial began at Southwark Crown Court on 13 October 2014, at the end of which he was found guilty of eight counts of fraud, forgery, false accounting and fraudulent trading. Mr Peterson was sentenced to 13 years in prison."
+        },
+        {
+            "value": "Ulf Magnus Michael Peterson Two offences of false accounting contrary to Section 17(b), Theft Act 1968",
+            "tag": "Defendants"
+        }
+    ],
+    "_meta": {
+        "id": "WeaveringCapitalUK",
+        "entity_type": "company"
+    },
+    "name": "Weavering Capital UK"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/worldwide-bio-refineries/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "Seven men were convicted on 12 September 2011 at Ipswich Crown Court for their roles in an \u00a38 million boiler-room fraud. The Spanish-based operation targeted thousands of investors in the UK, applying high pressure telesales techniques to push shares in a bio-diesel company, Worldwide Bio Refineries. The one defendant who pleaded guilty gave evidence for the prosecution.\u00a0 They were all sentenced by His Honour Justice Overbury on 4 October 2011 to prison terms ranging from three to seven years."
+        },
+        {
+            "value": "Dennis Potter, a former Director of Worldwide Bio Refineries, was sentenced on 1 October 2014 at Folkestone Magistrates\u2019 Court to six years imprisonment for failure to pay a confiscation order worth \u00a32,492,499.58.",
+            "tag": "Dennis Potter: Confiscation"
+        },
+        {
+            "value": "5 April 2016",
+            "tag": "Information for victims due compensation: Frequently Asked Questions"
+        }
+    ],
+    "_meta": {
+        "id": "WorldwideBioRefineries",
+        "entity_type": "company"
+    },
+    "name": "Worldwide Bio Refineries"
+}
+=============================
+
+{
+    "fields": [
+        {
+            "value": "https://www.sfo.gov.uk/cases/xclusive-tickets-limited/",
+            "tag": "url"
+        },
+        {
+            "name": "text",
+            "value": "An SFO investigation into the affairs of the Xclusive Companies began in September 2008. This case concerned the fraudulent operation of an online ticket business (\u201cXclusive\u201d) that \u2018sold\u2019 but failed to supply thousands of tickets for various big ticket events including the Beijing Olympics and various music festivals that took place during the summer of 2008. The Xclusive companies collapsed in August 2008 leaving more than 10,000 people without tickets and causing substantial losses. Customers were invited online to \u2018buy\u2019 tickets for events using credit or debit cards. The principal company in the group, Xclusive Leisure and Hospitality received payments for Olympics and music festivals tickets to the value of at least \u00a33.7 million. On 8 October 2009, Terence Shepherd, Allan Schaverien, Alan Scott, Cyril Gold, Geert van Meel and Margaret Canty-Shepherd were charged with fraudulent trading, offences contrary to the Fraud Act and money laundering offences. On 10 June 2010, all six defendants pleaded not guilty to all counts. Allan Schaverien changed his plea to guilty on 15 April 2011. The Judge ordered that all not guilty verdicts were to be entered for the Fraud Act offences relating to the unauthorised sale of football tickets on 6 June 2011. As a consequence of this decision, Mr van Meel was no longer on trial. Terence Shepherd and Alan Scott were convicted on 5 July 2011 at Southwark Crown Court. Both were found guilty of a variety of offences for failing to supply tickets to the 2008 Beijing Olympics and summer music events. On 11 July 2011, Terence Shepherd, Alan Scott and Allan Schaverien were sentenced to eight, seven and two years and eight months\u2019 imprisonment respectively. The Judge also ordered that Terence Shepherd and Alan Scott were to be disqualified from acting as a company director for 15 and 10 years respectively. Alan Scott and Terence Shepherd were subsequently sentenced to further time in custody for failing to pay confiscation orders. Further details below. *Tickets Ltd, Xclusive Leisure & Hospitality Ltd, Tradeandbid.com Ltd, Rugby World Cup 2007 Hospitality Ltd, World Hospitality Company Ltd and ATC.com Ltd (\u201cthe Xclusive companies\u201d)"
+        },
+        {
+            "value": "Alan Scott Fraudulent trading Fraud Act offences in respect of unauthorised sale of football tickets by the Xclusive companies Allan Schaverien Aiding and abetting Fraudulent Trading in respect of the operation of the Xclusive Companies Cyril Gold Aiding and abetting Fraudulent Trading in respect of the operation of the Xclusive Companies Geert van Meel Fraud Act offences in respect of unauthorised sale of football tickets by the Online Ticket Exchange Ltd Margaret Canty-Shepherd Money laundering offences Terence Shepherd Fraudulent trading; Fraud Act offences in respect of unauthorised sale of football tickets by the Online Ticket Exchange Ltd and Xclusive companies; Money laundering offences;Breach of a Directors Disqualification order",
+            "tag": "Defendants"
+        },
+        {
+            "value": "Terence Shepherd was convicted of money laundering, two counts of fraudulent trading and two counts of acting as a company director whilst disqualified. Alan Scott was also convicted of two counts of fraudulent trading. Allan Schaverien pleaded guilty to aiding and abetting fraudulent trading on 15 April 2011. Margaret Canty-Shepherd and Cyril Gold were acquitted of money laundering and aiding and abetting fraudulent trading charges, respectively.",
+            "tag": "Outcome of criminal case"
+        },
+        {
+            "value": "Terence Shepherd was sentenced to eight years\u2019 imprisonment and disqualified from acting as a company director for 15 years. Alan Scott was sentenced to seven years\u2019 imprisonment and disqualified from acting as a company director for 10 years. Allan Schaverien was sentenced to two years and eight months\u2019 imprisonment.",
+            "tag": "Sentencing"
+        },
+        {
+            "value": "On 1 August 2011, Alan Scott applied for leave to appeal against sentence. On 4 August 2011, Terence Shepherd applied to appeal against both conviction and sentence. Both applications were refused by a single judge in the Court of Appeal. On 13 July 2012, Terence Shepherd renewed his application for leave to appeal against conviction and sentence before the full court in the Court of Appeal. This application was refused.",
+            "tag": "Appeal"
+        },
+        {
+            "value": "On 14 November 2011 HHJ Beddoe made a confiscation order against Allan Schaverien in the sum of \u00a319,855. He was given 28 days to pay and a default sentence of 12 months imposed in the event of non-payment. A confiscation hearing was heard on 4 October 2012 at Southwark Crown Court in respect of Terence Shepherd and Alan Scott. The following orders were made:",
+            "tag": "Confiscation"
+        }
+    ],
+    "_meta": {
+        "id": "XclusiveTicketsLtd",
+        "entity_type": "company"
+    },
+    "name": "Xclusive Tickets Ltd"
+}
+=============================

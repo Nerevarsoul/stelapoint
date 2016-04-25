@@ -82,7 +82,7 @@ def _generate_entities():
             if field_name == 'Defendants':
                 values1 = section.find_all('div', class_="chargeDefendant")
                 values2 = section.find_all('div', class_="chargeCharge")
-                value = zip(values1, values2)
+                values = zip(values1, values2)
                 field_value = ' '.join([value[0].get_text().strip() + ' ' + value[1].get_text().strip() for value in values])
             else:
                 field_value = custom_field.find_next_sibling('p').get_text().strip()
@@ -104,7 +104,7 @@ def _generate_entities():
 
 def main():
     for entity in _generate_entities():
-        helpers.emit(entity)
+        helpers.check(entity)
 
 
 if __name__ == "__main__":
