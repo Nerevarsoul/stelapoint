@@ -39,7 +39,7 @@ def _get_scrape_urls():
     house = doc.find('div', id='div_47793ec9-3449-46a3-9095-f2eb8c475846')
 
     council_lis = council.find_all("div", class_="link-item")
-    house_lis = house.find_all("div", class_="link-item")
+    house_lis = house.find_all("div", class_="dfwp-item")
 
     for li in council_lis:
         person = li.find("a")
@@ -50,12 +50,15 @@ def _get_scrape_urls():
         yield entity
 
     for li in house_lis:
-        person = li.find("a")
-        link = person["href"]
-        name = _get_name(person.get_text())
-        office = "House of Keys"
-        entity = _generate_entities(link, name, office)
-        yield entity
+        parish = li.find("div", class_="groupheader").get_text().strip()
+        all_div = li.find_all("div", class_="link-item")
+        for div in all_div: 
+            person = div.find("a")
+            link = person["href"]
+            name = _get_name(person.get_text())
+            office = "House of Keys"
+            entity = _generate_entities(link, name, office, parish)
+            yield entity
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url2), "html.parser")
     div = doc.find('div', id='div_a1526572-2de9-494b-a410-6fdc17d3b84e')
@@ -94,7 +97,7 @@ def _get_scrape_urls():
             pass
 
 
-def _generate_entities(url, name, office, years_active=None):
+def _generate_entities(url, name, office, years_active=None, parish=None):
     """for each scrapable page, yield an entity"""
 
     doc = BeautifulSoup(helpers.fetch_string(url), "html.parser")
@@ -109,20 +112,21 @@ def _generate_entities(url, name, office, years_active=None):
             current += ' ' + div.get_text().strip()
         else:
             break
-    # current = 'Current Posts ' + current.replace('\u00a0', ' ')
-    # current = current.replace('\u2013', '-')
-    # current = current.replace('\u2019', '')
+    
     current = current.replace('dateMember', 'date Member')
 
     fields = [
         {"tag": "url", "value": url},
         {"tag": "Current Posts", "value": current},
         {"tag": "picture_url", "value": img},
-        {"tag": "Office", "value": office}
+        {"tag": "Office", "value": office},
     ]
 
     if years_active:
         fields.append({"tag": "Years Active", "value": years_active})
+
+    if parish:
+        fields.append({"tag": "Parish", "value": parish})
 
     try:
         p = h3[1].find_next_sibling()
@@ -141,9 +145,7 @@ def _generate_entities(url, name, office, years_active=None):
             fields.append({"tag": "date_of_birth", "value": get_date(p.split(':')[-1].strip())})
         elif 'Parents' in p:
             fields.append({"tag": "Parents", "value": p.split(':')[-1].strip()})
-        elif 'Parish' in p:
-            fields.append({"tag": "Parish", "value": p.split(':')[-1].strip()})
-
+    
     return {
         "_meta": {
             "id": helpers.make_id(name),
@@ -156,7 +158,7 @@ def _generate_entities(url, name, office, years_active=None):
 
 def main():
     for entity in _get_scrape_urls():
-        helpers.emit(entity)
+        helpers.check(entity)
 
 
 if __name__ == "__main__":
