@@ -1,0 +1,459 @@
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Cease and Desist Orders"
+        },
+        {
+            "name": "State",
+            "value": "California"
+        },
+        {
+            "name": "Number",
+            "value": "2016-035"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/24"
+        }
+    ],
+    "name": "Neighborhood National Bank, San Diego",
+    "_meta": {
+        "id": "NeighborhoodNationalBankSanDiego",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Cease and Desist Orders"
+        },
+        {
+            "name": "State",
+            "value": "Ohio"
+        },
+        {
+            "name": "Number",
+            "value": "2016-036"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/29"
+        }
+    ],
+    "name": "The Somerville National Bank, Somerville",
+    "_meta": {
+        "id": "TheSomervilleNationalBankSomerville",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Cease and Desist Orders"
+        },
+        {
+            "name": "State",
+            "value": "Virginia"
+        },
+        {
+            "name": "Number",
+            "value": "2016-045"
+        },
+        {
+            "name": "Date",
+            "value": "2016/04/12"
+        }
+    ],
+    "name": "HSBC Bank USA, National Association, Mclean",
+    "_meta": {
+        "id": "HSBCBankUSANationalAssociationMclean",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Civil Money Penalty Orders"
+        },
+        {
+            "name": "State",
+            "value": "Arizona"
+        },
+        {
+            "name": "Number",
+            "value": "2016-037"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Steven J. Ellsworth, Valley Capital Bank, National Association, Mesa",
+    "_meta": {
+        "id": "StevenJ.EllsworthValleyCapitalBankNationalAssociationMesa",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Civil Money Penalty Orders"
+        },
+        {
+            "name": "State",
+            "value": "Arizona"
+        },
+        {
+            "name": "Number",
+            "value": "2016-037"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Kevin W. Stevenson, Valley Capital Bank, National Association, Mesa",
+    "_meta": {
+        "id": "KevinW.StevensonValleyCapitalBankNationalAssociationMesa",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Civil Money Penalty Orders"
+        },
+        {
+            "name": "State",
+            "value": "Florida"
+        },
+        {
+            "name": "Number",
+            "value": "2016-038"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/15"
+        }
+    ],
+    "name": "Charles Sanders, Gibraltar Private Bank & Trust Co., Coral Gables",
+    "_meta": {
+        "id": "CharlesSandersGibraltarPrivateBankTrustCo.CoralGables",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Civil Money Penalty Orders"
+        },
+        {
+            "name": "State",
+            "value": "Virginia"
+        },
+        {
+            "name": "Number",
+            "value": "2016-046"
+        },
+        {
+            "name": "Date",
+            "value": "2016/04/12"
+        }
+    ],
+    "name": "HSBC Bank USA, National Association, Mclean",
+    "_meta": {
+        "id": "HSBCBankUSANationalAssociationMclean",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Removal / Prohibition Orders"
+        },
+        {
+            "name": "State",
+            "value": "Alabama"
+        },
+        {
+            "name": "Number",
+            "value": "2016-039"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/17"
+        }
+    ],
+    "name": "Robert Parrish, Superior Bank, Birmingham",
+    "_meta": {
+        "id": "RobertParrishSuperiorBankBirmingham",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Removal / Prohibition Orders"
+        },
+        {
+            "name": "State",
+            "value": "Arizona"
+        },
+        {
+            "name": "Number",
+            "value": "2016-044"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Steven J. Ellsworth, Valley Capital Bank, National Association, Mesa",
+    "_meta": {
+        "id": "StevenJ.EllsworthValleyCapitalBankNationalAssociationMesa",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Removal / Prohibition Orders"
+        },
+        {
+            "name": "State",
+            "value": "Arizona"
+        },
+        {
+            "name": "Number",
+            "value": "2016-044"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Kevin W. Stevenson, Valley Capital Bank, National Association, Mesa",
+    "_meta": {
+        "id": "KevinW.StevensonValleyCapitalBankNationalAssociationMesa",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Removal / Prohibition Orders"
+        },
+        {
+            "name": "State",
+            "value": "Georgia"
+        },
+        {
+            "name": "Number",
+            "value": "2016-040"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Jeffrey Allen Farrell, First National Bank, Savannah",
+    "_meta": {
+        "id": "JeffreyAllenFarrellFirstNationalBankSavannah",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Restitution Orders"
+        },
+        {
+            "name": "State",
+            "value": "Arizona"
+        },
+        {
+            "name": "Number",
+            "value": "2016-043"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Steven J. Ellsworth, Valley Capital Bank, National Association, Mesa",
+    "_meta": {
+        "id": "StevenJ.EllsworthValleyCapitalBankNationalAssociationMesa",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Restitution Orders"
+        },
+        {
+            "name": "State",
+            "value": "Arizona"
+        },
+        {
+            "name": "Number",
+            "value": "2016-043"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/23"
+        }
+    ],
+    "name": "Kevin W. Stevenson, Valley Capital Bank, National Association, Mesa",
+    "_meta": {
+        "id": "KevinW.StevensonValleyCapitalBankNationalAssociationMesa",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Terminations of Existing Enforcement Actions"
+        },
+        {
+            "name": "State",
+            "value": "California"
+        },
+        {
+            "name": "Number",
+            "value": "2016-035"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/24"
+        }
+    ],
+    "name": "C&D, Neighborhood National Bank, San Diego (EA# 2010-069)",
+    "_meta": {
+        "id": "CDNeighborhoodNationalBankSanDiegoEA2010-069",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Terminations of Existing Enforcement Actions"
+        },
+        {
+            "name": "State",
+            "value": "Florida"
+        },
+        {
+            "name": "Number",
+            "value": "2016-041"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/08"
+        }
+    ],
+    "name": "CD, Florida Capital Bank, National Association, Jacksonville (EA# 2010-167)",
+    "_meta": {
+        "id": "CDFloridaCapitalBankNationalAssociationJacksonvilleEA2010-167",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Terminations of Existing Enforcement Actions"
+        },
+        {
+            "name": "State",
+            "value": "Missouri"
+        },
+        {
+            "name": "Number",
+            "value": "2016-042"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/29"
+        }
+    ],
+    "name": "FA, Jack Henry & Associates, Inc., Monett, (EA# 2013-181)",
+    "_meta": {
+        "id": "FAJackHenryAssociatesInc.MonettEA2013-181",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Type",
+            "value": "Terminations of Existing Enforcement Actions"
+        },
+        {
+            "name": "State",
+            "value": "Ohio"
+        },
+        {
+            "name": "Number",
+            "value": "2016-036"
+        },
+        {
+            "name": "Date",
+            "value": "2016/03/29"
+        }
+    ],
+    "name": "FA, The Somerville National Bank, Somerville (EA# 2013-076)",
+    "_meta": {
+        "id": "FATheSomervilleNationalBankSomervilleEA2013-076",
+        "entity_type": "company"
+    }
+}
+=============================
