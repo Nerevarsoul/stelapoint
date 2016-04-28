@@ -1,0 +1,3887 @@
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/77bcd19f-2c2b-44f8-9b51-a88780a388bf_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/77bcd19f-2c2b-44f8-9b51-a88780a388bf_en.pdf http://www.iiroc.ca/Documents/2016/7a7e9a15-39c9-4664-89fe-4b52a5da9fca_en.pdf http://www.iiroc.ca/Documents/2016/87c1d457-a340-4613-ac8f-53c5d0b2f59f_en.pdf http://www.iiroc.ca/Documents/2016/3079c7b8-00cf-4bb6-9dd0-7b45803337d0_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul David Azeff and Korin David Bobrow \u2013 Decision on Application for Stay of Execution",
+    "_meta": {
+        "id": "IntheMatterofPaulDavidAzeffandKorinDavidBobrow-DecisiononApplicationforStayofExecution",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/c3792eba-59bd-40f3-ae5a-91c8444edf36_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Christian Cloutier \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofChristianCloutier-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/2677b582-9d66-4ce5-8807-db77e2f564f3_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/2677b582-9d66-4ce5-8807-db77e2f564f3_en.pdf http://www.iiroc.ca/Documents/2016/3a8824bc-3765-4ec0-a3d5-ad6a76ecee79_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Allen Samuel Mendelman \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofAllenSamuelMendelman-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/7821b91c-bde6-4ae0-884d-fccb961d352e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/7821b91c-bde6-4ae0-884d-fccb961d352e_en.pdf http://www.iiroc.ca/Documents/2013/5aa524fc-df45-497b-bd9f-a3ca665dbe9d_en.pdf http://www.iiroc.ca/Documents/2013/5164d2c8-cb62-4b6f-89ab-527a8676dca2_en.pdf http://www.iiroc.ca/Documents/2012/1ba2451e-937e-4151-b1b9-e93331f5e1ac_en.pdf http://www.iiroc.ca/Documents/2012/f68c4435-a6dd-460b-9959-e1f25faa7941_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Thi Sen Chher \u2013 Appeal Decision",
+    "_meta": {
+        "id": "IntheMatterofThiSenChher-AppealDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/5b42f2d6-6a58-4c54-aecf-b3f030af27cb_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/5b42f2d6-6a58-4c54-aecf-b3f030af27cb_en.pdf http://www.iiroc.ca/Documents/2016/c4da56f4-210e-488a-a8d8-64bf37f86e60_en.pdf http://www.iiroc.ca/Documents/2016/14573298-4b74-47a2-98d7-4a2197ed6d99_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Dominic Tersigni \u2013 Discipline decision \u2013 Liability and Penalty",
+    "_meta": {
+        "id": "IntheMatterofDominicTersigni-Disciplinedecision-LiabilityandPenalty",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/9dd5ee7a-76d6-4e28-a1ed-003fb26c9e46_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Alberto Tassone \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofAlbertoTassone-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/8c7f3a1b-52f2-4e4b-b040-b00873cb871f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/9b4c358a-55a5-44af-b1ec-f540c4345ad9_en.pdf http://www.iiroc.ca/Documents/2016/8c7f3a1b-52f2-4e4b-b040-b00873cb871f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Henry Sojka \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofHenrySojka-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-19"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/4552ef44-7d10-4cea-8c4a-61922f4153bd_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/082143e6-e945-42f4-b213-ad0e82133e21_en.pdf http://www.iiroc.ca/Documents/2016/4552ef44-7d10-4cea-8c4a-61922f4153bd_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Edward Peter Bodnarchuk \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofEdwardPeterBodnarchuk-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/34d33dea-5912-4728-9e1f-ca4643edf731_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/34d33dea-5912-4728-9e1f-ca4643edf731_en.pdf http://www.iiroc.ca/Documents/2016/967de18b-6190-4423-921c-96f91f576304_en.pdf http://www.iiroc.ca/Documents/2015/f6a4591f-e412-4165-a95b-e26dffee76fe_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Settlement Accepted.",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-SettlementAccepted.",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/967de18b-6190-4423-921c-96f91f576304_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/34d33dea-5912-4728-9e1f-ca4643edf731_en.pdf http://www.iiroc.ca/Documents/2016/967de18b-6190-4423-921c-96f91f576304_en.pdf http://www.iiroc.ca/Documents/2015/f6a4591f-e412-4165-a95b-e26dffee76fe_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/bd6a90f1-d3bb-411a-8da8-3f7331d4c9fd_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Richard Stanford Smith \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofRichardStanfordSmith-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-04-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/0609f376-9d89-4a1e-9b20-79bd00205630_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/0609f376-9d89-4a1e-9b20-79bd00205630_en.pdf http://www.iiroc.ca/Documents/2016/80455488-c98c-4ca8-8f6d-72e6a1c53310_en.pdf http://www.iiroc.ca/Documents/2016/1702c7f7-835f-4d48-b543-13c690801628_en.pdf http://www.iiroc.ca/Documents/2016/1c81408f-9a9e-4f0c-8af1-8cdc4efd2be9_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Krishna Sammy \u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofKrishnaSammy-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/f6736b67-f514-49da-ae74-b76f507b0e16_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/f81c730e-1c63-4783-92f5-6efa9f211200_en.pdf http://www.iiroc.ca/Documents/2016/f6736b67-f514-49da-ae74-b76f507b0e16_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Kenneth Gottfred \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofKennethGottfred-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-10"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/3a8824bc-3765-4ec0-a3d5-ad6a76ecee79_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/2677b582-9d66-4ce5-8807-db77e2f564f3_en.pdf http://www.iiroc.ca/Documents/2016/3a8824bc-3765-4ec0-a3d5-ad6a76ecee79_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Allen Samuel Mendelman \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofAllenSamuelMendelman-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/7c765f43-c34d-49b9-9561-4ec6588174f8_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/7c765f43-c34d-49b9-9561-4ec6588174f8_en.pdf http://www.iiroc.ca/Documents/2016/5b565f4c-6748-4b38-bd67-154b9fa02e42_en.pdf http://www.iiroc.ca/Documents/2016/124866cf-6554-4d65-852d-014d6f4dcb33_en.pdf http://www.iiroc.ca/Documents/2015/ab2eb231-6dad-430b-824b-16aa645e367f_en.pdf http://www.iiroc.ca/Documents/2015/bfc67369-1ace-4ce3-b8bf-1eb8f7973436_en.pdf http://www.iiroc.ca/Documents/2015/01cba768-6472-4bfa-876a-4950faa3d711_en.pdf http://www.iiroc.ca/Documents/2015/23c85f3b-93a6-4bf2-be50-803b777d5201_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Yu Qiong (Kevin) Li \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofYuQiongKevinLi-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/deb18400-255b-4bcd-a90a-59927715940c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/cdbc97a2-d37e-4270-bc20-0f2749ebb111_en.pdf http://www.iiroc.ca/Documents/2016/deb18400-255b-4bcd-a90a-59927715940c_en.pdf http://www.iiroc.ca/Documents/2015/f1ca1747-0995-4dab-9ac0-ac49653e3a75_en.pdf http://www.iiroc.ca/Documents/2015/812e8d60-7553-4478-be8e-e8fff93b73b9_en.pdf http://www.iiroc.ca/Documents/2015/e551f439-7c0f-4c29-8876-b04e465c6968_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Denyse Giroux-Garneau \u2013 Decision on Motions",
+    "_meta": {
+        "id": "IntheMatterofDenyseGiroux-Garneau-DecisiononMotions",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-02"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/124866cf-6554-4d65-852d-014d6f4dcb33_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/7c765f43-c34d-49b9-9561-4ec6588174f8_en.pdf http://www.iiroc.ca/Documents/2016/5b565f4c-6748-4b38-bd67-154b9fa02e42_en.pdf http://www.iiroc.ca/Documents/2016/124866cf-6554-4d65-852d-014d6f4dcb33_en.pdf http://www.iiroc.ca/Documents/2015/ab2eb231-6dad-430b-824b-16aa645e367f_en.pdf http://www.iiroc.ca/Documents/2015/bfc67369-1ace-4ce3-b8bf-1eb8f7973436_en.pdf http://www.iiroc.ca/Documents/2015/01cba768-6472-4bfa-876a-4950faa3d711_en.pdf http://www.iiroc.ca/Documents/2015/23c85f3b-93a6-4bf2-be50-803b777d5201_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Yu Qiong (Kevin) Li \u2013 Discipline Decision - Liability",
+    "_meta": {
+        "id": "IntheMatterofYuQiongKevinLi-DisciplineDecision-Liability",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-02"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/167d9ec2-c260-454d-b73b-4669449ff453_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/167d9ec2-c260-454d-b73b-4669449ff453_en.pdf http://www.iiroc.ca/Documents/2015/b13231c6-c98d-44df-93b0-87a54c1cd626_en.pdf http://www.iiroc.ca/Documents/2015/8827e633-239a-4afc-87e3-2761b6d928e5_en.pdf http://www.iiroc.ca/Documents/2015/ad57bc46-f3dd-4104-9c12-019fd226db2a_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Donnelly \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofJohnDonnelly-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-02"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/6c125e59-2237-4459-a009-d8aa98357e1b_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/bef860b4-70fa-446e-8598-c2721ff85f21_en.pdf http://www.iiroc.ca/Documents/2016/6c125e59-2237-4459-a009-d8aa98357e1b_en.pdf http://www.iiroc.ca/Documents/2016/40b6e38e-1432-4078-b7fa-420b346f27ee_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Wasseem Dirani \u2013 Discipline decision \u2013 Liability and Penalty",
+    "_meta": {
+        "id": "IntheMatterofWasseemDirani-Disciplinedecision-LiabilityandPenalty",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-03-01"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/7a7e9a15-39c9-4664-89fe-4b52a5da9fca_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/77bcd19f-2c2b-44f8-9b51-a88780a388bf_en.pdf http://www.iiroc.ca/Documents/2016/7a7e9a15-39c9-4664-89fe-4b52a5da9fca_en.pdf http://www.iiroc.ca/Documents/2016/87c1d457-a340-4613-ac8f-53c5d0b2f59f_en.pdf http://www.iiroc.ca/Documents/2016/3079c7b8-00cf-4bb6-9dd0-7b45803337d0_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul David Azeff and Korin David Bobrow \u2013 Application for Stay Order and Review",
+    "_meta": {
+        "id": "IntheMatterofPaulDavidAzeffandKorinDavidBobrow-ApplicationforStayOrderandReview",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-29"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/c57ac700-e737-47c0-9103-67d0d194204d_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Kim Husebye \u2013 Discipline Decision \u2013 Liability and Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofKimHusebye-DisciplineDecision-LiabilityandPenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/80455488-c98c-4ca8-8f6d-72e6a1c53310_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/0609f376-9d89-4a1e-9b20-79bd00205630_en.pdf http://www.iiroc.ca/Documents/2016/80455488-c98c-4ca8-8f6d-72e6a1c53310_en.pdf http://www.iiroc.ca/Documents/2016/1702c7f7-835f-4d48-b543-13c690801628_en.pdf http://www.iiroc.ca/Documents/2016/1c81408f-9a9e-4f0c-8af1-8cdc4efd2be9_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Krishna Sammy \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofKrishnaSammy-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-25"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/3079c7b8-00cf-4bb6-9dd0-7b45803337d0_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/77bcd19f-2c2b-44f8-9b51-a88780a388bf_en.pdf http://www.iiroc.ca/Documents/2016/7a7e9a15-39c9-4664-89fe-4b52a5da9fca_en.pdf http://www.iiroc.ca/Documents/2016/87c1d457-a340-4613-ac8f-53c5d0b2f59f_en.pdf http://www.iiroc.ca/Documents/2016/3079c7b8-00cf-4bb6-9dd0-7b45803337d0_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul David Azeff and Korin David Bobrow \u2013 Suspension Decision",
+    "_meta": {
+        "id": "IntheMatterofPaulDavidAzeffandKorinDavidBobrow-SuspensionDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/14573298-4b74-47a2-98d7-4a2197ed6d99_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/5b42f2d6-6a58-4c54-aecf-b3f030af27cb_en.pdf http://www.iiroc.ca/Documents/2016/c4da56f4-210e-488a-a8d8-64bf37f86e60_en.pdf http://www.iiroc.ca/Documents/2016/14573298-4b74-47a2-98d7-4a2197ed6d99_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Dominic Tersigni \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofDominicTersigni-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-12"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/63d149fc-89c7-45c8-92ce-f501b9de28d8_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/bceacdf6-779b-4fd9-93c3-80bd3ec054e2_en.pdf http://www.iiroc.ca/Documents/2016/63d149fc-89c7-45c8-92ce-f501b9de28d8_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jayanth Noronha \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofJayanthNoronha-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-09"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/5811105d-a2c3-4bc7-8c77-7546ee154494_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/5e93a295-1eb8-4b08-9346-7f11ba459878_en.pdf http://www.iiroc.ca/Documents/2016/5811105d-a2c3-4bc7-8c77-7546ee154494_en.pdf http://www.iiroc.ca/Documents/2015/da1d63ed-6dc2-4035-9c3f-947019b25c3c_en.pdf"
+        }
+    ],
+    "name": "IN THE MATTER OF Industrial Alliance Securities Inc. \u2014 Settlement Accepted",
+    "_meta": {
+        "id": "INTHEMATTEROFIndustrialAllianceSecuritiesInc.--SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-02-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/409551b3-f3fd-4dd1-90ac-7a6a97f8d6d2_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/409551b3-f3fd-4dd1-90ac-7a6a97f8d6d2_en.pdf http://www.iiroc.ca/Documents/2016/fdd6d5f3-314c-4d87-86b2-9b100255db9e_en.pdf http://www.iiroc.ca/Documents/2016/cd7b8297-4b67-4d9e-a55d-6ca80bbf458d_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Earl Marek \u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofEarlMarek-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/e456d9db-a8fd-4621-acbc-bacc7e7d10ab_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/6189bafb-5550-4d2f-943f-39d2390c56ca_en.pdf http://www.iiroc.ca/Documents/2016/e456d9db-a8fd-4621-acbc-bacc7e7d10ab_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jeremy Nicholas Drew Austin \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofJeremyNicholasDrewAustin-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/fbc9796b-ad7a-48e8-8f97-57dd7d2d2495_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/fbc9796b-ad7a-48e8-8f97-57dd7d2d2495_en.pdf http://www.iiroc.ca/Documents/2015/ede994fa-d159-4e5f-9215-043d5b8bf61d_en.pdf http://www.iiroc.ca/Documents/2015/79873508-677a-48c2-8b78-3d6da9bd50ea_en.pdf http://www.iiroc.ca/Documents/2014/42d41c63-6e3a-4d73-b81d-9c58b1f4b8b7_en.pdf http://www.iiroc.ca/Documents/2014/83d470ff-8c4b-40ab-a5e3-cb3ac853b230_en.pdf http://www.iiroc.ca/Documents/2014/8c6068f9-0b65-4439-a000-770158af390b_en.pdf http://www.iiroc.ca/Documents/2014/6d35f426-db99-4087-8137-498beee0f4c3_en.pdf http://www.iiroc.ca/Documents/2014/239398da-ee8a-413d-a821-0167c419123d_en.pdf http://www.iiroc.ca/Documents/2014/7177f2e9-02a3-4b02-8228-affa2fa19d5d_en.pdf http://www.iiroc.ca/Documents/2014/63cd8fe2-7c19-4127-b8a9-ce52adcd6214_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul Christopher Darrigo \u2013 Review Hearing",
+    "_meta": {
+        "id": "IntheMatterofPaulChristopherDarrigo-ReviewHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/1c81408f-9a9e-4f0c-8af1-8cdc4efd2be9_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/0609f376-9d89-4a1e-9b20-79bd00205630_en.pdf http://www.iiroc.ca/Documents/2016/80455488-c98c-4ca8-8f6d-72e6a1c53310_en.pdf http://www.iiroc.ca/Documents/2016/1702c7f7-835f-4d48-b543-13c690801628_en.pdf http://www.iiroc.ca/Documents/2016/1c81408f-9a9e-4f0c-8af1-8cdc4efd2be9_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Krishna Sammy \u2013 Discipline Decision \u2013 Liability",
+    "_meta": {
+        "id": "IntheMatterofKrishnaSammy-DisciplineDecision-Liability",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/cd7b8297-4b67-4d9e-a55d-6ca80bbf458d_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/409551b3-f3fd-4dd1-90ac-7a6a97f8d6d2_en.pdf http://www.iiroc.ca/Documents/2016/fdd6d5f3-314c-4d87-86b2-9b100255db9e_en.pdf http://www.iiroc.ca/Documents/2016/cd7b8297-4b67-4d9e-a55d-6ca80bbf458d_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Earl Marek \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofEarlMarek-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-20"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/126a6da3-8226-4dec-96c1-3dcbae986d54_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/41fd694c-c2a6-4279-8850-c80d3c0de5bf_en.pdf http://www.iiroc.ca/Documents/2016/6aa1f2e7-c5a7-4145-90b2-c873c762c35a_en.pdf http://www.iiroc.ca/Documents/2016/126a6da3-8226-4dec-96c1-3dcbae986d54_en.pdf http://www.iiroc.ca/Documents/2015/62b02912-41a1-4f27-9327-ccaed29bbd5e_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Thomas Thong Thai \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofThomasThongThai-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-19"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/495e77ed-ef65-4537-8605-678595625d03_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/459f164f-228b-47d4-b61d-12116470a318_en.pdf http://www.iiroc.ca/Documents/2016/fad52806-e722-4009-a716-a33b9221e319_en.pdf http://www.iiroc.ca/Documents/2016/495e77ed-ef65-4537-8605-678595625d03_en.pdf http://www.iiroc.ca/Documents/2015/e84a507d-f74b-4abc-bfda-8fd16ce3664c_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Gary Clarke \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofGaryClarke-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-14"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/40b6e38e-1432-4078-b7fa-420b346f27ee_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/bef860b4-70fa-446e-8598-c2721ff85f21_en.pdf http://www.iiroc.ca/Documents/2016/6c125e59-2237-4459-a009-d8aa98357e1b_en.pdf http://www.iiroc.ca/Documents/2016/40b6e38e-1432-4078-b7fa-420b346f27ee_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Wasseem Dirani \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofWasseemDirani-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/8e3d6bb2-db57-48b0-a81b-0d27cba3b580_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/8e3d6bb2-db57-48b0-a81b-0d27cba3b580_en.pdf http://www.iiroc.ca/Documents/2015/73bee3bb-a1c8-45e5-90ef-c7c30f1e1bb8_en.pdf http://www.iiroc.ca/Documents/2015/b338e32b-0b5e-4658-b18b-ecc38d64c860_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Ferdinand Renaud \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofFerdinandRenaud-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-11"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/35548d4a-a3cf-4adc-bc9b-eb0255139a42_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Xavier Cheng Kuo Li \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofXavierChengKuoLi-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/fc459928-7fb4-45c4-95b1-46ed7340a5c6_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/59b2c34e-637e-4bd3-a483-94fd089a74e8_en.pdf http://www.iiroc.ca/Documents/2016/ad9684a8-1fd8-413a-a788-c655b2cc65cf_en.pdf http://www.iiroc.ca/Documents/2016/fc459928-7fb4-45c4-95b1-46ed7340a5c6_en.pdf http://www.iiroc.ca/Documents/2015/11ad76ac-4a62-4d23-9665-eb1d3a7f158f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Global Maxfin Capital Inc. and Issam El-Bouji \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofGlobalMaxfinCapitalInc.andIssamEl-Bouji-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2016-01-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2016/869127bb-eea4-4fec-8471-b6332deabe7f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Scott Philip Lower \u2013 Appeal Decision",
+    "_meta": {
+        "id": "IntheMatterofScottPhilipLower-AppealDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-22"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/47138128-a99b-49bd-aa5b-af530a3762ed_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7bb4e394-4a3d-4a3c-8417-b01fba801eee_en.pdf http://www.iiroc.ca/Documents/2015/47138128-a99b-49bd-aa5b-af530a3762ed_en.pdf http://www.iiroc.ca/Documents/2015/4672b84e-f449-4e67-a4ce-3d17f8fc1283_en.pdf http://www.iiroc.ca/Documents/2015/fcf4bacf-e45a-4a52-9b73-8e8ead085620_en.pdf http://www.iiroc.ca/Documents/2015/3afe28a3-33fb-4ef9-9b65-f90084201ba3_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Edgecrest Capital Corporation \u2013 Discipline Decision - Termination",
+    "_meta": {
+        "id": "IntheMatterofEdgecrestCapitalCorporation-DisciplineDecision-Termination",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f1ca1747-0995-4dab-9ac0-ac49653e3a75_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/cdbc97a2-d37e-4270-bc20-0f2749ebb111_en.pdf http://www.iiroc.ca/Documents/2016/deb18400-255b-4bcd-a90a-59927715940c_en.pdf http://www.iiroc.ca/Documents/2015/f1ca1747-0995-4dab-9ac0-ac49653e3a75_en.pdf http://www.iiroc.ca/Documents/2015/812e8d60-7553-4478-be8e-e8fff93b73b9_en.pdf http://www.iiroc.ca/Documents/2015/e551f439-7c0f-4c29-8876-b04e465c6968_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Denyse Giroux-Garneau \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofDenyseGiroux-Garneau-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-18"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/ca4b381f-8a76-4a4e-ab0d-9cd8a409ffb9_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/05155a6b-9b50-4781-8d10-e2cc97acc4ca_en.pdf http://www.iiroc.ca/Documents/2015/ca4b381f-8a76-4a4e-ab0d-9cd8a409ffb9_en.pdf http://www.iiroc.ca/Documents/2015/91b57910-6489-4f11-9ceb-aa3ea277c494_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacob Securities Inc. \u2013 Suspension",
+    "_meta": {
+        "id": "IntheMatterofJacobSecuritiesInc.-Suspension",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-18"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e84a507d-f74b-4abc-bfda-8fd16ce3664c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/459f164f-228b-47d4-b61d-12116470a318_en.pdf http://www.iiroc.ca/Documents/2016/fad52806-e722-4009-a716-a33b9221e319_en.pdf http://www.iiroc.ca/Documents/2016/495e77ed-ef65-4537-8605-678595625d03_en.pdf http://www.iiroc.ca/Documents/2015/e84a507d-f74b-4abc-bfda-8fd16ce3664c_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Gary Clarke \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofGaryClarke-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-18"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/9467fe68-bcf5-4637-b501-dad076491e17_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/9467fe68-bcf5-4637-b501-dad076491e17_en.pdf http://www.iiroc.ca/Documents/2015/fa556365-8676-4d87-9c53-d773f7851d42_en.pdf http://www.iiroc.ca/Documents/2015/e5bb5797-56dc-4494-b32d-ec45adf88ac1_en.pdf http://www.iiroc.ca/Documents/2015/5481b32d-8cf1-4da2-b2a2-c845d5535e8e_en.pdf http://www.iiroc.ca/Documents/2015/c6942fbf-bead-4561-b2d7-5489642848dc_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul David Azeff and Korin David Bobrow \u2013 Expedited Hearing",
+    "_meta": {
+        "id": "IntheMatterofPaulDavidAzeffandKorinDavidBobrow-ExpeditedHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-14"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f6a4591f-e412-4165-a95b-e26dffee76fe_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/34d33dea-5912-4728-9e1f-ca4643edf731_en.pdf http://www.iiroc.ca/Documents/2016/967de18b-6190-4423-921c-96f91f576304_en.pdf http://www.iiroc.ca/Documents/2015/f6a4591f-e412-4165-a95b-e26dffee76fe_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Order",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-Order",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-10"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/c16efad7-c5c1-4a4c-af62-5ad5a7e72724_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/c900114d-4f9c-4c3d-9560-775c8c08cbc3_en.pdf http://www.iiroc.ca/Documents/2016/5c5433e4-e94a-4dcf-afb4-5e26063160b1_en.pdf http://www.iiroc.ca/Documents/2015/12d44d18-defe-496e-876e-61edbbc12034_en.pdf http://www.iiroc.ca/Documents/2015/c16efad7-c5c1-4a4c-af62-5ad5a7e72724_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Xavier Cheng Kuo Li \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofXavierChengKuoLi-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/62b02912-41a1-4f27-9327-ccaed29bbd5e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/41fd694c-c2a6-4279-8850-c80d3c0de5bf_en.pdf http://www.iiroc.ca/Documents/2016/6aa1f2e7-c5a7-4145-90b2-c873c762c35a_en.pdf http://www.iiroc.ca/Documents/2016/126a6da3-8226-4dec-96c1-3dcbae986d54_en.pdf http://www.iiroc.ca/Documents/2015/62b02912-41a1-4f27-9327-ccaed29bbd5e_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Thomas Thong Thai \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofThomasThongThai-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/ce3aa6b0-5d4d-4c1b-9203-12ee8b5a486d_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/773a8cd3-acfc-4a05-af4a-3a831c1627a6_en.pdf http://www.iiroc.ca/Documents/2015/ce3aa6b0-5d4d-4c1b-9203-12ee8b5a486d_en.pdf http://www.iiroc.ca/Documents/2015/b5ba1a3c-cc60-4af4-99eb-91cc76b5ddb5_en.pdf http://www.iiroc.ca/Documents/2015/6e1e48fa-3aaa-4d62-a44f-c291fc637009_en.pdf http://www.iiroc.ca/Documents/2015/712651a5-dd0a-4b29-9955-0954a3cc1875_en.pdf http://www.iiroc.ca/Documents/2015/bcc8a904-e1ce-41ab-953e-8e9f17c91743_en.pdf http://www.iiroc.ca/Documents/2015/3bfe3714-2c3a-492d-ae38-38d34f370fdf_en.pdf http://www.iiroc.ca/Documents/2015/d23e438d-11e8-4eac-92c8-93e4e355e0b2_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacques Turenne \u2013 Penalty Decision",
+    "_meta": {
+        "id": "IntheMatterofJacquesTurenne-PenaltyDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e35dc11f-3c1b-43c6-b9c8-b958a3b9e782_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/db232cae-9f34-4bd2-b4a6-62c5e2864e9e_en.pdf http://www.iiroc.ca/Documents/2015/c6bd20bb-27b2-4cb6-85dc-8e6e385284db_en.pdf http://www.iiroc.ca/Documents/2015/e35dc11f-3c1b-43c6-b9c8-b958a3b9e782_en.pdf http://www.iiroc.ca/Documents/2015/d80de836-46bd-4dc1-8b61-ceb7779f6041_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.doc http://www.iiroc.ca/Documents/2015/a353d7e4-e0f5-4fed-83de-bae2db48e15c_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.pdf http://www.iiroc.ca/Documents/2015/98ea6849-d5d4-428a-9545-14abc91c418a_en.pdf http://www.iiroc.ca/Documents/2015/6903944f-0545-4914-b103-9e0bfc5b5417_en.pdf http://www.iiroc.ca/Documents/2015/9b4f8604-b003-41c1-9231-971894c06f35_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Lewis \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofRobertLewis-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/26abee9e-73f4-4de6-9e7d-22b1d8e799e8_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/dd5aedb6-7b23-4762-ad43-1a236cea46f5_en.pdf http://www.iiroc.ca/Documents/2015/0d686fb3-6f02-4e6e-84fa-7c6f9ad133be_en.pdf http://www.iiroc.ca/Documents/2015/26abee9e-73f4-4de6-9e7d-22b1d8e799e8_en.pdf http://www.iiroc.ca/Documents/2015/94d6ffc9-8de0-4c79-baab-7f2fe2bf5128_en.pdf http://www.iiroc.ca/Documents/2015/f838d58e-a913-491e-8f75-1d793aae4bfd_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Darin Lee Chung \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofDarinLeeChung-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/b13231c6-c98d-44df-93b0-87a54c1cd626_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/167d9ec2-c260-454d-b73b-4669449ff453_en.pdf http://www.iiroc.ca/Documents/2015/b13231c6-c98d-44df-93b0-87a54c1cd626_en.pdf http://www.iiroc.ca/Documents/2015/8827e633-239a-4afc-87e3-2761b6d928e5_en.pdf http://www.iiroc.ca/Documents/2015/ad57bc46-f3dd-4104-9c12-019fd226db2a_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Donnelly \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofJohnDonnelly-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-03"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/22c98b83-d863-4dd9-b43d-27bb89e57d77_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/2c08181d-9a30-4a0c-97b9-5c8e7834d0e7_en.pdf http://www.iiroc.ca/Documents/2015/2f998223-7541-4ab0-b7a3-89f2eb8e15c9_en.pdf http://www.iiroc.ca/Documents/2015/22c98b83-d863-4dd9-b43d-27bb89e57d77_en.pdf http://www.iiroc.ca/Documents/2015/4d66e83f-407b-4613-8dde-0a822d2b294f_en.pdf http://www.iiroc.ca/Documents/2015/09b342a2-d60d-4748-b731-391997000040_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Octagon Capital Corporation \u2013 Suspension",
+    "_meta": {
+        "id": "IntheMatterofOctagonCapitalCorporation-Suspension",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-12-01"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/09b342a2-d60d-4748-b731-391997000040_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/2c08181d-9a30-4a0c-97b9-5c8e7834d0e7_en.pdf http://www.iiroc.ca/Documents/2015/2f998223-7541-4ab0-b7a3-89f2eb8e15c9_en.pdf http://www.iiroc.ca/Documents/2015/22c98b83-d863-4dd9-b43d-27bb89e57d77_en.pdf http://www.iiroc.ca/Documents/2015/4d66e83f-407b-4613-8dde-0a822d2b294f_en.pdf http://www.iiroc.ca/Documents/2015/09b342a2-d60d-4748-b731-391997000040_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Octagon Capital Corporation \u2013 Expedited Hearing",
+    "_meta": {
+        "id": "IntheMatterofOctagonCapitalCorporation-ExpeditedHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/11ad76ac-4a62-4d23-9665-eb1d3a7f158f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/59b2c34e-637e-4bd3-a483-94fd089a74e8_en.pdf http://www.iiroc.ca/Documents/2016/ad9684a8-1fd8-413a-a788-c655b2cc65cf_en.pdf http://www.iiroc.ca/Documents/2016/fc459928-7fb4-45c4-95b1-46ed7340a5c6_en.pdf http://www.iiroc.ca/Documents/2015/11ad76ac-4a62-4d23-9665-eb1d3a7f158f_en.pdf"
+        }
+    ],
+    "name": "In the matter of Global Maxfin Capital Inc. and Issam El-Bouji \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "InthematterofGlobalMaxfinCapitalInc.andIssamEl-Bouji-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-24"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e5bb5797-56dc-4494-b32d-ec45adf88ac1_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/9467fe68-bcf5-4637-b501-dad076491e17_en.pdf http://www.iiroc.ca/Documents/2015/fa556365-8676-4d87-9c53-d773f7851d42_en.pdf http://www.iiroc.ca/Documents/2015/e5bb5797-56dc-4494-b32d-ec45adf88ac1_en.pdf http://www.iiroc.ca/Documents/2015/5481b32d-8cf1-4da2-b2a2-c845d5535e8e_en.pdf http://www.iiroc.ca/Documents/2015/c6942fbf-bead-4561-b2d7-5489642848dc_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul David Azeff and Korin David Bobrow\u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofPaulDavidAzeffandKorinDavidBobrow-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-18"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/d48d2374-05bb-4173-b6ca-ae73d3ccb539_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/de642aab-093c-4b91-a883-bf97791868c0_en.pdf http://www.iiroc.ca/Documents/2015/c6efed87-485b-48e9-98c6-dd03c80c580b_en.pdf http://www.iiroc.ca/Documents/2015/d48d2374-05bb-4173-b6ca-ae73d3ccb539_en.pdf http://www.iiroc.ca/Documents/2015/3e4cce9e-0d7f-4fcb-a22a-ae696042fc75_en.pdf http://www.iiroc.ca/Documents/2015/c44c1b30-4552-4eaf-af63-9df1336598b0_en.pdf http://www.iiroc.ca/Documents/2015/6c30feae-05ea-4af0-8525-6f6d43b3df52_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Connor \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofRobertConnor-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-12"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/d80de836-46bd-4dc1-8b61-ceb7779f6041_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/db232cae-9f34-4bd2-b4a6-62c5e2864e9e_en.pdf http://www.iiroc.ca/Documents/2015/c6bd20bb-27b2-4cb6-85dc-8e6e385284db_en.pdf http://www.iiroc.ca/Documents/2015/e35dc11f-3c1b-43c6-b9c8-b958a3b9e782_en.pdf http://www.iiroc.ca/Documents/2015/d80de836-46bd-4dc1-8b61-ceb7779f6041_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.doc http://www.iiroc.ca/Documents/2015/a353d7e4-e0f5-4fed-83de-bae2db48e15c_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.pdf http://www.iiroc.ca/Documents/2015/98ea6849-d5d4-428a-9545-14abc91c418a_en.pdf http://www.iiroc.ca/Documents/2015/6903944f-0545-4914-b103-9e0bfc5b5417_en.pdf http://www.iiroc.ca/Documents/2015/9b4f8604-b003-41c1-9231-971894c06f35_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Lewis \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofRobertLewis-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/8827e633-239a-4afc-87e3-2761b6d928e5_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/167d9ec2-c260-454d-b73b-4669449ff453_en.pdf http://www.iiroc.ca/Documents/2015/b13231c6-c98d-44df-93b0-87a54c1cd626_en.pdf http://www.iiroc.ca/Documents/2015/8827e633-239a-4afc-87e3-2761b6d928e5_en.pdf http://www.iiroc.ca/Documents/2015/ad57bc46-f3dd-4104-9c12-019fd226db2a_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Donnelly \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofJohnDonnelly-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/c6942fbf-bead-4561-b2d7-5489642848dc_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/9467fe68-bcf5-4637-b501-dad076491e17_en.pdf http://www.iiroc.ca/Documents/2015/fa556365-8676-4d87-9c53-d773f7851d42_en.pdf http://www.iiroc.ca/Documents/2015/e5bb5797-56dc-4494-b32d-ec45adf88ac1_en.pdf http://www.iiroc.ca/Documents/2015/5481b32d-8cf1-4da2-b2a2-c845d5535e8e_en.pdf http://www.iiroc.ca/Documents/2015/c6942fbf-bead-4561-b2d7-5489642848dc_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul David Azeff and Korin David Bobrow \u2013 Expedited Hearing",
+    "_meta": {
+        "id": "IntheMatterofPaulDavidAzeffandKorinDavidBobrow-ExpeditedHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-11-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3f88e33f-4b9c-45eb-8700-639fe2437b54_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Northern Securities Inc. and Victor Philip Alboini \u2013 Appeal Decision",
+    "_meta": {
+        "id": "IntheMatterofNorthernSecuritiesInc.andVictorPhilipAlboini-AppealDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/92b37d7e-2c9e-42a8-8df6-4e82b26d253e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/c9256dcc-7f31-41e5-87f4-84eeda29e072_en.pdf http://www.iiroc.ca/Documents/2015/92b37d7e-2c9e-42a8-8df6-4e82b26d253e_en.pdf http://www.iiroc.ca/Documents/2015/1fcda29e-252f-499b-8775-d531d7258004_en.pdf http://www.iiroc.ca/Documents/2015/e3611b2c-e793-4096-ae64-49a3bf6901a9_en.pdf"
+        }
+    ],
+    "name": "In the matter of Assante Capital Management Ltd. \u2013Settlement Accepted",
+    "_meta": {
+        "id": "InthematterofAssanteCapitalManagementLtd.-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3b0b7005-51a9-4e3e-95ef-2e98823a8aee_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3b0b7005-51a9-4e3e-95ef-2e98823a8aee_en.pdf http://www.iiroc.ca/Documents/2015/41183690-13af-4c5e-920e-d60ae6f2ec43_en.pdf http://www.iiroc.ca/Documents/2015/bcce9c60-aa1f-49a2-82fb-8b5c8fbf87f1_en.pdf http://www.iiroc.ca/Documents/2015/cf6404a4-e6c9-47d9-895b-91366106499f_en.pdf http://www.iiroc.ca/Documents/2015/3ff4c4bb-59dc-4225-90c4-4fff96ad6793_en.pdf http://www.iiroc.ca/Documents/2015/8461df06-d43a-4de8-a64b-6bb386c744ca_en.pdf"
+        }
+    ],
+    "name": "In the matter of Robert Adrian Crandall \u2013 Motion Decision",
+    "_meta": {
+        "id": "InthematterofRobertAdrianCrandall-MotionDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f74c2a3f-700b-4f2c-a150-b14e31b5e397_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/dc708d1b-9675-4720-ad5e-8ccf7c9be442_en.pdf http://www.iiroc.ca/Documents/2015/f0ffe5df-67fa-4bb9-8efc-5121da9657ea_en.pdf http://www.iiroc.ca/Documents/2015/f74c2a3f-700b-4f2c-a150-b14e31b5e397_en.pdf http://www.iiroc.ca/Documents/2015/98fc13db-40aa-4a18-b7d8-8b69870c3d99_en.pdf"
+        }
+    ],
+    "name": "In the matter of James Frederick Norman Mackie and Tricia Joanne Leadbeater \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "InthematterofJamesFrederickNormanMackieandTriciaJoanneLeadbeater-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/73bee3bb-a1c8-45e5-90ef-c7c30f1e1bb8_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/8e3d6bb2-db57-48b0-a81b-0d27cba3b580_en.pdf http://www.iiroc.ca/Documents/2015/73bee3bb-a1c8-45e5-90ef-c7c30f1e1bb8_en.pdf http://www.iiroc.ca/Documents/2015/b338e32b-0b5e-4658-b18b-ecc38d64c860_en.pdf"
+        }
+    ],
+    "name": "In the matter of Ferdinand Renaud \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "InthematterofFerdinandRenaud-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/a353d7e4-e0f5-4fed-83de-bae2db48e15c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/db232cae-9f34-4bd2-b4a6-62c5e2864e9e_en.pdf http://www.iiroc.ca/Documents/2015/c6bd20bb-27b2-4cb6-85dc-8e6e385284db_en.pdf http://www.iiroc.ca/Documents/2015/e35dc11f-3c1b-43c6-b9c8-b958a3b9e782_en.pdf http://www.iiroc.ca/Documents/2015/d80de836-46bd-4dc1-8b61-ceb7779f6041_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.doc http://www.iiroc.ca/Documents/2015/a353d7e4-e0f5-4fed-83de-bae2db48e15c_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.pdf http://www.iiroc.ca/Documents/2015/98ea6849-d5d4-428a-9545-14abc91c418a_en.pdf http://www.iiroc.ca/Documents/2015/6903944f-0545-4914-b103-9e0bfc5b5417_en.pdf http://www.iiroc.ca/Documents/2015/9b4f8604-b003-41c1-9231-971894c06f35_en.pdf"
+        }
+    ],
+    "name": "In the matter of John Phillip Watts and Sean Thomas Hickey \u2013 Order",
+    "_meta": {
+        "id": "InthematterofJohnPhillipWattsandSeanThomasHickey-Order",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/98ea6849-d5d4-428a-9545-14abc91c418a_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/db232cae-9f34-4bd2-b4a6-62c5e2864e9e_en.pdf http://www.iiroc.ca/Documents/2015/c6bd20bb-27b2-4cb6-85dc-8e6e385284db_en.pdf http://www.iiroc.ca/Documents/2015/e35dc11f-3c1b-43c6-b9c8-b958a3b9e782_en.pdf http://www.iiroc.ca/Documents/2015/d80de836-46bd-4dc1-8b61-ceb7779f6041_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.doc http://www.iiroc.ca/Documents/2015/a353d7e4-e0f5-4fed-83de-bae2db48e15c_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.pdf http://www.iiroc.ca/Documents/2015/98ea6849-d5d4-428a-9545-14abc91c418a_en.pdf http://www.iiroc.ca/Documents/2015/6903944f-0545-4914-b103-9e0bfc5b5417_en.pdf http://www.iiroc.ca/Documents/2015/9b4f8604-b003-41c1-9231-971894c06f35_en.pdf"
+        }
+    ],
+    "name": "In the matter of Robert James Lewis \u2013 Motion",
+    "_meta": {
+        "id": "InthematterofRobertJamesLewis-Motion",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/da1d63ed-6dc2-4035-9c3f-947019b25c3c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/5e93a295-1eb8-4b08-9346-7f11ba459878_en.pdf http://www.iiroc.ca/Documents/2016/5811105d-a2c3-4bc7-8c77-7546ee154494_en.pdf http://www.iiroc.ca/Documents/2015/da1d63ed-6dc2-4035-9c3f-947019b25c3c_en.pdf"
+        }
+    ],
+    "name": "In the matter of Industrial Alliance Securities Inc. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "InthematterofIndustrialAllianceSecuritiesInc.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-15"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/415f4db1-5dfe-4afe-b4b5-161247a7bd4c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/415f4db1-5dfe-4afe-b4b5-161247a7bd4c_en.pdf http://www.iiroc.ca/Documents/2015/3f2a6319-a02c-47ed-82e5-93bc7fd04292_en.pdf http://www.iiroc.ca/Documents/2015/1dd716a7-f852-4e65-a5d9-3c21324f2396_en.pdf http://www.iiroc.ca/Documents/2015/e723265d-5bcc-4006-8d69-52f9da019201_en.pdf"
+        }
+    ],
+    "name": "IN THE MATTER OF Norman Robert Todd Armstrong \u2013 Discipline Decision \u2013 Liability and Penalty",
+    "_meta": {
+        "id": "INTHEMATTEROFNormanRobertToddArmstrong-DisciplineDecision-LiabilityandPenalty",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-15"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/70756e81-6c60-4b4b-b35a-17ade156c153_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/194da7d8-698a-4e72-af55-0ebff67dd7b0_en.pdf http://www.iiroc.ca/Documents/2015/70756e81-6c60-4b4b-b35a-17ade156c153_en.pdf http://www.iiroc.ca/Documents/2015/de4da506-12b1-4d2d-9647-d9f1261f7c20_en.pdf http://www.iiroc.ca/Documents/2015/367cafda-52ae-4be6-8281-ed4822235da3_en.pdf http://www.iiroc.ca/Documents/2015/b0cd7a67-f51a-4038-bb0d-69ca4b628f61_en.pdf"
+        }
+    ],
+    "name": "IN THE MATTER OF Gerald Stefaniuk aka Jerry Stefaniuk \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "INTHEMATTEROFGeraldStefaniukakaJerryStefaniuk-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3e4cce9e-0d7f-4fcb-a22a-ae696042fc75_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/de642aab-093c-4b91-a883-bf97791868c0_en.pdf http://www.iiroc.ca/Documents/2015/c6efed87-485b-48e9-98c6-dd03c80c580b_en.pdf http://www.iiroc.ca/Documents/2015/d48d2374-05bb-4173-b6ca-ae73d3ccb539_en.pdf http://www.iiroc.ca/Documents/2015/3e4cce9e-0d7f-4fcb-a22a-ae696042fc75_en.pdf http://www.iiroc.ca/Documents/2015/c44c1b30-4552-4eaf-af63-9df1336598b0_en.pdf http://www.iiroc.ca/Documents/2015/6c30feae-05ea-4af0-8525-6f6d43b3df52_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Connor \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofRobertConnor-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e551f439-7c0f-4c29-8876-b04e465c6968_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/cdbc97a2-d37e-4270-bc20-0f2749ebb111_en.pdf http://www.iiroc.ca/Documents/2016/deb18400-255b-4bcd-a90a-59927715940c_en.pdf http://www.iiroc.ca/Documents/2015/f1ca1747-0995-4dab-9ac0-ac49653e3a75_en.pdf http://www.iiroc.ca/Documents/2015/812e8d60-7553-4478-be8e-e8fff93b73b9_en.pdf http://www.iiroc.ca/Documents/2015/e551f439-7c0f-4c29-8876-b04e465c6968_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Denyse Giroux-Garneau \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofDenyseGiroux-Garneau-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e3611b2c-e793-4096-ae64-49a3bf6901a9_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/c9256dcc-7f31-41e5-87f4-84eeda29e072_en.pdf http://www.iiroc.ca/Documents/2015/92b37d7e-2c9e-42a8-8df6-4e82b26d253e_en.pdf http://www.iiroc.ca/Documents/2015/1fcda29e-252f-499b-8775-d531d7258004_en.pdf http://www.iiroc.ca/Documents/2015/e3611b2c-e793-4096-ae64-49a3bf6901a9_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Assante Capital Management Ltd. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofAssanteCapitalManagementLtd.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-10-01"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/98fc13db-40aa-4a18-b7d8-8b69870c3d99_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/dc708d1b-9675-4720-ad5e-8ccf7c9be442_en.pdf http://www.iiroc.ca/Documents/2015/f0ffe5df-67fa-4bb9-8efc-5121da9657ea_en.pdf http://www.iiroc.ca/Documents/2015/f74c2a3f-700b-4f2c-a150-b14e31b5e397_en.pdf http://www.iiroc.ca/Documents/2015/98fc13db-40aa-4a18-b7d8-8b69870c3d99_en.pdf"
+        }
+    ],
+    "name": "In the Matter of James Frederick Norman Mackie and Tricia Joanne Leadbeater \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofJamesFrederickNormanMackieandTriciaJoanneLeadbeater-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-30"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/bcce9c60-aa1f-49a2-82fb-8b5c8fbf87f1_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3b0b7005-51a9-4e3e-95ef-2e98823a8aee_en.pdf http://www.iiroc.ca/Documents/2015/41183690-13af-4c5e-920e-d60ae6f2ec43_en.pdf http://www.iiroc.ca/Documents/2015/bcce9c60-aa1f-49a2-82fb-8b5c8fbf87f1_en.pdf http://www.iiroc.ca/Documents/2015/cf6404a4-e6c9-47d9-895b-91366106499f_en.pdf http://www.iiroc.ca/Documents/2015/3ff4c4bb-59dc-4225-90c4-4fff96ad6793_en.pdf http://www.iiroc.ca/Documents/2015/8461df06-d43a-4de8-a64b-6bb386c744ca_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Adrian Crandall \u2013 Motion Decision and Disciplinary Hearing",
+    "_meta": {
+        "id": "IntheMatterofRobertAdrianCrandall-MotionDecisionandDisciplinaryHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-25"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/b5ba1a3c-cc60-4af4-99eb-91cc76b5ddb5_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/773a8cd3-acfc-4a05-af4a-3a831c1627a6_en.pdf http://www.iiroc.ca/Documents/2015/ce3aa6b0-5d4d-4c1b-9203-12ee8b5a486d_en.pdf http://www.iiroc.ca/Documents/2015/b5ba1a3c-cc60-4af4-99eb-91cc76b5ddb5_en.pdf http://www.iiroc.ca/Documents/2015/6e1e48fa-3aaa-4d62-a44f-c291fc637009_en.pdf http://www.iiroc.ca/Documents/2015/712651a5-dd0a-4b29-9955-0954a3cc1875_en.pdf http://www.iiroc.ca/Documents/2015/bcc8a904-e1ce-41ab-953e-8e9f17c91743_en.pdf http://www.iiroc.ca/Documents/2015/3bfe3714-2c3a-492d-ae38-38d34f370fdf_en.pdf http://www.iiroc.ca/Documents/2015/d23e438d-11e8-4eac-92c8-93e4e355e0b2_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacques Turenne \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofJacquesTurenne-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-18"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/82c99293-c6ee-4909-9526-289576fd4266_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/84614112-6737-4bb0-abcb-e14fc66f82c1_en.pdf http://www.iiroc.ca/Documents/2015/82c99293-c6ee-4909-9526-289576fd4266_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Order",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-Order",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-14"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/b9f9a863-064f-426f-9a31-2e1341a3f779_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/b9f9a863-064f-426f-9a31-2e1341a3f779_en.pdf http://www.iiroc.ca/Documents/2015/33bf8a7b-08f3-48e1-b2d5-39621ea8cb81_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Bryan Andrew Vickers \u2013 Penalty Decision",
+    "_meta": {
+        "id": "IntheMatterofBryanAndrewVickers-PenaltyDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-11"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3afe28a3-33fb-4ef9-9b65-f90084201ba3_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7bb4e394-4a3d-4a3c-8417-b01fba801eee_en.pdf http://www.iiroc.ca/Documents/2015/47138128-a99b-49bd-aa5b-af530a3762ed_en.pdf http://www.iiroc.ca/Documents/2015/4672b84e-f449-4e67-a4ce-3d17f8fc1283_en.pdf http://www.iiroc.ca/Documents/2015/fcf4bacf-e45a-4a52-9b73-8e8ead085620_en.pdf http://www.iiroc.ca/Documents/2015/3afe28a3-33fb-4ef9-9b65-f90084201ba3_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Edgecrest Capital Corporation \u2013 Discipline Decision - Suspension",
+    "_meta": {
+        "id": "IntheMatterofEdgecrestCapitalCorporation-DisciplineDecision-Suspension",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-09"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/a57d4f38-bb57-4d4c-9b3f-a90c26a7eb18_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/252b97d8-d290-4186-9092-df25de6dcb71_en.pdf http://www.iiroc.ca/Documents/2015/a57d4f38-bb57-4d4c-9b3f-a90c26a7eb18_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Edgecrest Capital Corporation \u2013 Expedited Hearing",
+    "_meta": {
+        "id": "IntheMatterofEdgecrestCapitalCorporation-ExpeditedHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-09-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/0db8d4b9-5a9f-493d-b909-aa7d7d464386_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7701b601-5c87-44f6-9c0e-4cbb741f4d76_en.pdf http://www.iiroc.ca/Documents/2015/e6f96ae6-4f92-461a-ae68-70b2958b8baf_en.pdf http://www.iiroc.ca/Documents/2015/0db8d4b9-5a9f-493d-b909-aa7d7d464386_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Brian Douglas Bergen and Leede Financial Markets Inc. \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofBrianDouglasBergenandLeedeFinancialMarketsInc.-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/15142028-b601-43f9-ad8b-890a67a0891e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/068c12e5-ab19-4fcd-bd3a-742c7ac1eb3a_en.pdf http://www.iiroc.ca/Documents/2015/88f39611-c779-4178-b1dc-c74398c837b8_en.pdf http://www.iiroc.ca/Documents/2015/15142028-b601-43f9-ad8b-890a67a0891e_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Brian Anish Kumar - Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofBrianAnishKumar-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e723265d-5bcc-4006-8d69-52f9da019201_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/415f4db1-5dfe-4afe-b4b5-161247a7bd4c_en.pdf http://www.iiroc.ca/Documents/2015/3f2a6319-a02c-47ed-82e5-93bc7fd04292_en.pdf http://www.iiroc.ca/Documents/2015/1dd716a7-f852-4e65-a5d9-3c21324f2396_en.pdf http://www.iiroc.ca/Documents/2015/e723265d-5bcc-4006-8d69-52f9da019201_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Norman Robert Todd Armstrong \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofNormanRobertToddArmstrong-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/b0cd7a67-f51a-4038-bb0d-69ca4b628f61_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/194da7d8-698a-4e72-af55-0ebff67dd7b0_en.pdf http://www.iiroc.ca/Documents/2015/70756e81-6c60-4b4b-b35a-17ade156c153_en.pdf http://www.iiroc.ca/Documents/2015/de4da506-12b1-4d2d-9647-d9f1261f7c20_en.pdf http://www.iiroc.ca/Documents/2015/367cafda-52ae-4be6-8281-ed4822235da3_en.pdf http://www.iiroc.ca/Documents/2015/b0cd7a67-f51a-4038-bb0d-69ca4b628f61_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Gerald Stefaniuk \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofGeraldStefaniuk-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-24"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e332128c-2898-4286-a982-2094d20a8529_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7b1cb858-1310-460f-afbc-d379af422dc7_en.pdf http://www.iiroc.ca/Documents/2015/e332128c-2898-4286-a982-2094d20a8529_en.pdf http://www.iiroc.ca/Documents/2015/82bc2853-752d-4487-bd38-5939b0d585b0_en.pdf http://www.iiroc.ca/Documents/2015/ba051793-0ea7-4605-8567-402f54562fe1_en.pdf http://www.iiroc.ca/Documents/2015/14413331-fa61-4171-8334-6485028f2e42_en.pdf http://www.iiroc.ca/Documents/2015/df7eb743-f1f7-4fe9-b0d0-ce065f11f14a_en.pdf http://www.iiroc.ca/Documents/2014/1ad30624-56fc-480a-9c7f-00cb86525f19_en.pdf http://www.iiroc.ca/Documents/2014/47264c3e-fb39-420c-9163-8ba0e9525b5a_en.pdf http://www.iiroc.ca/Documents/2014/4fb5fd0b-5896-45b6-8762-8c0a235d791a_en.pdf http://www.iiroc.ca/Documents/2014/f6bf7d7f-358d-4bbb-8bf8-fa62a8bc9d74_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Steve Duchaine \u2013 Penalty Decision",
+    "_meta": {
+        "id": "IntheMatterofSteveDuchaine-PenaltyDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-19"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/562545d5-ba32-41bf-aba6-b8455787bf9a_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/562545d5-ba32-41bf-aba6-b8455787bf9a_en.pdf http://www.iiroc.ca/Documents/2015/992de62e-8ba6-452a-9d5c-57db4d726a38_en.pdf http://www.iiroc.ca/Documents/2015/8493789f-6c07-4245-ad33-f0eaab0a9b7b_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Kim Husebye \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofKimHusebye-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-14"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/a7f89119-9d42-488d-9c46-61da6cd87fe3_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/2eac8b5d-a341-4db5-9f62-fd1ca45729ba_en.pdf http://www.iiroc.ca/Documents/2015/4e95ae37-fe34-4dfa-a946-755e0d744d01_en.pdf http://www.iiroc.ca/Documents/2015/a7f89119-9d42-488d-9c46-61da6cd87fe3_en.pdf http://www.iiroc.ca/Documents/2015/7aee8b30-6ee4-4de0-9f36-baaf5994f39b_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Stephen Gibson \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofStephenGibson-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/11270089-dfdc-4578-b5a5-099f5a8135d6_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/db0e080f-766f-4bde-90d4-cc94427b63c1_en.pdf http://www.iiroc.ca/Documents/2015/707c00cc-422c-4051-9cbf-c9d08e64be35_en.pdf http://www.iiroc.ca/Documents/2015/11270089-dfdc-4578-b5a5-099f5a8135d6_en.pdf http://www.iiroc.ca/Documents/2015/57a5f822-42cb-4c9a-a8a7-a76696e2dd39_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Amandeep Gill \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofAmandeepGill-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-12"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3275703a-9dc2-42e9-8ef5-cbf75f64afad_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3275703a-9dc2-42e9-8ef5-cbf75f64afad_en.pdf http://www.iiroc.ca/Documents/2015/f2860cbf-b774-4942-b63c-132422665837_en.pdf http://www.iiroc.ca/Documents/2015/82275087-e7a6-4358-8490-e84846d5c3be_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Brian Douglas Bergen and Leede Financial Markets Inc. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofBrianDouglasBergenandLeedeFinancialMarketsInc.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-11"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/394805d5-3dc3-4a86-a621-e67c552ffec1_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/f2612aff-40e7-44eb-9b15-f6eb0865aadb_en.pdf http://www.iiroc.ca/Documents/2015/15084a39-5b1d-4090-8367-93096b474203_en.pdf http://www.iiroc.ca/Documents/2015/394805d5-3dc3-4a86-a621-e67c552ffec1_en.pdf http://www.iiroc.ca/Documents/2015/565ad5b9-4643-4f31-8fae-0001d06ed566_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Scotia Capital Inc. \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofScotiaCapitalInc.-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/712651a5-dd0a-4b29-9955-0954a3cc1875_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/773a8cd3-acfc-4a05-af4a-3a831c1627a6_en.pdf http://www.iiroc.ca/Documents/2015/ce3aa6b0-5d4d-4c1b-9203-12ee8b5a486d_en.pdf http://www.iiroc.ca/Documents/2015/b5ba1a3c-cc60-4af4-99eb-91cc76b5ddb5_en.pdf http://www.iiroc.ca/Documents/2015/6e1e48fa-3aaa-4d62-a44f-c291fc637009_en.pdf http://www.iiroc.ca/Documents/2015/712651a5-dd0a-4b29-9955-0954a3cc1875_en.pdf http://www.iiroc.ca/Documents/2015/bcc8a904-e1ce-41ab-953e-8e9f17c91743_en.pdf http://www.iiroc.ca/Documents/2015/3bfe3714-2c3a-492d-ae38-38d34f370fdf_en.pdf http://www.iiroc.ca/Documents/2015/d23e438d-11e8-4eac-92c8-93e4e355e0b2_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacques Turenne \u2013 Disciplinary Decision \u2013 Liability",
+    "_meta": {
+        "id": "IntheMatterofJacquesTurenne-DisciplinaryDecision-Liability",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/fa81181c-3504-40bb-afb9-c348f81fb8cb_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Christian Cloutier - Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofChristianCloutier-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f838d58e-a913-491e-8f75-1d793aae4bfd_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/dd5aedb6-7b23-4762-ad43-1a236cea46f5_en.pdf http://www.iiroc.ca/Documents/2015/0d686fb3-6f02-4e6e-84fa-7c6f9ad133be_en.pdf http://www.iiroc.ca/Documents/2015/26abee9e-73f4-4de6-9e7d-22b1d8e799e8_en.pdf http://www.iiroc.ca/Documents/2015/94d6ffc9-8de0-4c79-baab-7f2fe2bf5128_en.pdf http://www.iiroc.ca/Documents/2015/f838d58e-a913-491e-8f75-1d793aae4bfd_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Darin Lee Chung \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofDarinLeeChung-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-08-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/9b4f8604-b003-41c1-9231-971894c06f35_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/db232cae-9f34-4bd2-b4a6-62c5e2864e9e_en.pdf http://www.iiroc.ca/Documents/2015/c6bd20bb-27b2-4cb6-85dc-8e6e385284db_en.pdf http://www.iiroc.ca/Documents/2015/e35dc11f-3c1b-43c6-b9c8-b958a3b9e782_en.pdf http://www.iiroc.ca/Documents/2015/d80de836-46bd-4dc1-8b61-ceb7779f6041_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.doc http://www.iiroc.ca/Documents/2015/a353d7e4-e0f5-4fed-83de-bae2db48e15c_en.pdf http://www.iiroc.ca/Documents/2015/561704e2-c630-407c-b17e-c47cb0b03c4f_en.pdf http://www.iiroc.ca/Documents/2015/98ea6849-d5d4-428a-9545-14abc91c418a_en.pdf http://www.iiroc.ca/Documents/2015/6903944f-0545-4914-b103-9e0bfc5b5417_en.pdf http://www.iiroc.ca/Documents/2015/9b4f8604-b003-41c1-9231-971894c06f35_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert James Lewis \u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofRobertJamesLewis-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-29"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f2860cbf-b774-4942-b63c-132422665837_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3275703a-9dc2-42e9-8ef5-cbf75f64afad_en.pdf http://www.iiroc.ca/Documents/2015/f2860cbf-b774-4942-b63c-132422665837_en.pdf http://www.iiroc.ca/Documents/2015/82275087-e7a6-4358-8490-e84846d5c3be_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Brian Douglas Bergen and Leede Financial Markets Inc. \u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofBrianDouglasBergenandLeedeFinancialMarketsInc.-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/fbb665d8-9964-431f-abe1-6f155550274e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/fbb665d8-9964-431f-abe1-6f155550274e_en.pdf http://www.iiroc.ca/Documents/2015/5e5892f4-cbae-4519-a706-7de2e4162e3c_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Geraldine Mannings \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofGeraldineMannings-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/565ad5b9-4643-4f31-8fae-0001d06ed566_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/f2612aff-40e7-44eb-9b15-f6eb0865aadb_en.pdf http://www.iiroc.ca/Documents/2015/15084a39-5b1d-4090-8367-93096b474203_en.pdf http://www.iiroc.ca/Documents/2015/394805d5-3dc3-4a86-a621-e67c552ffec1_en.pdf http://www.iiroc.ca/Documents/2015/565ad5b9-4643-4f31-8fae-0001d06ed566_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Scotia Capital Inc. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofScotiaCapitalInc.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/47d316dd-4af6-401c-b81d-cf96f8d597de_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Brian Anish Kumar - Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofBrianAnishKumar-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/1ef0b213-ff9d-4fc9-872b-05dc07f61f0d_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/8980464c-2549-43fd-b7de-da9c16b3a895_en.pdf http://www.iiroc.ca/Documents/2015/1ef0b213-ff9d-4fc9-872b-05dc07f61f0d_en.pdf http://www.iiroc.ca/Documents/2015/410060e7-2454-4666-b642-0b12583f98ce_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Zhenyu Li \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofZhenyuLi-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-24"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/c68bc94e-d6e0-4e24-87dd-3dee6164727d_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/c68bc94e-d6e0-4e24-87dd-3dee6164727d_en.pdf http://www.iiroc.ca/Documents/2015/3c74504e-f178-4c6d-bcc9-ad888a74d187_en.pdf http://www.iiroc.ca/Documents/2014/9de79e29-e4bf-49df-be5c-f776d1506d2a_en.pdf http://www.iiroc.ca/Documents/2014/a56752ff-199a-4f1a-9c70-9c1bc5aea0cf_en.pdf http://www.iiroc.ca/Documents/2014/5a7da7e7-e791-44e5-8f59-c6020b553e52_en.pdf http://www.iiroc.ca/Documents/2014/63a1fd1a-a2b9-41d2-bb7c-0ad3b9627a8f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Catherine Deborah Jones \u2013 Hearing and Review Decision",
+    "_meta": {
+        "id": "IntheMatterofCatherineDeborahJones-HearingandReviewDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-22"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/82275087-e7a6-4358-8490-e84846d5c3be_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3275703a-9dc2-42e9-8ef5-cbf75f64afad_en.pdf http://www.iiroc.ca/Documents/2015/f2860cbf-b774-4942-b63c-132422665837_en.pdf http://www.iiroc.ca/Documents/2015/82275087-e7a6-4358-8490-e84846d5c3be_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Brian Douglas Bergen and Leede Financial Markets Inc. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofBrianDouglasBergenandLeedeFinancialMarketsInc.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/27d7f1bc-b91f-4b70-98c3-dfa20b900021_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/48d1dfa8-9c7e-4a29-b2f6-092b95ad1dae_en.pdf http://www.iiroc.ca/Documents/2015/10c2b092-ecc6-4d23-9556-7e840c866e73_en.pdf http://www.iiroc.ca/Documents/2015/bc1be19f-3fb1-42f5-b12b-c2367be4053a_en.pdf http://www.iiroc.ca/Documents/2015/27d7f1bc-b91f-4b70-98c3-dfa20b900021_en.pdf http://www.iiroc.ca/Documents/2015/5a89028f-d361-4804-91a4-a472da1cc41a_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Mackie Research Capital Corporation \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofMackieResearchCapitalCorporation-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-20"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/ab2eb231-6dad-430b-824b-16aa645e367f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/7c765f43-c34d-49b9-9561-4ec6588174f8_en.pdf http://www.iiroc.ca/Documents/2016/5b565f4c-6748-4b38-bd67-154b9fa02e42_en.pdf http://www.iiroc.ca/Documents/2016/124866cf-6554-4d65-852d-014d6f4dcb33_en.pdf http://www.iiroc.ca/Documents/2015/ab2eb231-6dad-430b-824b-16aa645e367f_en.pdf http://www.iiroc.ca/Documents/2015/bfc67369-1ace-4ce3-b8bf-1eb8f7973436_en.pdf http://www.iiroc.ca/Documents/2015/01cba768-6472-4bfa-876a-4950faa3d711_en.pdf http://www.iiroc.ca/Documents/2015/23c85f3b-93a6-4bf2-be50-803b777d5201_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Yu Qiong (Kevin) Li \u2013 Resumption of Disciplinary Hearing",
+    "_meta": {
+        "id": "IntheMatterofYuQiongKevinLi-ResumptionofDisciplinaryHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-10"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/7aee8b30-6ee4-4de0-9f36-baaf5994f39b_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/2eac8b5d-a341-4db5-9f62-fd1ca45729ba_en.pdf http://www.iiroc.ca/Documents/2015/4e95ae37-fe34-4dfa-a946-755e0d744d01_en.pdf http://www.iiroc.ca/Documents/2015/a7f89119-9d42-488d-9c46-61da6cd87fe3_en.pdf http://www.iiroc.ca/Documents/2015/7aee8b30-6ee4-4de0-9f36-baaf5994f39b_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Stephen Gibson \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofStephenGibson-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-10"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/cf6404a4-e6c9-47d9-895b-91366106499f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3b0b7005-51a9-4e3e-95ef-2e98823a8aee_en.pdf http://www.iiroc.ca/Documents/2015/41183690-13af-4c5e-920e-d60ae6f2ec43_en.pdf http://www.iiroc.ca/Documents/2015/bcce9c60-aa1f-49a2-82fb-8b5c8fbf87f1_en.pdf http://www.iiroc.ca/Documents/2015/cf6404a4-e6c9-47d9-895b-91366106499f_en.pdf http://www.iiroc.ca/Documents/2015/3ff4c4bb-59dc-4225-90c4-4fff96ad6793_en.pdf http://www.iiroc.ca/Documents/2015/8461df06-d43a-4de8-a64b-6bb386c744ca_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Adrian Crandall \u2013 Motion",
+    "_meta": {
+        "id": "IntheMatterofRobertAdrianCrandall-Motion",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-09"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/410060e7-2454-4666-b642-0b12583f98ce_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/8980464c-2549-43fd-b7de-da9c16b3a895_en.pdf http://www.iiroc.ca/Documents/2015/1ef0b213-ff9d-4fc9-872b-05dc07f61f0d_en.pdf http://www.iiroc.ca/Documents/2015/410060e7-2454-4666-b642-0b12583f98ce_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Zhenyu Li \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofZhenyuLi-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/57a5f822-42cb-4c9a-a8a7-a76696e2dd39_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/db0e080f-766f-4bde-90d4-cc94427b63c1_en.pdf http://www.iiroc.ca/Documents/2015/707c00cc-422c-4051-9cbf-c9d08e64be35_en.pdf http://www.iiroc.ca/Documents/2015/11270089-dfdc-4578-b5a5-099f5a8135d6_en.pdf http://www.iiroc.ca/Documents/2015/57a5f822-42cb-4c9a-a8a7-a76696e2dd39_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Amandeep Gill \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofAmandeepGill-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e9919dfe-4c3e-41ff-ae09-a434358efe31_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/1f56dd1c-d485-4ae9-aa2c-0427e296198e_en.pdf http://www.iiroc.ca/Documents/2015/13714f5c-52fd-4632-8e9e-1c79ca84e08d_en.pdf http://www.iiroc.ca/Documents/2015/e9919dfe-4c3e-41ff-ae09-a434358efe31_en.pdf http://www.iiroc.ca/Documents/2015/5dbdef22-c825-4e91-b7f4-6b49be703e44_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Probhash Mondal \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofProbhashMondal-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/0c31bbb0-7bbc-4bf0-a339-fd2524a75f2e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/659ae09d-b368-4ce7-b6de-d16b9d22669f_en.pdf http://www.iiroc.ca/Documents/2015/0c31bbb0-7bbc-4bf0-a339-fd2524a75f2e_en.pdf http://www.iiroc.ca/Documents/2015/9e44ff73-dc16-4847-9a9a-c0552c992db5_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Roy William Orr \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofRoyWilliamOrr-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/bb16e46a-95ac-4596-bd33-1155bb1cf2e9_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/bb16e46a-95ac-4596-bd33-1155bb1cf2e9_en.pdf http://www.iiroc.ca/Documents/2014/f9544056-1174-464b-adc7-b26976f81029_en.pdf http://www.iiroc.ca/Documents/2014/42fa0e6e-e58f-4bb4-aa1f-c3ecdeda2dc3_en.pdf http://www.iiroc.ca/Documents/2014/66a2bd9c-936e-40b7-9029-76ae68456db6_en.pdf http://www.iiroc.ca/Documents/2014/95c7430e-9231-4526-ad88-507020e254a7_en.pdf http://www.iiroc.ca/Documents/2014/8efc980f-3e6d-4132-b4f6-59e52b820a7d_en.pdf http://www.iiroc.ca/Documents/2013/2372b975-bc13-4d07-b91d-77ddb11a98e2_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Lucy Marie Pariak-Lukic \u2013 Hearing and Review Decision",
+    "_meta": {
+        "id": "IntheMatterofLucyMariePariak-Lukic-HearingandReviewDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-07-03"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/5a89028f-d361-4804-91a4-a472da1cc41a_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/48d1dfa8-9c7e-4a29-b2f6-092b95ad1dae_en.pdf http://www.iiroc.ca/Documents/2015/10c2b092-ecc6-4d23-9556-7e840c866e73_en.pdf http://www.iiroc.ca/Documents/2015/bc1be19f-3fb1-42f5-b12b-c2367be4053a_en.pdf http://www.iiroc.ca/Documents/2015/27d7f1bc-b91f-4b70-98c3-dfa20b900021_en.pdf http://www.iiroc.ca/Documents/2015/5a89028f-d361-4804-91a4-a472da1cc41a_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Mackie Research Capital Corporation \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofMackieResearchCapitalCorporation-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-06-29"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/75670591-9cae-4063-9593-15ed1837bd9b_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/75670591-9cae-4063-9593-15ed1837bd9b_en.pdf http://www.iiroc.ca/Documents/2014/d43d76ce-c953-4818-a8c3-7eb14343490f_en.pdf http://www.iiroc.ca/Documents/2014/ee57c49d-fa61-4370-aa99-ff00e405fa3d_en.pdf http://www.iiroc.ca/Documents/2014/7c6bf51f-da05-41f0-baba-850af0ceab83_en.pdf http://www.iiroc.ca/Documents/2014/cfb9a12d-ab19-4a17-b660-7555c322e4a7_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Bryan Andrew Vickers \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofBryanAndrewVickers-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-06-24"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/8493789f-6c07-4245-ad33-f0eaab0a9b7b_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/562545d5-ba32-41bf-aba6-b8455787bf9a_en.pdf http://www.iiroc.ca/Documents/2015/992de62e-8ba6-452a-9d5c-57db4d726a38_en.pdf http://www.iiroc.ca/Documents/2015/8493789f-6c07-4245-ad33-f0eaab0a9b7b_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Kim Husebye \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofKimHusebye-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-06-19"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/cecde03a-6fec-43e6-b258-02bbcf192920_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Northern Securities Inc. and Victor Phillip Alboini \u2013 Appeal Decision",
+    "_meta": {
+        "id": "IntheMatterofNorthernSecuritiesInc.andVictorPhillipAlboini-AppealDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-06-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/5e5892f4-cbae-4519-a706-7de2e4162e3c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/fbb665d8-9964-431f-abe1-6f155550274e_en.pdf http://www.iiroc.ca/Documents/2015/5e5892f4-cbae-4519-a706-7de2e4162e3c_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Geraldine Mannings \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofGeraldineMannings-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-06-02"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/82bc2853-752d-4487-bd38-5939b0d585b0_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7b1cb858-1310-460f-afbc-d379af422dc7_en.pdf http://www.iiroc.ca/Documents/2015/e332128c-2898-4286-a982-2094d20a8529_en.pdf http://www.iiroc.ca/Documents/2015/82bc2853-752d-4487-bd38-5939b0d585b0_en.pdf http://www.iiroc.ca/Documents/2015/ba051793-0ea7-4605-8567-402f54562fe1_en.pdf http://www.iiroc.ca/Documents/2015/14413331-fa61-4171-8334-6485028f2e42_en.pdf http://www.iiroc.ca/Documents/2015/df7eb743-f1f7-4fe9-b0d0-ce065f11f14a_en.pdf http://www.iiroc.ca/Documents/2014/1ad30624-56fc-480a-9c7f-00cb86525f19_en.pdf http://www.iiroc.ca/Documents/2014/47264c3e-fb39-420c-9163-8ba0e9525b5a_en.pdf http://www.iiroc.ca/Documents/2014/4fb5fd0b-5896-45b6-8762-8c0a235d791a_en.pdf http://www.iiroc.ca/Documents/2014/f6bf7d7f-358d-4bbb-8bf8-fa62a8bc9d74_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Steve Duchaine \u2013 Resumption of Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofSteveDuchaine-ResumptionofPenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-29"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/e8eb78c3-3fb4-4ef6-9630-4ec1b43590de_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/b8ea17b6-9fdb-4ea4-b83c-cb161f1506cf_en.pdf http://www.iiroc.ca/Documents/2015/65043e6d-fed1-45a2-8e7f-b216ff16487e_en.pdf http://www.iiroc.ca/Documents/2015/e8eb78c3-3fb4-4ef6-9630-4ec1b43590de_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Sheldon Don Birkeland \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofSheldonDonBirkeland-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-29"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/632a8e70-6a2d-4b9c-8a5e-16879d8c7445_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/6af36a87-f9aa-4a3b-83ba-9ff027ce29ef_en.pdf http://www.iiroc.ca/Documents/2015/632a8e70-6a2d-4b9c-8a5e-16879d8c7445_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Daniel Siska \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofDanielSiska-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-19"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/6c30feae-05ea-4af0-8525-6f6d43b3df52_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/de642aab-093c-4b91-a883-bf97791868c0_en.pdf http://www.iiroc.ca/Documents/2015/c6efed87-485b-48e9-98c6-dd03c80c580b_en.pdf http://www.iiroc.ca/Documents/2015/d48d2374-05bb-4173-b6ca-ae73d3ccb539_en.pdf http://www.iiroc.ca/Documents/2015/3e4cce9e-0d7f-4fcb-a22a-ae696042fc75_en.pdf http://www.iiroc.ca/Documents/2015/c44c1b30-4552-4eaf-af63-9df1336598b0_en.pdf http://www.iiroc.ca/Documents/2015/6c30feae-05ea-4af0-8525-6f6d43b3df52_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Connor \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofRobertConnor-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-14"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/2bcd7224-16cb-458a-8f83-4c694f9cc958_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/91997c1e-14bb-4909-9e2d-ded89c5b81b9_en.pdf http://www.iiroc.ca/Documents/2015/a8b38824-dc4f-4a02-8efa-06017f75c673_en.pdf http://www.iiroc.ca/Documents/2015/2bcd7224-16cb-458a-8f83-4c694f9cc958_en.pdf http://www.iiroc.ca/Documents/2015/193c831d-c4e0-4d93-b23d-2478332188d6_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Glenn Arthur Taggart \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofGlennArthurTaggart-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/175ecf28-500d-4856-942f-57db578f8454_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3002d700-959e-437e-86ce-f14c62e20c80_en.pdf http://www.iiroc.ca/Documents/2015/4d9e662f-f084-4bc4-b236-ae3a31b0dc6d_en.pdf http://www.iiroc.ca/Documents/2015/62b0a5bc-de58-4754-9af8-cc6f23d7292f_en.pdf http://www.iiroc.ca/Documents/2015/175ecf28-500d-4856-942f-57db578f8454_en.pdf http://www.iiroc.ca/Documents/2015/5a891b71-d73a-4677-8ee2-906d23531197_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Patrick William McLaughlin, Andrew Michael McManus and Sharon Marie Lozinski \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofPatrickWilliamMcLaughlinAndrewMichaelMcManusandSharonMarieLozinski-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-12"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/c2b9e22f-5e53-45d2-9d57-8627aa59ccd2_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/aae16eeb-4b5b-4362-8ed9-db11d2be4c85_en.pdf http://www.iiroc.ca/Documents/2015/609549b6-1ff5-427d-8fa0-1ea165c27c8e_en.pdf http://www.iiroc.ca/Documents/2015/c2b9e22f-5e53-45d2-9d57-8627aa59ccd2_en.pdf http://www.iiroc.ca/Documents/2015/485ead73-a584-40ed-a887-99a82aa94314_en.pdf http://www.iiroc.ca/Documents/2015/f0b1cd03-5551-46b7-818b-8cabf0ce199f_en.pdf http://www.iiroc.ca/Documents/2015/7c7e1f6a-6aec-4e0d-baee-a254153622d8_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Thomas William Dunn and Gordon Joseph Wimble \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofThomasWilliamDunnandGordonJosephWimble-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-11"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/62b6e95c-a0b8-478a-945d-0673e47a2e45_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/e174e6d1-0e5f-4c1e-98f6-9cae37831f65_en.pdf http://www.iiroc.ca/Documents/2015/69a8045f-9dc8-4f7b-8838-81eaefc836d2_en.pdf http://www.iiroc.ca/Documents/2015/62b6e95c-a0b8-478a-945d-0673e47a2e45_en.pdf http://www.iiroc.ca/Documents/2015/2050cb80-f6bf-4ab5-85cc-e00426d8705d_en.pdf http://www.iiroc.ca/Documents/2015/2257dd4d-a9bc-452b-bf55-04da91e9dc7d_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Independent Trading Group (ITG) Inc. \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofIndependentTradingGroupITGInc.-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/8461df06-d43a-4de8-a64b-6bb386c744ca_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3b0b7005-51a9-4e3e-95ef-2e98823a8aee_en.pdf http://www.iiroc.ca/Documents/2015/41183690-13af-4c5e-920e-d60ae6f2ec43_en.pdf http://www.iiroc.ca/Documents/2015/bcce9c60-aa1f-49a2-82fb-8b5c8fbf87f1_en.pdf http://www.iiroc.ca/Documents/2015/cf6404a4-e6c9-47d9-895b-91366106499f_en.pdf http://www.iiroc.ca/Documents/2015/3ff4c4bb-59dc-4225-90c4-4fff96ad6793_en.pdf http://www.iiroc.ca/Documents/2015/8461df06-d43a-4de8-a64b-6bb386c744ca_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert Adrian Crandall \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofRobertAdrianCrandall-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/bd8396ce-3168-477c-bb03-2f11d162d663_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/e363fcf0-18ab-4a8c-9f27-7bd1f7ff622c_en.pdf http://www.iiroc.ca/Documents/2015/bd8396ce-3168-477c-bb03-2f11d162d663_en.pdf http://www.iiroc.ca/Documents/2014/d8f7df35-d64b-4bfc-9ed0-01523c088789_en.pdf http://www.iiroc.ca/Documents/2014/7b2e3fc9-7e07-4c2c-a29c-b72203a7bbf7_en.pdf http://www.iiroc.ca/Documents/2014/116605d3-d7a1-4e35-9525-f0c0ddc06661_en.pdf http://www.iiroc.ca/Documents/2014/5964d084-8d1a-417d-a647-98180832ebae_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jean-Yves Gaudreault \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofJean-YvesGaudreault-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/9e44ff73-dc16-4847-9a9a-c0552c992db5_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/659ae09d-b368-4ce7-b6de-d16b9d22669f_en.pdf http://www.iiroc.ca/Documents/2015/0c31bbb0-7bbc-4bf0-a339-fd2524a75f2e_en.pdf http://www.iiroc.ca/Documents/2015/9e44ff73-dc16-4847-9a9a-c0552c992db5_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Roy William Orr \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofRoyWilliamOrr-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-05-04"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/648dc3c0-f401-4c9b-8ecf-fd2e4da89c97_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/886c8e27-debf-4f03-a1f7-2a2340cfbf41_en.pdf http://www.iiroc.ca/Documents/2015/648dc3c0-f401-4c9b-8ecf-fd2e4da89c97_en.pdf http://www.iiroc.ca/Documents/2015/d983b0ac-5a3b-486b-a5f5-8ff8b4f1bc79_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-28"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3461746d-419f-465a-b00e-dca260f2ec65_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/74d12936-c16e-4ca6-b6bc-b3ccec2a2e00_en.pdf http://www.iiroc.ca/Documents/2015/3461746d-419f-465a-b00e-dca260f2ec65_en.pdf http://www.iiroc.ca/Documents/2015/37b573f1-1a47-46a5-988d-aa08417ba7c2_en.pdf http://www.iiroc.ca/Documents/2015/2c33fc2b-98a4-493f-b654-ff493fcda927_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Krishna Sammy \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofKrishnaSammy-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/193c831d-c4e0-4d93-b23d-2478332188d6_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/91997c1e-14bb-4909-9e2d-ded89c5b81b9_en.pdf http://www.iiroc.ca/Documents/2015/a8b38824-dc4f-4a02-8efa-06017f75c673_en.pdf http://www.iiroc.ca/Documents/2015/2bcd7224-16cb-458a-8f83-4c694f9cc958_en.pdf http://www.iiroc.ca/Documents/2015/193c831d-c4e0-4d93-b23d-2478332188d6_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Glenn Arthur Taggart \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofGlennArthurTaggart-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-21"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/40ca0e79-3328-42fb-a479-f3c596d8ee81_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Sheldon Don Birkeland \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofSheldonDonBirkeland-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-17"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/5a891b71-d73a-4677-8ee2-906d23531197_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/3002d700-959e-437e-86ce-f14c62e20c80_en.pdf http://www.iiroc.ca/Documents/2015/4d9e662f-f084-4bc4-b236-ae3a31b0dc6d_en.pdf http://www.iiroc.ca/Documents/2015/62b0a5bc-de58-4754-9af8-cc6f23d7292f_en.pdf http://www.iiroc.ca/Documents/2015/175ecf28-500d-4856-942f-57db578f8454_en.pdf http://www.iiroc.ca/Documents/2015/5a891b71-d73a-4677-8ee2-906d23531197_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Patrick William McLaughlin, Andrew Michael McManus and Sharon Marie Lozinski \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofPatrickWilliamMcLaughlinAndrewMichaelMcManusandSharonMarieLozinski-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-16"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/ba051793-0ea7-4605-8567-402f54562fe1_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7b1cb858-1310-460f-afbc-d379af422dc7_en.pdf http://www.iiroc.ca/Documents/2015/e332128c-2898-4286-a982-2094d20a8529_en.pdf http://www.iiroc.ca/Documents/2015/82bc2853-752d-4487-bd38-5939b0d585b0_en.pdf http://www.iiroc.ca/Documents/2015/ba051793-0ea7-4605-8567-402f54562fe1_en.pdf http://www.iiroc.ca/Documents/2015/14413331-fa61-4171-8334-6485028f2e42_en.pdf http://www.iiroc.ca/Documents/2015/df7eb743-f1f7-4fe9-b0d0-ce065f11f14a_en.pdf http://www.iiroc.ca/Documents/2014/1ad30624-56fc-480a-9c7f-00cb86525f19_en.pdf http://www.iiroc.ca/Documents/2014/47264c3e-fb39-420c-9163-8ba0e9525b5a_en.pdf http://www.iiroc.ca/Documents/2014/4fb5fd0b-5896-45b6-8762-8c0a235d791a_en.pdf http://www.iiroc.ca/Documents/2014/f6bf7d7f-358d-4bbb-8bf8-fa62a8bc9d74_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Steve Duchaine \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofSteveDuchaine-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/2257dd4d-a9bc-452b-bf55-04da91e9dc7d_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/e174e6d1-0e5f-4c1e-98f6-9cae37831f65_en.pdf http://www.iiroc.ca/Documents/2015/69a8045f-9dc8-4f7b-8838-81eaefc836d2_en.pdf http://www.iiroc.ca/Documents/2015/62b6e95c-a0b8-478a-945d-0673e47a2e45_en.pdf http://www.iiroc.ca/Documents/2015/2050cb80-f6bf-4ab5-85cc-e00426d8705d_en.pdf http://www.iiroc.ca/Documents/2015/2257dd4d-a9bc-452b-bf55-04da91e9dc7d_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Independent Trading Group (ITG) Inc. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofIndependentTradingGroupITGInc.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-04-09"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/485ead73-a584-40ed-a887-99a82aa94314_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/aae16eeb-4b5b-4362-8ed9-db11d2be4c85_en.pdf http://www.iiroc.ca/Documents/2015/609549b6-1ff5-427d-8fa0-1ea165c27c8e_en.pdf http://www.iiroc.ca/Documents/2015/c2b9e22f-5e53-45d2-9d57-8627aa59ccd2_en.pdf http://www.iiroc.ca/Documents/2015/485ead73-a584-40ed-a887-99a82aa94314_en.pdf http://www.iiroc.ca/Documents/2015/f0b1cd03-5551-46b7-818b-8cabf0ce199f_en.pdf http://www.iiroc.ca/Documents/2015/7c7e1f6a-6aec-4e0d-baee-a254153622d8_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Thomas William Dunn and Gordon Joseph Wimble \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofThomasWilliamDunnandGordonJosephWimble-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-03-30"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/5dbdef22-c825-4e91-b7f4-6b49be703e44_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/1f56dd1c-d485-4ae9-aa2c-0427e296198e_en.pdf http://www.iiroc.ca/Documents/2015/13714f5c-52fd-4632-8e9e-1c79ca84e08d_en.pdf http://www.iiroc.ca/Documents/2015/e9919dfe-4c3e-41ff-ae09-a434358efe31_en.pdf http://www.iiroc.ca/Documents/2015/5dbdef22-c825-4e91-b7f4-6b49be703e44_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Probhash Mondal \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofProbhashMondal-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-03-30"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/33f27f7d-ef96-4995-8ce8-13deff38aca3_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacques Turenne \u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofJacquesTurenne-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-03-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f1e4617d-e385-4eac-be06-432e4735534e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/f1e4617d-e385-4eac-be06-432e4735534e_en.pdf http://www.iiroc.ca/Documents/2014/a41be51b-93a8-46c5-bf18-b7301b277a7c_en.pdf http://www.iiroc.ca/Documents/2014/05ebd5ca-5541-461f-8e7b-0e0c774d8774_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Julian Ricci \u2013 Review Decision",
+    "_meta": {
+        "id": "IntheMatterofJulianRicci-ReviewDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-03-12"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/bcc8a904-e1ce-41ab-953e-8e9f17c91743_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/773a8cd3-acfc-4a05-af4a-3a831c1627a6_en.pdf http://www.iiroc.ca/Documents/2015/ce3aa6b0-5d4d-4c1b-9203-12ee8b5a486d_en.pdf http://www.iiroc.ca/Documents/2015/b5ba1a3c-cc60-4af4-99eb-91cc76b5ddb5_en.pdf http://www.iiroc.ca/Documents/2015/6e1e48fa-3aaa-4d62-a44f-c291fc637009_en.pdf http://www.iiroc.ca/Documents/2015/712651a5-dd0a-4b29-9955-0954a3cc1875_en.pdf http://www.iiroc.ca/Documents/2015/bcc8a904-e1ce-41ab-953e-8e9f17c91743_en.pdf http://www.iiroc.ca/Documents/2015/3bfe3714-2c3a-492d-ae38-38d34f370fdf_en.pdf http://www.iiroc.ca/Documents/2015/d23e438d-11e8-4eac-92c8-93e4e355e0b2_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacques Turenne \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofJacquesTurenne-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-03-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/0d0a3f08-34a4-462a-97d1-616a261f29f0_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/e6e266d5-c399-49a1-b6d5-2f930d44ae10_en.pdf http://www.iiroc.ca/Documents/2015/0d0a3f08-34a4-462a-97d1-616a261f29f0_en.pdf http://www.iiroc.ca/Documents/2015/8ceeefc6-9c9d-4d01-81df-9caa303607d8_en.pdf http://www.iiroc.ca/Documents/2015/bc9c63d9-2484-4013-a583-a4d579a43d9e_en.pdf http://www.iiroc.ca/Documents/2015/0faa6aba-bb1b-41aa-93f8-2872e7bbadba_en.pdf http://www.iiroc.ca/Documents/2014/4805ff84-4a47-4a96-813a-22242d946722_en.pdf http://www.iiroc.ca/Documents/2014/917b2463-e20e-4954-b901-f8a16dc7951f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Glenn Arthur Taggart\u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofGlennArthurTaggart-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-03-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/ae62da08-f2ed-4e68-b58c-fe7da13a5e63_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/2749b5ad-9109-400e-9c84-6201b2d25cd0_en.pdf http://www.iiroc.ca/Documents/2015/ae62da08-f2ed-4e68-b58c-fe7da13a5e63_en.pdf http://www.iiroc.ca/Documents/2015/fd8c8911-0900-4359-8430-5198bca9eb3d_en.pdf http://www.iiroc.ca/Documents/2015/de8e595a-ec72-4f7b-9ab8-99805482c182_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Douglas Terrence Steer \u2013 Discipline decision \u2013 Liability and Penalty",
+    "_meta": {
+        "id": "IntheMatterofDouglasTerrenceSteer-Disciplinedecision-LiabilityandPenalty",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-27"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/1d08d361-81e4-461d-a89e-c70cf1cc02fa_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/856af397-0bf4-4ec3-b919-822530582c05_en.pdf http://www.iiroc.ca/Documents/2015/4b253281-71c7-4c11-9b2a-1fc637661b61_en.pdf http://www.iiroc.ca/Documents/2015/1d08d361-81e4-461d-a89e-c70cf1cc02fa_en.pdf http://www.iiroc.ca/Documents/2015/82536b72-7823-4a38-8232-b16a2695e51f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of M Partners Inc. \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofMPartnersInc.-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/37b573f1-1a47-46a5-988d-aa08417ba7c2_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/74d12936-c16e-4ca6-b6bc-b3ccec2a2e00_en.pdf http://www.iiroc.ca/Documents/2015/3461746d-419f-465a-b00e-dca260f2ec65_en.pdf http://www.iiroc.ca/Documents/2015/37b573f1-1a47-46a5-988d-aa08417ba7c2_en.pdf http://www.iiroc.ca/Documents/2015/2c33fc2b-98a4-493f-b654-ff493fcda927_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Krishna Sammy \u2013 Adjournment",
+    "_meta": {
+        "id": "IntheMatterofKrishnaSammy-Adjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-18"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/23c85f3b-93a6-4bf2-be50-803b777d5201_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/7c765f43-c34d-49b9-9561-4ec6588174f8_en.pdf http://www.iiroc.ca/Documents/2016/5b565f4c-6748-4b38-bd67-154b9fa02e42_en.pdf http://www.iiroc.ca/Documents/2016/124866cf-6554-4d65-852d-014d6f4dcb33_en.pdf http://www.iiroc.ca/Documents/2015/ab2eb231-6dad-430b-824b-16aa645e367f_en.pdf http://www.iiroc.ca/Documents/2015/bfc67369-1ace-4ce3-b8bf-1eb8f7973436_en.pdf http://www.iiroc.ca/Documents/2015/01cba768-6472-4bfa-876a-4950faa3d711_en.pdf http://www.iiroc.ca/Documents/2015/23c85f3b-93a6-4bf2-be50-803b777d5201_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Yu Qiong (Kevin) Li \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofYuQiongKevinLi-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/d983b0ac-5a3b-486b-a5f5-8ff8b4f1bc79_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/886c8e27-debf-4f03-a1f7-2a2340cfbf41_en.pdf http://www.iiroc.ca/Documents/2015/648dc3c0-f401-4c9b-8ecf-fd2e4da89c97_en.pdf http://www.iiroc.ca/Documents/2015/d983b0ac-5a3b-486b-a5f5-8ff8b4f1bc79_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/f55f7ea9-2768-4892-a022-da4d445ea3f0_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Daniel Siska \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofDanielSiska-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-13"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/82536b72-7823-4a38-8232-b16a2695e51f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/856af397-0bf4-4ec3-b919-822530582c05_en.pdf http://www.iiroc.ca/Documents/2015/4b253281-71c7-4c11-9b2a-1fc637661b61_en.pdf http://www.iiroc.ca/Documents/2015/1d08d361-81e4-461d-a89e-c70cf1cc02fa_en.pdf http://www.iiroc.ca/Documents/2015/82536b72-7823-4a38-8232-b16a2695e51f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of M Partners Inc. \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofMPartnersInc.-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-11"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/d23e438d-11e8-4eac-92c8-93e4e355e0b2_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/773a8cd3-acfc-4a05-af4a-3a831c1627a6_en.pdf http://www.iiroc.ca/Documents/2015/ce3aa6b0-5d4d-4c1b-9203-12ee8b5a486d_en.pdf http://www.iiroc.ca/Documents/2015/b5ba1a3c-cc60-4af4-99eb-91cc76b5ddb5_en.pdf http://www.iiroc.ca/Documents/2015/6e1e48fa-3aaa-4d62-a44f-c291fc637009_en.pdf http://www.iiroc.ca/Documents/2015/712651a5-dd0a-4b29-9955-0954a3cc1875_en.pdf http://www.iiroc.ca/Documents/2015/bcc8a904-e1ce-41ab-953e-8e9f17c91743_en.pdf http://www.iiroc.ca/Documents/2015/3bfe3714-2c3a-492d-ae38-38d34f370fdf_en.pdf http://www.iiroc.ca/Documents/2015/d23e438d-11e8-4eac-92c8-93e4e355e0b2_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Jacques Turenne \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofJacquesTurenne-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-10"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/65a50061-6ed6-4fa7-8f88-c59e1b888142_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/a98561be-4111-4ad2-9c3e-919fa897524f_en.pdf http://www.iiroc.ca/Documents/2015/280d9a47-cd08-47a4-8111-51e80c0ce18d_en.pdf http://www.iiroc.ca/Documents/2015/65a50061-6ed6-4fa7-8f88-c59e1b888142_en.pdf http://www.iiroc.ca/Documents/2015/6bf2131a-225c-4a97-b4cf-f1dd5f62c1bb_en.pdf http://www.iiroc.ca/Documents/2015/16c164da-ffb6-47f3-a46f-560ca7deafb9_en.pdf http://www.iiroc.ca/Documents/2014/2db0d689-09ca-4d6f-a4b9-aae4d4cd769b_en.pdf http://www.iiroc.ca/Documents/2014/44b32ab3-de99-4bb8-9780-d94ebeeafac4_en.pdf http://www.iiroc.ca/Documents/2014/7033c5a3-2110-47e3-9f55-1f928ce29eb1_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Donald Earl Phillips \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofDonaldEarlPhillips-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/5aae839e-3907-4613-a19c-e68b1bae34fd_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Hugo Michel Nicolas Kotar \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofHugoMichelNicolasKotar-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/3516d97f-9a04-4c73-9bfc-931a561c7b76_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/78107563-c79a-4d98-ba18-8a9d12535de7_en.pdf http://www.iiroc.ca/Documents/2015/e0a076d4-b0ba-4071-906e-df68a5a1bca0_en.pdf http://www.iiroc.ca/Documents/2015/3516d97f-9a04-4c73-9bfc-931a561c7b76_en.pdf http://www.iiroc.ca/Documents/2015/0b69a8aa-6aae-486d-96fe-850b5b2dbb9f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Kelly Richard Jones \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofKellyRichardJones-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-05"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/26c3559e-6a31-4456-a6eb-49116680b7ba_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/b166e020-2569-4fb4-9500-32e300b01c8c_en.pdf http://www.iiroc.ca/Documents/2015/c7817c77-29b3-4c8b-8064-ebc1e0867adc_en.pdf http://www.iiroc.ca/Documents/2015/26c3559e-6a31-4456-a6eb-49116680b7ba_en.pdf http://www.iiroc.ca/Documents/2015/d011f225-ee61-4986-905c-df33317a3a52_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Owen Blagrave Menzel \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofOwenBlagraveMenzel-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-03"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/6bf2131a-225c-4a97-b4cf-f1dd5f62c1bb_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/a98561be-4111-4ad2-9c3e-919fa897524f_en.pdf http://www.iiroc.ca/Documents/2015/280d9a47-cd08-47a4-8111-51e80c0ce18d_en.pdf http://www.iiroc.ca/Documents/2015/65a50061-6ed6-4fa7-8f88-c59e1b888142_en.pdf http://www.iiroc.ca/Documents/2015/6bf2131a-225c-4a97-b4cf-f1dd5f62c1bb_en.pdf http://www.iiroc.ca/Documents/2015/16c164da-ffb6-47f3-a46f-560ca7deafb9_en.pdf http://www.iiroc.ca/Documents/2014/2db0d689-09ca-4d6f-a4b9-aae4d4cd769b_en.pdf http://www.iiroc.ca/Documents/2014/44b32ab3-de99-4bb8-9780-d94ebeeafac4_en.pdf http://www.iiroc.ca/Documents/2014/7033c5a3-2110-47e3-9f55-1f928ce29eb1_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Donald Earl Phillips \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofDonaldEarlPhillips-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-02-02"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/df7eb743-f1f7-4fe9-b0d0-ce065f11f14a_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7b1cb858-1310-460f-afbc-d379af422dc7_en.pdf http://www.iiroc.ca/Documents/2015/e332128c-2898-4286-a982-2094d20a8529_en.pdf http://www.iiroc.ca/Documents/2015/82bc2853-752d-4487-bd38-5939b0d585b0_en.pdf http://www.iiroc.ca/Documents/2015/ba051793-0ea7-4605-8567-402f54562fe1_en.pdf http://www.iiroc.ca/Documents/2015/14413331-fa61-4171-8334-6485028f2e42_en.pdf http://www.iiroc.ca/Documents/2015/df7eb743-f1f7-4fe9-b0d0-ce065f11f14a_en.pdf http://www.iiroc.ca/Documents/2014/1ad30624-56fc-480a-9c7f-00cb86525f19_en.pdf http://www.iiroc.ca/Documents/2014/47264c3e-fb39-420c-9163-8ba0e9525b5a_en.pdf http://www.iiroc.ca/Documents/2014/4fb5fd0b-5896-45b6-8762-8c0a235d791a_en.pdf http://www.iiroc.ca/Documents/2014/f6bf7d7f-358d-4bbb-8bf8-fa62a8bc9d74_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Steve Duchaine \u2013 Discipline Decision \u2013 Liability",
+    "_meta": {
+        "id": "IntheMatterofSteveDuchaine-DisciplineDecision-Liability",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-30"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/2c33fc2b-98a4-493f-b654-ff493fcda927_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/74d12936-c16e-4ca6-b6bc-b3ccec2a2e00_en.pdf http://www.iiroc.ca/Documents/2015/3461746d-419f-465a-b00e-dca260f2ec65_en.pdf http://www.iiroc.ca/Documents/2015/37b573f1-1a47-46a5-988d-aa08417ba7c2_en.pdf http://www.iiroc.ca/Documents/2015/2c33fc2b-98a4-493f-b654-ff493fcda927_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Krishna Sammy \u2013 Appearance to set a hearing date",
+    "_meta": {
+        "id": "IntheMatterofKrishnaSammy-Appearancetosetahearingdate",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-26"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/29ad860e-ccd5-4412-806a-628bf58664bd_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/a103f67e-26b9-4c37-bfc3-e7fad18f3a5b_en.pdf http://www.iiroc.ca/Documents/2015/29ad860e-ccd5-4412-806a-628bf58664bd_en.pdf http://www.iiroc.ca/Documents/2014/73c6d218-d8cf-442d-9158-93dc303faf10_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Grant Patrick Matthews \u2013 Penalty Decision",
+    "_meta": {
+        "id": "IntheMatterofGrantPatrickMatthews-PenaltyDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/16c164da-ffb6-47f3-a46f-560ca7deafb9_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/a98561be-4111-4ad2-9c3e-919fa897524f_en.pdf http://www.iiroc.ca/Documents/2015/280d9a47-cd08-47a4-8111-51e80c0ce18d_en.pdf http://www.iiroc.ca/Documents/2015/65a50061-6ed6-4fa7-8f88-c59e1b888142_en.pdf http://www.iiroc.ca/Documents/2015/6bf2131a-225c-4a97-b4cf-f1dd5f62c1bb_en.pdf http://www.iiroc.ca/Documents/2015/16c164da-ffb6-47f3-a46f-560ca7deafb9_en.pdf http://www.iiroc.ca/Documents/2014/2db0d689-09ca-4d6f-a4b9-aae4d4cd769b_en.pdf http://www.iiroc.ca/Documents/2014/44b32ab3-de99-4bb8-9780-d94ebeeafac4_en.pdf http://www.iiroc.ca/Documents/2014/7033c5a3-2110-47e3-9f55-1f928ce29eb1_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Donald Earl Phillips \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofDonaldEarlPhillips-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-23"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/79873508-677a-48c2-8b78-3d6da9bd50ea_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/fbc9796b-ad7a-48e8-8f97-57dd7d2d2495_en.pdf http://www.iiroc.ca/Documents/2015/ede994fa-d159-4e5f-9215-043d5b8bf61d_en.pdf http://www.iiroc.ca/Documents/2015/79873508-677a-48c2-8b78-3d6da9bd50ea_en.pdf http://www.iiroc.ca/Documents/2014/42d41c63-6e3a-4d73-b81d-9c58b1f4b8b7_en.pdf http://www.iiroc.ca/Documents/2014/83d470ff-8c4b-40ab-a5e3-cb3ac853b230_en.pdf http://www.iiroc.ca/Documents/2014/8c6068f9-0b65-4439-a000-770158af390b_en.pdf http://www.iiroc.ca/Documents/2014/6d35f426-db99-4087-8137-498beee0f4c3_en.pdf http://www.iiroc.ca/Documents/2014/239398da-ee8a-413d-a821-0167c419123d_en.pdf http://www.iiroc.ca/Documents/2014/7177f2e9-02a3-4b02-8228-affa2fa19d5d_en.pdf http://www.iiroc.ca/Documents/2014/63cd8fe2-7c19-4127-b8a9-ce52adcd6214_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul Christopher Darrigo \u2013 Penalty Decision",
+    "_meta": {
+        "id": "IntheMatterofPaulChristopherDarrigo-PenaltyDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-22"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/9b475eac-9d37-4f58-a6d3-bf815e454ff0_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/d60ac4ef-e9a7-4d4c-afee-751b5f0b549e_en.pdf http://www.iiroc.ca/Documents/2015/9b475eac-9d37-4f58-a6d3-bf815e454ff0_en.pdf http://www.iiroc.ca/Documents/2014/be1fb941-d22f-4b1d-aa53-1628b44c4bd3_en.pdf http://www.iiroc.ca/Documents/2014/7fa2081c-7db5-4768-b540-48cfd7c892ee_en.pdf http://www.iiroc.ca/Documents/2014/d0278fe3-4123-43fd-858a-d3651ac15da8_en.pdf http://www.iiroc.ca/Documents/2014/5214085b-5113-449e-a43a-800848a7a377_en.pdf http://www.iiroc.ca/Documents/2014/eebaf22a-5c02-462c-a8f6-3a419ff184c6_en.pdf http://www.iiroc.ca/Documents/2014/f7f60224-f0cd-4034-a350-c72ef5875692_en.pdf http://www.iiroc.ca/Documents/2013/61dcce66-b374-4613-8ea4-746fe83d9a36_en.pdf http://www.iiroc.ca/Documents/2013/a97eb127-2137-4b8b-9cb7-6bb6794d57b7_en.pdf"
+        }
+    ],
+    "name": "In the Matter of David Guy Schayes \u2013 Penalty Decision",
+    "_meta": {
+        "id": "IntheMatterofDavidGuySchayes-PenaltyDecision",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-22"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/bc9c63d9-2484-4013-a583-a4d579a43d9e_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/e6e266d5-c399-49a1-b6d5-2f930d44ae10_en.pdf http://www.iiroc.ca/Documents/2015/0d0a3f08-34a4-462a-97d1-616a261f29f0_en.pdf http://www.iiroc.ca/Documents/2015/8ceeefc6-9c9d-4d01-81df-9caa303607d8_en.pdf http://www.iiroc.ca/Documents/2015/bc9c63d9-2484-4013-a583-a4d579a43d9e_en.pdf http://www.iiroc.ca/Documents/2015/0faa6aba-bb1b-41aa-93f8-2872e7bbadba_en.pdf http://www.iiroc.ca/Documents/2014/4805ff84-4a47-4a96-813a-22242d946722_en.pdf http://www.iiroc.ca/Documents/2014/917b2463-e20e-4954-b901-f8a16dc7951f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Glenn Arthur Taggart \u2013 Order",
+    "_meta": {
+        "id": "IntheMatterofGlennArthurTaggart-Order",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-22"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/0faa6aba-bb1b-41aa-93f8-2872e7bbadba_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/e6e266d5-c399-49a1-b6d5-2f930d44ae10_en.pdf http://www.iiroc.ca/Documents/2015/0d0a3f08-34a4-462a-97d1-616a261f29f0_en.pdf http://www.iiroc.ca/Documents/2015/8ceeefc6-9c9d-4d01-81df-9caa303607d8_en.pdf http://www.iiroc.ca/Documents/2015/bc9c63d9-2484-4013-a583-a4d579a43d9e_en.pdf http://www.iiroc.ca/Documents/2015/0faa6aba-bb1b-41aa-93f8-2872e7bbadba_en.pdf http://www.iiroc.ca/Documents/2014/4805ff84-4a47-4a96-813a-22242d946722_en.pdf http://www.iiroc.ca/Documents/2014/917b2463-e20e-4954-b901-f8a16dc7951f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Glenn Arthur Taggart\u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofGlennArthurTaggart-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-15"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/de8e595a-ec72-4f7b-9ab8-99805482c182_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/2749b5ad-9109-400e-9c84-6201b2d25cd0_en.pdf http://www.iiroc.ca/Documents/2015/ae62da08-f2ed-4e68-b58c-fe7da13a5e63_en.pdf http://www.iiroc.ca/Documents/2015/fd8c8911-0900-4359-8430-5198bca9eb3d_en.pdf http://www.iiroc.ca/Documents/2015/de8e595a-ec72-4f7b-9ab8-99805482c182_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Douglas Terrence Steer \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofDouglasTerrenceSteer-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-15"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/7c7e1f6a-6aec-4e0d-baee-a254153622d8_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/aae16eeb-4b5b-4362-8ed9-db11d2be4c85_en.pdf http://www.iiroc.ca/Documents/2015/609549b6-1ff5-427d-8fa0-1ea165c27c8e_en.pdf http://www.iiroc.ca/Documents/2015/c2b9e22f-5e53-45d2-9d57-8627aa59ccd2_en.pdf http://www.iiroc.ca/Documents/2015/485ead73-a584-40ed-a887-99a82aa94314_en.pdf http://www.iiroc.ca/Documents/2015/f0b1cd03-5551-46b7-818b-8cabf0ce199f_en.pdf http://www.iiroc.ca/Documents/2015/7c7e1f6a-6aec-4e0d-baee-a254153622d8_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Thomas William Dunn and Gordon Joseph Wimble \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofThomasWilliamDunnandGordonJosephWimble-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-14"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/0b69a8aa-6aae-486d-96fe-850b5b2dbb9f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/78107563-c79a-4d98-ba18-8a9d12535de7_en.pdf http://www.iiroc.ca/Documents/2015/e0a076d4-b0ba-4071-906e-df68a5a1bca0_en.pdf http://www.iiroc.ca/Documents/2015/3516d97f-9a04-4c73-9bfc-931a561c7b76_en.pdf http://www.iiroc.ca/Documents/2015/0b69a8aa-6aae-486d-96fe-850b5b2dbb9f_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Kelly Richard Jones \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofKellyRichardJones-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/26218a13-8e39-47dd-9802-622dd7b63a2f_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2010/0F74997B-BA96-47A3-A8EB-3BD3F1B994DB_en.pdf http://www.iiroc.ca/Documents/2010/1FEC409D-AD6C-4B52-892B-F41B6C87BD98_en.pdf http://www.iiroc.ca/Documents/2010/2CF8C736-3D4E-4245-8A3A-82A7D988B396_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Robert James Lewis \u2013 Discipline Hearing",
+    "_meta": {
+        "id": "IntheMatterofRobertJamesLewis-DisciplineHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-07"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/d011f225-ee61-4986-905c-df33317a3a52_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/b166e020-2569-4fb4-9500-32e300b01c8c_en.pdf http://www.iiroc.ca/Documents/2015/c7817c77-29b3-4c8b-8064-ebc1e0867adc_en.pdf http://www.iiroc.ca/Documents/2015/26c3559e-6a31-4456-a6eb-49116680b7ba_en.pdf http://www.iiroc.ca/Documents/2015/d011f225-ee61-4986-905c-df33317a3a52_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Owen Blagrave Menzel \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofOwenBlagraveMenzel-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2015-01-06"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2015/7390d55d-e6a7-4738-b9d2-51ecd8b1b83c_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/7f9e218d-4e92-4733-a36c-ae2bfb49e432_en.pdf http://www.iiroc.ca/Documents/2015/3be42aa1-8cb5-4254-8aed-7f809ae4302f_en.pdf http://www.iiroc.ca/Documents/2015/7390d55d-e6a7-4738-b9d2-51ecd8b1b83c_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Hugo Michel Nicolas Kotar \u2013 Settlement Hearing",
+    "_meta": {
+        "id": "IntheMatterofHugoMichelNicolasKotar-SettlementHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2014-12-17"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2014/a3561299-1ec4-41c4-a97e-46c73e6fd13b_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2014/9bbd2908-77f4-4beb-8487-21cc81483276_en.pdf http://www.iiroc.ca/Documents/2014/a3561299-1ec4-41c4-a97e-46c73e6fd13b_en.pdf http://www.iiroc.ca/Documents/2014/ecefb89e-73f5-4c6a-bc0d-ee74ab25b7c5_en.pdf http://www.iiroc.ca/Documents/2014/7974b9b1-5914-49af-80be-9d8ca795e26c_en.pdf"
+        }
+    ],
+    "name": "In the Matter of John Phillip Watts and Sean Thomas Hickey \u2013 Order and Adjournment",
+    "_meta": {
+        "id": "IntheMatterofJohnPhillipWattsandSeanThomasHickey-OrderandAdjournment",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2014-12-12"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2014/42d41c63-6e3a-4d73-b81d-9c58b1f4b8b7_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2016/fbc9796b-ad7a-48e8-8f97-57dd7d2d2495_en.pdf http://www.iiroc.ca/Documents/2015/ede994fa-d159-4e5f-9215-043d5b8bf61d_en.pdf http://www.iiroc.ca/Documents/2015/79873508-677a-48c2-8b78-3d6da9bd50ea_en.pdf http://www.iiroc.ca/Documents/2014/42d41c63-6e3a-4d73-b81d-9c58b1f4b8b7_en.pdf http://www.iiroc.ca/Documents/2014/83d470ff-8c4b-40ab-a5e3-cb3ac853b230_en.pdf http://www.iiroc.ca/Documents/2014/8c6068f9-0b65-4439-a000-770158af390b_en.pdf http://www.iiroc.ca/Documents/2014/6d35f426-db99-4087-8137-498beee0f4c3_en.pdf http://www.iiroc.ca/Documents/2014/239398da-ee8a-413d-a821-0167c419123d_en.pdf http://www.iiroc.ca/Documents/2014/7177f2e9-02a3-4b02-8228-affa2fa19d5d_en.pdf http://www.iiroc.ca/Documents/2014/63cd8fe2-7c19-4127-b8a9-ce52adcd6214_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul Christopher Darrigo \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofPaulChristopherDarrigo-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2014-12-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2014/43678c4f-1573-42b3-b480-8e94aabc8ac0_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2014/55d71075-6d6d-4b68-aa69-00e50c378ca4_en.pdf http://www.iiroc.ca/Documents/2014/43678c4f-1573-42b3-b480-8e94aabc8ac0_en.pdf http://www.iiroc.ca/Documents/2014/46686a11-dbba-4369-9b6f-5046a19504bf_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Paul Milot \u2013 Settlement Accepted",
+    "_meta": {
+        "id": "IntheMatterofPaulMilot-SettlementAccepted",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2014-12-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2014/73c6d218-d8cf-442d-9158-93dc303faf10_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2015/a103f67e-26b9-4c37-bfc3-e7fad18f3a5b_en.pdf http://www.iiroc.ca/Documents/2015/29ad860e-ccd5-4412-806a-628bf58664bd_en.pdf http://www.iiroc.ca/Documents/2014/73c6d218-d8cf-442d-9158-93dc303faf10_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Grant Patrick Matthews \u2013 Discipline decision - Liability",
+    "_meta": {
+        "id": "IntheMatterofGrantPatrickMatthews-Disciplinedecision-Liability",
+        "entity_type": "company"
+    }
+}
+=============================
+
+{
+    "fields": [
+        {
+            "name": "Release date",
+            "value": "2014-12-08"
+        },
+        {
+            "tag": "url",
+            "value": "http://www.iiroc.ca/Documents/2014/bd91fc83-aed0-4e29-b43d-27e3fc5d4424_en.pdf"
+        },
+        {
+            "name": "Related documents",
+            "value": "http://www.iiroc.ca/Documents/2014/e3ccca84-6880-43eb-b502-18e0c0801c75_en.pdf http://www.iiroc.ca/Documents/2014/bd91fc83-aed0-4e29-b43d-27e3fc5d4424_en.pdf http://www.iiroc.ca/Documents/2014/be0a68c3-a344-4a74-834a-39f8e2a7d560_en.pdf http://www.iiroc.ca/Documents/2014/5e35ee7b-0a06-4618-a4f3-b90971a9ef33_en.pdf http://www.iiroc.ca/Documents/2014/12257a7a-79d4-4168-b4e5-0b8e3259ed66_en.pdf"
+        }
+    ],
+    "name": "In the Matter of Grant Patrick Matthews \u2013 Penalty Hearing",
+    "_meta": {
+        "id": "IntheMatterofGrantPatrickMatthews-PenaltyHearing",
+        "entity_type": "company"
+    }
+}
+=============================
