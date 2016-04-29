@@ -91,72 +91,76 @@ def _generate_entities():
         i += 2
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url[1]), "html.parser")
-    table = doc.find('table', {'bgcolor': '#84BD00'})
-    tr = table.find_all('tr')
-    i = 1
+    tr = doc.find_all('tr')
+    i = 0
     while i < len(tr):
-        td=tr[i].find_all('td')
-        name = _get_name(td[1].get_text().strip())
-        type_personal = td[2].get_text().strip()
         try:
-            url = td[3].find('a')['href']
-        except TypeError:
-            url = ''
-        summarized_facts = td[4].get_text().strip()
-        administrative_orders = td[5].get_text().strip()
-        effective_date = td[6].get_text().strip()
-
-        fields = [{"name": "Type of Personal", "value": type_personal},
-                  {"name": "Press Release", "value": url},
-                  {"name": "Date of Complaint Filing", "value": date_filing},
-                  {"name": "Administrative Orders", "value": administrative_orders},
-                  {"name": "Summarized Facts", "value": summarized_facts},
-                  {"name": "Effective Date", "value": effective_date},
-        ]
-
-        yield {
-            "_meta": {
-                "id": helpers.make_id(name),
-                "entity_type": "company"
-            },
-            "fields": fields,
-            "name": name,
-        }
-        i += 2
+            td=tr[i].find_all('td')
+            name = _get_name(td[1].get_text().strip())
+            type_personal = td[2].get_text().strip()
+            try:
+                url = td[3].find('a')['href']
+            except TypeError:
+                url = ''
+            summarized_facts = td[4].get_text().strip()
+            administrative_orders = td[5].get_text().strip()
+            effective_date = td[6].get_text().strip()
+      
+            fields = [{"name": "Type of Personal", "value": type_personal},
+                      {"name": "Press Release", "value": url},
+                      {"name": "Date of Complaint Filing", "value": date_filing},
+                      {"name": "Administrative Orders", "value": administrative_orders},
+                      {"name": "Summarized Facts", "value": summarized_facts},
+                      {"name": "Effective Date", "value": effective_date},
+            ]
+      
+            yield {
+                "_meta": {
+                    "id": helpers.make_id(name),
+                    "entity_type": "company"
+                },
+                "fields": fields,
+                "name": name,
+            }
+            i += 2
+        except:
+            i += 1
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url[2]), "html.parser")
-    table = doc.find('table', {'bgcolor': '#84BD00'})
-    tr = table.find_all('tr')
-    i = 1
+    tr = doc.find_all('tr')
+    i = 0
     while i < len(tr):
-        td=tr[i].find_all('td')
-        name = _get_name(td[3].get_text().strip())
-        sanction = _get_date(td[1].get_text().strip())
-        summarized_facts = td[7].get_text().strip()
-        nomer = td[2].get_text().strip()
-        types_business = td[4].get_text().strip()
-        relevant_law = td[5].get_text().strip()
-        section = td[6].get_text().strip()
-        baht = td[10].get_text().strip()
-
-        fields = [{"name": "Date of Imposing the Administrative Sanction", "value": sanction},
-                  {"name": "Types of Business", "value": types_business},
-                  {"name": "Summarized Facts", "value": summarized_facts},
-                  {"name": "Order Number", "value": nomer},
-                  {"name": "Relevant Law", "value": relevant_law},
-                  {"name": "Section", "value": section},
-                  {"name": "Amount of Fines (Baht)", "value": baht},
-        ]
-
-        yield {
-            "_meta": {
-                "id": helpers.make_id(name),
-                "entity_type": "company"
-            },
-            "fields": fields,
-            "name": name,
-        }
-        i += 2
+        try:
+            td=tr[i].find_all('td')
+            name = _get_name(td[3].get_text().strip())
+            sanction = _get_date(td[1].get_text().strip())
+            summarized_facts = td[7].get_text().strip()
+            nomer = td[2].get_text().strip()
+            types_business = td[4].get_text().strip()
+            relevant_law = td[5].get_text().strip()
+            section = td[6].get_text().strip()
+            baht = td[10].get_text().strip()
+    
+            fields = [{"name": "Date of Imposing the Administrative Sanction", "value": sanction},
+                      {"name": "Types of Business", "value": types_business},
+                      {"name": "Summarized Facts", "value": summarized_facts},
+                      {"name": "Order Number", "value": nomer},
+                      {"name": "Relevant Law", "value": relevant_law},
+                      {"name": "Section", "value": section},
+                      {"name": "Amount of Fines (Baht)", "value": baht},
+            ]
+    
+            yield {
+                "_meta": {
+                    "id": helpers.make_id(name),
+                    "entity_type": "company"
+                },
+                "fields": fields,
+                "name": name,
+            }
+            i += 2
+        except:
+            i += 1
 
 
 def main():
