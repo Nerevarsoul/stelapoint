@@ -114,9 +114,13 @@ def _generate_entities():
                       {"name": "Effective Date", "value": effective_date},
             ]
       
+            my_id = helpers.make_id(name)
+            if len(my_id) > 99:
+                my_id = my_id[:99]
+            
             yield {
                 "_meta": {
-                    "id": helpers.make_id(name),
+                    "id": my_id,
                     "entity_type": "company"
                 },
                 "fields": fields,
@@ -149,10 +153,14 @@ def _generate_entities():
                       {"name": "Section", "value": section},
                       {"name": "Amount of Fines (Baht)", "value": baht},
             ]
+            
+            my_id = helpers.make_id(name)
+            if len(my_id) > 99:
+                my_id = my_id[:99]
     
             yield {
                 "_meta": {
-                    "id": helpers.make_id(name),
+                    "id": my_id,
                     "entity_type": "company"
                 },
                 "fields": fields,
