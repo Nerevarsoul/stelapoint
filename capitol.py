@@ -10,6 +10,18 @@ _base_url = ("http://capital.sec.or.th/webapp/enforce/recent_enforce_query_eng.p
              "http://capital.sec.or.th/webapp/enforce/admsanc_dvact_queryeng_p2.php?cmbbuss_type=all&cmbcsd_code=all&query_type=M&txtStartDate=&txtEndDate=&txtsanction_name=&content_id=5")
 
 
+def _get_name(name):
+    name = name.replace('Mrs. ', '')
+    name = name.replace('Mr. ', '')
+    name = " ".join([name.capitalize() for name in name.split()])
+    return name
+
+
+def _get_date(old_date):
+    old_date = datetime.strptime(old_date, '%d/%m/%Y')
+    return old_date.strftime('%Y-%m-%d')
+
+
 def _generate_entities():
     """for each scrapable page, yield an entity"""
 
@@ -21,9 +33,12 @@ def _generate_entities():
     i = 1
     while i < len(tr):
         td = tr[i].find_all('td')
-        name = td[2].get_text().strip()
-        date_filing = td[1].get_text().strip()
-        url = td[6].find('a')['href']
+        name = _get_name(td[2].get_text().strip())
+        date_filing = _get_date(td[1].get_text().strip())
+        try:
+            url = td[6].find('a')['href']
+        except TypeError:
+            url = ''
         summarized_facts = td[5].get_text().strip()
 
         fields = [{"name": "Summarized Facts", "value": summarized_facts},
@@ -44,9 +59,12 @@ def _generate_entities():
     i = 1
     while i < len(tr):
         td = tr[i].find_all('td')
-        name = td[4].get_text().strip()
-        date_filing = td[1].get_text().strip()
-        url = td[8].find('a')['href']
+        name = _get_name(td[4].get_text().strip())
+        date_filing = _get_date(td[1].get_text().strip())
+        try:
+            url = td[8].find('a')['href']
+        except TypeError:
+            url = ''
         summarized_facts = td[7].get_text().strip()
         baht = td[9].get_text().strip()
         section = td[5].get_text().strip()
@@ -74,9 +92,71 @@ def _generate_entities():
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url[1]), "html.parser")
     table = form.find('table', {'bgcolor': '#84BD00'})
-    
+    tr = table.find_all('tr')
+    i = 1
+    while i < len(tr):
+        td=tr[i].find_all('td')
+        name = _get_name(td[1].get_text().strip())
+        type_personal = td[2].get_text().strip()
+        try:
+            url = td[3].find('a')['href']
+        except TypeError:
+            url = ''
+        summarized_facts = td[4].get_text().strip()
+        administrative_orders = td[5].get_text().strip()
+        effective_date = td[6].get_text().strip()
 
+        fields = [{"name": "Type of Personal", "value": type_personal},
+                  {"name": "Press Release", "value": url},
+                  {"name": "Date of Complaint Filing", "value": date_filing},
+                  {"name": "Administrative Orders", "value": administrative_orders},
+                  {"name": "Summarized Facts", "value": summarized_facts},
+                  {"name": "Effective Date", "value": effective_date},
+        ]
 
+        yield {
+            "_meta": {
+                "id": helpers.make_id(name),
+                "entity_type": "company"
+            },
+            "fields": fields,
+            "name": name,
+        }
+        i += 2
+
+    doc = BeautifulSoup(helpers.fetch_string(_base_url[2]), "html.parser")
+    table = form.find('table', {'bgcolor': '#84BD00'})
+    tr = table.find_all('tr')
+    i = 1
+    while i < len(tr):
+        td=tr[i].find_all('td')
+        name = _get_name(td[3].get_text().strip())
+        sanction = _get_date(td[1].get_text().strip())
+        summarized_facts = td[7].get_text().strip()
+        nomer = td[2].get_text().strip()
+        types_business = td[4].get_text().strip()
+        relevant_law = td[5].get_text().strip()
+        section = td[6].get_text().strip()
+        baht = td[10].get_text().strip()
+
+        fields = [{"name": "Date of Imposing the Administrative Sanction", "value": sanction},
+                  {"name": "Types of Business", "value": types_business},
+                  {"name": "Summarized Facts", "value": summarized_facts},
+                  {"name": "Order Number", "value": nomer},
+                  {"name": "Relevant Law", "value": relevant_law},
+                  {"name": "Section", "value": section},
+                  {"name": "Amount of Fines (Baht)", "value": baht},
+        ]
+
+        yield {
+            "_meta": {
+                "id": helpers.make_id(name),
+                "entity_type": "company"
+            },
+            "fields": fields,
+            "name": name,
+        }
+        i += 2
 
 
 def main():
