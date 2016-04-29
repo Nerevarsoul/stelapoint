@@ -91,7 +91,7 @@ def _generate_entities():
         i += 2
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url[1]), "html.parser")
-    table = form.find('table', {'bgcolor': '#84BD00'})
+    table = doc.find('table', {'bgcolor': '#84BD00'})
     tr = table.find_all('tr')
     i = 1
     while i < len(tr):
@@ -125,7 +125,7 @@ def _generate_entities():
         i += 2
 
     doc = BeautifulSoup(helpers.fetch_string(_base_url[2]), "html.parser")
-    table = form.find('table', {'bgcolor': '#84BD00'})
+    table = doc.find('table', {'bgcolor': '#84BD00'})
     tr = table.find_all('tr')
     i = 1
     while i < len(tr):
