@@ -31,31 +31,41 @@ def _get_scrape_urls():
 def _generate_entities():
     """for each scrapable page, yield an entity"""
     for url in _get_scrape_urls():
-        doc = BeautifulSoup(helpers.fetch_string(_base_url), "html.parser")
+        doc = BeautifulSoup(helpers.fetch_string(url), "html.parser")
         lis = doc.find_all("li", class_="card card--horizontal")
         for li in lis:
              name = get_name(li.find("span", class_="card__name").get_text())
-             mydate = get_date(li.find("span", class_="card__date").get_text())
+             
+             try: 
+                 mydate = get_date(li.find("span", class_="card__date").get_text())
+             except AttributeError:
+                 mydate = '' 
+             
              try:  
                  place = li.find("span", class_="card__place").get_text()
              except AttributeError:
                  place = ""
-             entity_url = urljoin(_entity_base_url, li.find("a", class_="card__box")["href"])
+
              picture_url = urljoin(_site_url, li.find("img")["src"])
 
-             doc2 = BeautifulSoup(helpers.fetch_string(entity_url), "html.parser")
-             div = doc2.find("div", class_="article__text")
-             ps = div.find_all("p")       
-             header = ps[0].get_text().strip()
-             text = ' '.join([p.get_text().strip() for p in ps[1:]])
-
              fields = [
-                 {"name": "Date", "value": mydate},
-                 {"name": "Place", "value": place},
-                 {"tag": "url", "value": entity_url},
-                 {"tag": "picture_url", "value": picture_url},
-                 {"name": header, "value": text},
+                  {"name": "Date", "value": mydate},
+                  {"name": "Place", "value": place},
+                  {"tag": "picture_url", "value": picture_url},
              ]
+
+             try:
+                 entity_url = urljoin(_entity_base_url, li.find("a", class_="card__box")["href"])
+                 doc2 = BeautifulSoup(helpers.fetch_string(entity_url), "html.parser")
+                 div = doc2.find("div", class_="article__text")
+                 ps = div.find_all("p")       
+                 header = ps[0].get_text().strip()
+                 text = ' '.join([p.get_text().strip() for p in ps[1:]])
+                 fields.append({"name": header, "value": text}) 
+             except TypeError:
+                 entity_url = ''
+
+             fields.append({"tag": "url", "value": entity_url}) 
 
              yield {
                  "_meta": {
